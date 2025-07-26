@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="900" height="750" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" font-size="12" xmlns:bx="https://boxy-svg.com">
+  <style>.label { font-size: 12px; font-weight: bold; fill: rgb(51, 51, 51); text-anchor: middle; }
+.sub-label { font-size: 10px; fill: rgb(85, 85, 85); text-anchor: middle; }
+.shape { stroke: rgb(0, 0, 0); stroke-width: 1.5; fill: rgb(255, 255, 255); }
+.grain-label { font-size: 11px; font-style: italic; fill: rgb(0, 100, 0); text-anchor: middle; }
+.dir-label { font-size: 14px; font-weight: bold; fill: rgb(150, 150, 150); text-anchor: middle; }</style>
+  <rect x="0" y="0" width="900" height="750" fill="#f9f9f9"/>
+  <text x="450" y="30" class="dir-label" style="white-space: pre;">EAST</text>
+  <text class="dir-label" style="white-space: pre;" x="450" y="730">WEST</text>
+  <text x="870" y="375" class="dir-label" transform="rotate(90, 870, 375)" style="white-space: pre;">SOUTH</text>
+  <text x="30" y="375" class="dir-label" transform="rotate(-90, 30, 375)" style="white-space: pre;">NORTH</text>
+  <g id="g1" transform="matrix(1, 0, 0, 1, 18.436592, -0.660883)">
+    <title>G1: Sun (Surya) - Sense of will power</title>
+    <circle cx="450" cy="375" r="50" class="shape" style="fill: rgb(214, 176, 118);"/>
+    <text class="label" style="fill: rgb(236, 233, 228); white-space: pre;" x="450" y="378">Sun</text>
+    <text class="grain-label" style="fill: rgb(214, 176, 118); white-space: pre;" x="450" y="440">Wheat</text>
+  </g>
+  <g id="g1a" transform="matrix(1, 0, 0, 1, 17.179552, 16.671967)">
+    <title>G1A: Agni (Ruling Deity of Sun)</title>
+    <circle cx="520" cy="360" r="10" class="shape"/>
+    <text x="520" y="364" class="sub-label" style="white-space: pre;">G1A</text>
+  </g>
+  <g id="g1p" transform="matrix(1, 0, 0, 1, 18.034613, 15.82372)">
+    <title>G1P: Rudra (Co-ruling Deity of Sun)</title>
+    <circle cx="380" cy="360" r="10" class="shape"/>
+    <text x="380" y="364" class="sub-label" style="white-space: pre;">G1P</text>
+  </g>
+  <g id="g2" style="" transform="matrix(1.190827, 0, 0, 1.202772, -132.517838, -39.801788)">
+    <title>G2: Moon (Chandra) - Sense of experiencing the world</title>
+    <rect x="670" y="160" width="60" height="60" class="shape"/>
+    <text x="700" y="193" class="label" style="white-space: pre;">Moon</text>
+    <text x="700" y="235" class="grain-label" style="white-space: pre;">Rice</text>
+  </g>
+  <g id="g2a">
+    <title>G2A: Apas (Ruling Deity of Moon)</title>
+    <circle cx="750" cy="190" r="10" class="shape"/>
+    <text x="750" y="194" class="sub-label" style="white-space: pre;">G2A</text>
+  </g>
+  <g id="g2p">
+    <title>G2P: Gouri (Co-ruling Deity of Moon)</title>
+    <circle cx="650" cy="190" r="10" class="shape"/>
+    <text x="650" y="194" class="sub-label" style="white-space: pre;">G2P</text>
+  </g>
+  <g id="g3">
+    <title>G3: Mars (Mangala) - Sense of initiative &amp; energy</title>
+    <polygon points="663.675 414.433 767.668 414.433 715.672 325.165" class="shape" style="fill: rgb(223, 160, 127);"/>
+    <text class="label" style="fill: rgb(236, 227, 222); white-space: pre;" x="714.442" y="382.232">Mars</text>
+    <text class="grain-label" style="fill: rgb(223, 160, 127); white-space: pre;" x="710" y="435">Tur dal</text>
+  </g>
+  <g id="g3a" transform="matrix(1, 0, 0, 1, 4.636401, -14.944814)">
+    <title>G3A: Mother Earth (Ruling Deity of Mars)</title>
+    <circle cx="760" cy="385" r="10" class="shape"/>
+    <text x="760" y="389" class="sub-label" style="white-space: pre;">G3A</text>
+  </g>
+  <g id="g3p" transform="matrix(1, 0, 0, 1, 8.005541, -15.905478)">
+    <title>G3P: Ruler of lands (Co-ruling Deity of Mars)</title>
+    <circle cx="660" cy="385" r="10" class="shape"/>
+    <text x="660" y="389" class="sub-label" style="white-space: pre;">G3P</text>
+  </g>
+  <g id="g4">
+    <title>G4: Mercury (Budha) - sense of learning &amp;  adapting</title>
+    <polygon points="182.947 157.327 238.282 188.543 182.947 219.759 127.612 188.543" class="shape" style="stroke-width: 1.5; fill: rgb(147, 141, 39);"/>
+    <text class="label" style="fill: rgb(230, 220, 220); white-space: pre;" x="182.763" y="191.378">Mercury</text>
+    <text x="181.322" y="244.297" class="grain-label" style="white-space: pre; stroke-width: 1; font-size: 11px;">Green Mung Dal</text>
+  </g>
+  <g id="g4a" transform="matrix(1, 0, 0, 1, -17.237465, -1.621548)">
+    <title>G4A: Vishnu (Ruling Deity of Mercury)</title>
+    <circle cx="270" cy="190" r="10" class="shape"/>
+    <text x="270" y="194" class="sub-label" style="white-space: pre;">G4A</text>
+  </g>
+  <g id="g4p" transform="matrix(1, 0, 0, 1, -17.237465, -1.621548)">
+    <title>G4P: Narayana (Co-ruling Deity of Mercury)</title>
+    <circle cx="130" cy="190" r="10" class="shape"/>
+    <text x="130" y="194" class="sub-label" style="white-space: pre;">G4P</text>
+  </g>
+  <g id="g5" transform="matrix(1, 0, 0, 1, -19.312092, -4.724973)">
+    <title>G5: Jupiter (Brihaspati) - Sense of judgment &amp; discretion</title>
+    <rect x="150" y="350" width="60" height="60" class="shape" style="fill: rgb(116, 72, 40);"/>
+    <text class="label" style="fill: rgb(227, 214, 214); white-space: pre;" x="180" y="383">Jupiter</text>
+    <text x="180" y="425" class="grain-label" style="white-space: pre;">Chick peas</text>
+  </g>
+  <g id="g5a" transform="matrix(1, 0, 0, 1, -21.90793, -3.869913)">
+    <title>G5A: Brahma (Ruling Deity of Jupiter)</title>
+    <circle cx="230" cy="380" r="10" class="shape"/>
+    <text x="230" y="384" class="sub-label" style="white-space: pre;">G5A</text>
+  </g>
+  <g id="g5p" transform="matrix(1, 0, 0, 1, -19.312092, -4.724973)">
+    <title>G5P: Indra (Co-ruling Deity of Jupiter)</title>
+    <circle cx="130" cy="380" r="10" class="shape"/>
+    <text x="130" y="384" class="sub-label" style="white-space: pre;">G5P</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 10.911383, -1.376272)">
+    <title>G6: Venus (Shukra) - Sense of beauty &amp; aesthetics</title>
+     <g id="g6">
+      <title>G6: Venus (Shukra) - Sense of enjoyment</title>
+      <path d="M 449.849 144.947 L 499.362 176.796 L 480.45 228.328 L 419.248 228.328 L 400.336 176.796 Z" 
+        class="shape" 
+        style="fill: rgb(219, 199, 144); stroke: rgb(0, 0, 0); stroke-width: 1.5px;" />
+        <text style="font-family: Roboto; font-weight: 700; white-space: pre; font-size: 12px;" x="440.839" y="190.854">Venus</text>
+      <text x="180.151" y="250.762" class="grain-label" style="white-space: pre; stroke-width: 1; font-size: 12px;" transform="matrix(1, 0, 0, 0.753176, 274.235779, 60.460548)">Val Dal</text>
+      
+   </g>
+    <g id="g6a">
+      <title>G6A: Indrani (Ruling Deity of Venus)</title>
+      <circle cx="530" cy="190" r="10" class="shape"/>
+      <text x="530" y="194" class="sub-label" style="white-space: pre;">G6A</text>
+    </g>
+    <g id="g6p">
+      <title>G6P: Indra Marutvan (Co-ruling Deity of Venus)</title>
+      <circle cx="370" cy="190" r="10" class="shape"/>
+      <text x="370" y="194" class="sub-label" style="white-space: pre;">G6P</text>
+    </g>
+  </g>
+ 
+
+  <g id="g7" transform="matrix(1, 0, 0, 1, 21.178915, 0.63363)">
+    <title>G7: Saturn (Shani) - Sense of hard work &amp; discipline</title>
+    <path d="M 398.992 549.477 C 398.992 580.269 440.658 599.514 473.992 584.118 C 489.462 576.972 498.992 563.767 498.992 549.477 C 498.992 572.571 457.325 587.005 423.992 575.458 C 408.522 570.099 398.992 560.195 398.992 549.477" class="shape" style="fill: rgb(24, 24, 28);"/>
+    <text x="449.043" y="570.615" class="label" style="white-space: pre; font-size: 12px;">Saturn</text>
+    <text x="450" y="606.111" class="grain-label" style="white-space: pre; font-size: 11px;">Sesame</text>
+  </g>
+  <g id="g7a" transform="matrix(1, 0, 0, 1, 21.178915, 0.63363)">
+    <title>G7A: Yama (Ruling Deity of Saturn)</title>
+    <circle cx="520" cy="565" r="10" class="shape"/>
+    <text x="520" y="569" class="sub-label" style="white-space: pre;">G7A</text>
+  </g>
+  <g id="g7p" transform="matrix(1, 0, 0, 1, 21.178915, 0.63363)">
+    <title>G7P: Prajapati (Co-ruling Deity of Saturn)</title>
+    <circle cx="380" cy="565" r="10" class="shape"/>
+    <text x="380" y="569" class="sub-label" style="white-space: pre;">G7P</text>
+  </g>
+  <g id="g8">
+    <title>G8: Rahu - Sense of being outcaste</title>
+    <polygon points="670,520 740,520 720,580 690,580" class="shape" style="fill: rgb(123, 111, 95);"/>
+    <text class="label" style="fill: rgb(237, 226, 226); white-space: pre;" x="705" y="553">Rahu</text>
+    <text x="705" y="600" class="grain-label" style="white-space: pre;">Black gram</text>
+    <text x="705" y="612" class="grain-label" style="white-space: pre;">Urad dal</text>
+  </g>
+  <g id="g8a">
+    <title>G8A: Cow (Ruling Deity of Rahu)</title>
+    <circle cx="760" cy="550" r="10" class="shape"/>
+    <text x="760" y="554" class="sub-label" style="white-space: pre;">G8A</text>
+  </g>
+  <g id="g8p">
+    <title>G8P: Serpent (Co-ruling Deity of Rahu)</title>
+    <circle cx="650" cy="550" r="10" class="shape"/>
+    <text x="650" y="554" class="sub-label" style="white-space: pre;">G8P</text>
+  </g>
+  <g id="g9" transform="matrix(1, 0, 0, 1, -23.72857, -54.724973)">
+    <title>G9: Ketu - Sense of detachment &amp; liberation</title>
+    <polygon points="150,570 270,570 240,600 270,630 150,630" class="shape" style="fill: rgb(197, 157, 116); stroke: rgb(0, 0, 0); stroke-width: 1.5px;"/>
+    <text class="label" style="fill: rgb(227, 214, 214); white-space: pre;" x="210" y="603">Ketu</text>
+    <text x="200" y="650" class="grain-label" style="white-space: pre;">Masoor dal</text>
+  </g>
+  <g id="g9a" transform="matrix(1, 0, 0, 1, -18.572857, -4.724973)">
+    <title>G9A: Chitragupta (Ruling Deity of Ketu)</title>
+    <circle cx="270" cy="550" r="10" class="shape"/>
+    <text x="270" y="554" class="sub-label" style="white-space: pre;">G9A</text>
+  </g>
+  <g id="g9p" transform="matrix(1, 0, 0, 1, -18.572857, -4.724973)">
+    <title>G9P: Brahma (Co-ruling Deity of Ketu)</title>
+    <circle cx="130" cy="550" r="10" class="shape"/>
+    <text x="130" y="554" class="sub-label" style="white-space: pre;">G9P</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 25.614326, 1.965617)">
+    <title>K: Kalasha - Invocation of Lord Varuna, and later Lord Satya Narayana</title>
+    <circle cx="300" cy="375" r="50" class="shape"/>
+    <text x="300" y="378" class="label" style="white-space: pre;">Kalasam</text>
+    <text x="300" y="440" class="grain-label" style="white-space: pre;">Rice</text>
+  </g>
+  <g>
+    <title>LSN: Lord Satya Narayana - Main Deity</title>
+    <rect x="270" y="470" width="60" height="40" class="shape"/>
+    <text x="300" y="493" class="label" style="white-space: pre;">LSN</text>
+  </g>
+  <g>
+    <title>LG1: Lord Ganapathi - Remover of Obstacles</title>
+    <rect x="600" y="450" width="60" height="40" class="shape"/>
+    <text x="630" y="473" class="label" style="white-space: pre;">LG1</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -41.989918, 28.026209)">
+    <title>LG2: Lord Ganapathi - Remover of Obstacles</title>
+    <rect x="760" y="650" width="60" height="40" class="shape"/>
+    <text x="790" y="673" class="label" style="white-space: pre;">LG2</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 69.825348, 211.564331)">
+    <title>Lokapalakas: Rulers of the five elements</title>
+    <rect x="154.873" y="106.079" width="36.669" height="116.049" class="shape" style="stroke-width: 1.5;"/>
+    <text x="173.111" y="127.94" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L1</text>
+    <text x="173.058" y="147.713" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L2</text>
+    <text x="162.904" y="164.35" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L4</text>
+    <text x="184.14" y="164.081" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L3</text>
+    <text x="163.988" y="189.635" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L5</text>
+    <text x="183.447" y="189.503" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L6</text>
+    <text x="176.555" y="233.335" class="grain-label" style="white-space: pre; font-size: 11px; stroke-width: 1;">Rice</text>
+    <g id="l1">
+      <title>L1: Ganapathi (Earth element)</title>
+      <circle cx="280" cy="295" r="8" fill="transparent" class="shape"/>
+    </g>
+    <g id="l2">
+      <title>L2: Brahma (Air element)</title>
+      <circle cx="320" cy="295" r="8" fill="transparent" class="shape"/>
+    </g>
+    <g id="l3">
+      <title>L3: Mahalakshmi (Ether/space)</title>
+      <circle cx="320" cy="325" r="8" fill="transparent" class="shape"/>
+    </g>
+    <g id="l4">
+      <title>L4: Mahavishnu (Ether/space)</title>
+      <circle cx="280" cy="325" r="8" fill="transparent" class="shape"/>
+    </g>
+    <g id="l5">
+      <title>L5: Rudra (Fire element)</title>
+      <circle cx="280" cy="340" r="8" fill="transparent" class="shape"/>
+    </g>
+    <g id="l6">
+      <title>L6: Gouri (Water element)</title>
+      <circle cx="320" cy="340" r="8" fill="transparent" class="shape"/>
+    </g>
+  </g>
+  <text x="600" y="680" class="grain-label" style="white-space: pre;">All small circles</text>
+  <text x="600" y="695" class="grain-label" style="white-space: pre;">Rice</text>
+  <g>
+    <title>D1: Indra (East) - Influence/Authority</title>
+    <circle cx="450" cy="60" r="12" class="shape"/>
+    <text x="450" y="64" class="label" style="white-space: pre;">D1</text>
+  </g>
+  <g>
+    <title>D2: Agni (South-East) - Engineering/Transformation</title>
+    <circle cx="820" cy="60" r="12" class="shape"/>
+    <text x="820" y="64" class="label" style="white-space: pre;">D2</text>
+  </g>
+  <g>
+    <title>D3: Yama (South) - Rule enforcement</title>
+    <circle cx="820" cy="375" r="12" class="shape"/>
+    <text x="820" y="379" class="label" style="white-space: pre;">D3</text>
+  </g>
+  <g>
+    <title>D4: Nirriti (South-West) - Breaking barriers</title>
+    <circle cx="820" cy="690" r="12" class="shape"/>
+    <text x="820" y="694" class="label" style="white-space: pre;">D4</text>
+  </g>
+  <g>
+    <title>D5: Varuna (West) - Perseverent effort</title>
+    <circle cx="450" cy="690" r="12" class="shape"/>
+    <text x="450" y="694" class="label" style="white-space: pre;">D5</text>
+  </g>
+  <g>
+    <title>D6: Vayu (North-West) - Expansion</title>
+    <circle cx="80" cy="690" r="12" class="shape"/>
+    <text x="80" y="694" class="label" style="white-space: pre;">D6</text>
+  </g>
+  <g>
+    <title>D7: Soma Kubera (North) - Enrichment</title>
+    <circle cx="80" cy="375" r="12" class="shape"/>
+    <text x="80" y="379" class="label" style="white-space: pre;">D7</text>
+  </g>
+  <g>
+    <title>D8: Eeshana (North-East) - Wisdom</title>
+    <circle cx="80" cy="60" r="12" class="shape"/>
+    <text x="80" y="64" class="label" style="white-space: pre;">D8</text>
+  </g>
+  <g>
+    <title>D9: Brahma (Up) - Higher research</title>
+    <circle cx="280" cy="60" r="12" class="shape"/>
+    <text x="280" y="64" class="label" style="white-space: pre;">D9</text>
+  </g>
+  <g>
+    <title>D10: Ananta Sesha (Down) - Platform/Support</title>
+    <circle cx="680" cy="690" r="12" class="shape"/>
+    <text x="680" y="694" class="label" style="white-space: pre;">D10</text>
+  </g>
+
+  
+  <text class="label" style="white-space: pre; font-size: 12px; stroke-width: 1;" x="169.701" y="565.079">G9</text>
+  
+  
+</svg>
