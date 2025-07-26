@@ -1,0 +1,2220 @@
+{
+  "steps": [
+    {
+      "id": "step1",
+      "title": "Introduction",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This document outlines the regular version of the Sri Satya Narayana Vratam, a ritual taught by Lord Vishnu to Maharshi Narada to help human beings overcome strife in the Kali Yuga. It is suitable for both spiritual progress and material success. 'Satya' means truth, and Satya Narayana personifies all truths of the cosmos."
+        },
+        {
+          "type": "h3",
+          "text": "Common Misconceptions"
+        },
+        {
+          "type": "list",
+          "items": [
+            "<b>Women performing the Vratam alone:</b> Women can perform this ritual by themselves. Examples in the Skanda Purana show women doing the ritual when their husbands were absent.",
+            "<b>Need for a 'perfect' ritual:</b> It is better to perform a simple Vratam regularly than a complicated one rarely.",
+            "<b>Bad consequences for mistakes:</b> If a ritual is performed with a pure spirit and for pure purposes, there are no risks. Sincerity and love are paramount.",
+            "<b>Caste restrictions:</b> This Vratam can be performed by anyone, regardless of their varna (caste), which is determined by one's affinity, not just birth."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Correct Attitude"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is more important to surrender to God, let go of ego, and identify with the deity during the ritual. One should sincerely believe the Lord is present. Sincerity leads to better results, making minor errors irrelevant. Calming the mind before starting is beneficial."
+        }
+      ]
+    },
+    {
+      "id": "step2",
+      "title": "1. Materials",
+      "isChecklist": true,
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Idol of Lord Satya Narayana (or a symbolic object).",
+            "Akshatas (uncooked rice with oil & turmeric/kumkum).",
+            "Small lamp with wick and sesame oil/ghee.",
+            "Matchbox.",
+            "Sandalwood powder.",
+            "Tumbler/cup for water.",
+            "Spoon.",
+            "Kalasha (a pot).",
+            "Coconut or a fruit for the kalasham.",
+            "Sugandha Dravya (cardamom, cinnamon, camphor powder).",
+            "Incense sticks.",
+            "Flowers.",
+            "Food for offering (prasadam).",
+            "A full fruit (e.g., banana, apple).",
+            "Panchamrita ingredients: Milk, yogurt, honey, ghee, sugar.",
+            "Water.",
+            "43 dry dates.",
+            "43 pieces of betel nut.",
+            "43 coins.",
+            "Wooden plank or table (optional).",
+            "A piece of cloth (not black).",
+            "Navadhanyalu (nine grains). The list includes:<ul><li>Whole Moong (Green Gram)</li><li>White Lentils</li><li>Rice</li><li>Kala Chana (Black Chickpeas)</li><li>Whole Wheat</li><li>Whole Toor (Pigeon Peas)</li><li>Horse Gram</li><li>Black Sesame Seeds</li><li>Whole Urad (Black Gram)</li></ul>If unavailable, use only rice."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "step3",
+      "title": "2. Preparation",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Prepare food items to offer to God.",
+            "Fill the water tumbler.",
+            "Prepare the kalasha: Fill with water, mix in 'Sugandha Dravya', add akshatas.",
+            "Place the coconut/fruit on top of the kalasha.",
+            "Arrange the kalasha, idol, and grains in the pooja area.",
+            "Make a seat for yourself, ideally facing east.",
+            "Decorate the idol and kalasham.",
+            "Prepare Panchamrita by mixing its ingredients until homogeneous.",
+            "Do not eat for at least 1-2 hours before the ritual.",
+            "Take a bath before starting.",
+            "Mentally acknowledge Mother Earth, Lord Ganesha, your favorite deity, parents, and gurus."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "step4",
+      "title": "3. Aachamanam & Sankalpam",
+      "content": [
+        {
+          "type": "h4",
+          "text": "Aachamanam (Purification)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sipping water to purify. Take a little water with a spoon and drink it after saying each of the three mantras below. Imagine Vishnu within you is receiving the water."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ॐ केशवाय स्वाहा ।\nॐ नारायणाय स्वाहा ।\nॐ माधवाय स्वाहा ।",
+          "english": "Om Keshavaaya Swaahaa.\nOm Naaraayanaaya Swaahaa.\nOm Maadhavaaya Swaahaa.",
+          "telugu": "ఓం కేశవాయ స్వాహా.\nఓం నారాయణాయ స్వాహా.\nఓం మాధవాయ స్వాహా."
+        },
+        {
+          "type": "h4",
+          "text": "Sankalpam (The Vow)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Declare your intention to perform the vratam. Hold akshatas and say the following. Afterward, release the akshatas and light the lamp."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ॐ ममोपात्त समस्त दुरितक्षयद्वारा श्री परमेश्वर प्रीत्यर्थम् श्री सत्यनारायण प्रसाद सिद्धयर्थम् अद्य शुभदिने शुभमुहूर्ते श्री सत्यनारायण व्रतकर्म यथाशक्ति करिष्ये ।",
+          "english": "Om Mamopaatta Samasta Duritakshayadvaaraa Shree Parameshvara Preetyartham Shree Satyanarayana Prasaada Siddhyartham Adya Shubhadine Shubhamuhurte Shree Satyanarayana Vratakarma Yathaashakti Karishye.",
+          "telugu": "ఓం మమోపాత్త సమస్త దురితక్షయద్వారా శ్రీ పరమేశ్వర ప్రీత్యర్థం శ్రీ సత్యనారాయణ ప్రసాద సిద్ధ్యర్థం అద్య శుభదినే శుభముహూర్తే శ్రీ సత్యనారాయణ వ్రతకర్మ యథాశక్తి కరిష్యే."
+        }
+      ]
+    },
+    {
+      "id": "step5",
+      "title": "4. Vighneswara Smarana",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Remembering Ganesha, the remover of obstacles. Read the following verses and mentally pray to Ganesha to remove all obstacles from your ritual."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "शुक्लांबरधरं विष्णुं शशिवर्णं चतुर्भुजं ।\nप्रसन्नवदनं ध्यायेत् सर्व विघ्नोपशान्तये ॥\nवक्रतुंड महाकाय कोटिसूर्यसमप्रभ ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥",
+          "english": "Shuklaambaradharam Vishnum Shashivarnam Chaturbhujam |\nPrasannavadanam Dhyaayet Sarva Vighnopashaantaye ||\nVakratunda Mahaakaaya Kotisuryasamaprabha |\nNirvighnam Kuru Me Deva Sarvakaaryeshu Sarvadaa ||",
+          "telugu": "శుక్లాంబరధరం విష్ణుం శశివర్ణం చతుర్భుజం |\nప్రసన్నవదనం ధ్యాయేత్ సర్వ విఘ్నోపశాంతయే ||\nవక్రతుండ మహాకాయ కోటిసూర్యసమప్రభ |\nనిర్విఘ్నం కురు మే దేవ సర్వకార్యేషు సర్వదా ||"
+        }
+      ]
+    },
+    {
+      "id": "step6",
+      "title": "5. Praanaayaamam",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Restraining the life force to calm the mind. Follow the breathing sequence while mentally chanting a mantra. If you don't know the Gayatri mantra, you can use one of these:"
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ॐ नमो भगवते वासुदेवाय ।",
+          "english": "Om Namo Bhagavate Vaasudevaaya.",
+          "telugu": "ఓం నమో భగవతే వాసుదేవాయ."
+        }
+      ],
+      "postSlokaContent": [
+        {
+          "type": "paragraph",
+          "text": "<b>Breathing sequence:</b> Inhale right (1 mantra count), hold (1 count), exhale left (1 count). Then, inhale left (1 count), hold (1 count), exhale right (1 count). Repeat as comfortable."
+        }
+      ]
+    },
+    {
+      "id": "step7",
+      "title": "6. Kalasa Suddhi",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Water purification. Place akshatas and a flower in the water tumbler. Cover it and say 'वं' (Vam) 11 times. Then, read the following to invite the essence of sacred rivers into the water."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "गंगे च यमुने चैव गोदावरि सरस्वति ।\nनर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ॥",
+          "english": "Gange Cha Yamune Chaiva Godaavari Sarasvati |\nNarmade Sindhu Kaaveri Jale'smin Sannidhim Kuru ||",
+          "telugu": "గంగే చ యమునే చైవ గోదావరి సరస్వతి |\nనర్మదే సింధు కావేరి జలేఽస్మిన్ సన్నిధిం కురు ||"
+        }
+      ],
+      "finalContent": [
+        {
+          "type": "paragraph",
+          "text": "Then, sprinkle this purified water on yourself and all the ritual materials."
+        }
+      ]
+    },
+    {
+      "id": "step8",
+      "title": "7. Ganapathi Pooja",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Worship of Lord Ganapathi to remove obstacles. He can be invoked in an idol, a coin, or a wet turmeric mound. Invoke Lord Ganapathi while chanting the following:"
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ॐ गं गणपतये नमः। असुनी ते पुनरस्मासु चक्षुः पुनः प्राणमिह नो देहि भोगं। ज्योक्पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति ।\nॐ श्री गणपति प्राणशत्क्त्यै नमः। अत्र आगच्छ । आवाहितो भव । स्थापितो भव । सन्निहितो भव । सन्निरुद्धो भव । अवकुंठितो भव । देव प्रसीद प्रसीद ।",
+          "english": "Om Gam Ganapataye Namaha. Asuni Te Punarasmaasu Chakshuh Punah Praanamiha No Dehi Bhogam. Jyokpashyema Suryamuchcharantamanumate Mrilayaa Nah Svasti.\nOm Shree Ganapati Praana Shaktiyai Namaha. Atra Aagachchha. Aavaahito Bhava. Sthaapito Bhava. Sannihito Bhava. Sanniruddho Bhava. Avakunthito Bhava. Deva Praseeda Praseeda.",
+          "telugu": "ఓం గం గణపతయే నమః. అసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం. జ్యోక్పశ్యేమ సూర్యముచ్చరన్తమనుమతే మృళయా నః స్వస్తి.\nఓం శ్రీ గణపతి ప్రాణశక్త్యై నమః. అత్ర ఆగచ్ఛ. ఆవాహితో భవ. స్థాపితో భవ. సన్నిహితో భవ. సమ్నిరుద్ధో భవ. అవకుంఠితో భవ. దేవ ప్రసీద ప్రసీద."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, offer the 16 services (Shodasopachara Pooja) to Lord Ganapathi."
+        },
+        {
+          "type": "ganapathi_pooja_table"
+        }
+      ]
+    },
+    {
+      "id": "step9",
+      "title": "8. Varuna Pooja",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Worship of Lord Varuna for perseverance. He is invoked in the kalasha. Chant the following to invoke him:"
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ॐ वं वरुणाय नमः। असुनी ते पुनरस्मासु चक्षुः पुनः प्राणमिह नो देहि भोगं। ज्योक्pश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति ।",
+          "english": "Om Vam Varunaaya Namaha. Asuni Te Punarasmaasu Chakshuh Punah Praanamiha No Dehi Bhogam. Jyokpashyema Suryamuchcharantamanumate Mrilayaa Nah Svasti.",
+          "telugu": "ఓం వం వరుణాయ నమః. అసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం. జ్యోక్పశ్యేమ సూర్యముచ్చరన్తమనుమతే మృళయా నః స్వస్తి."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ॐ श्री वरुण प्राणशत्क्त्यै नमः। अत्र आगच्छ । आवाहितो भव । स्थापितो भव । सन्निहितो भव । सन्निरुद्धो भव । अवकुंठितो भव । देव प्रसीद प्रसीद ।",
+          "english": "Om Shree Varuna Praana Shaktiyai Namaha. Atra Aagachchha. Aavaahito Bhava. Sthaapito Bhava. Sannihito Bhava. Sanniruddho Bhava. Avakunthito Bhava. Deva Praseeda Praseeda.",
+          "telugu": "ఓం శ్రీ వరుణ ప్రాణశక్త్యై నమః. అత్ర ఆగచ్ఛ. ఆవాహితో భవ. స్థాపితో భవ. సన్నిహితో భవ. సమ్నిరుద్ధో భవ. అవకుంఠితో భవ. దేవ ప్రసీద ప్రసీద."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, offer the 16 services (Shodasopachara Pooja) to Lord Varuna."
+        },
+        {
+          "type": "varuna_pooja_table"
+        },
+        {
+          "type": "paragraph",
+          "text": "After the worship, call back Varuna from the kalasha so that Lord Satya Narayana can be invoked in it. Chant the following and point to your heart."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "अस्मात् कलशात् श्री वरुणं यथास्थानं प्रतिष्ठापयामि ।",
+          "english": "Asmaat Kalashaat Shree Varunam Yathaasthaanam Pratishthaapayaami.",
+          "telugu": "అస్మాత్ కలశాత్ శ్రీ వరుణం యథాస్థానం ప్రతిష్ఠాపయామి."
+        }
+      ]
+    },
+    {
+      "id": "step10",
+      "title": "9. Parivaara Devataa Poojaa",
+      "isInteractive": true,
+      "description": "Worship of the associate deities of Lord Satya Narayana. For each deity, contemplate them with their mantra and offer a coin, a dry date, a piece of betel nut, and a few akshatas in their designated place on the altar.",
+      "parts": [
+        {
+          "id": "part1",
+          "title": "Part 1: Lokapalakas",
+          "subtitle": "Guardians of Elements",
+          "description": "Worship the Lokapalakas, the guardians of the elements.",
+          "content": [
+            {
+              "type": "h4",
+              "text": "Ganapathi (Earth)"
+            },
+            {
+              "type": "sloka",
+              "devanagari": "ॐ गणानां त्वा गणपति हवामहे कविं कवीनामुपमश्रवस्तमं । ज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत आ नः शृण्वन्नूतिभिस्सीद सादनं ॥ ॐ गणपतये नमः ।",
+              "english": "Om Ganaanaam Tvaa Ganapatim Havaamahe Kavim Kaveenaamupamashravastamam | Jyeshtharaajam Brahmanaam Brahmanaspata Aa Nah Shrinvannootibhisseeda Saadanam || Om Ganapataye Namaha.",
+              "telugu": "ఓం గణానాం త్వా గణపతిం హవామహే కవిం కవీనాముపమశ్రవస్తమం | జ్యేష్ఠరాజం బ్రహ్మణాం బ్రహ్మణస్పత ఆ నః శృణ్వన్నూతిభిస్సీద సాదనం || ఓం గణపతయే నమః ."
+            },
+            {
+              "type": "h4",
+              "text": "Brahma (Air)"
+            },
+            {
+              "type": "sloka",
+              "devanagari": "ॐ ब्रह्मा देवानां पदवीः कवीनमृषिर्विप्राणां महिषो मृगाणां श्येनो गृध्राणा स्वदितिर्वनाना सोमः पवित्र मत्येति रेभन् ॥ ॐ ब्रह्मणे नमः ।",
+              "english": "Om Brahmaa Devaanaam Padaveeh Kaveenamrishirvipraanaam Mahisho Mrigaanaam Shyeno Gridhraanaa Svadiirvanana Soma: Pavitra Matyeti Rebhan || Om Brahmane Namaha.",
+              "telugu": "ఓం బ్రహ్మా దేవానాం పదవీః కవీనమృషిర్విప్రాణాం మహిషో మృగాణాం శ్యేనో గృధ్రాణా స్వదితిర్వనానా సోమః పవిత్ర మత్యేతి రేభన్ || ఓం బ్రహ్మణే నమః ."
+            },
+            {
+              "type": "h4",
+              "text": "Mahalakshmi & Mahavishnu (Ether/Space)"
+            },
+            {
+              "type": "sloka",
+              "devanagari": "ॐ हिरण्यवर्णां हरिणीं सुवर्णरజतस्रजां । चन्द्रां हिरण्म्ययीं लक्ष्मीं जातवेदो म आवह ॥ ॐ महालक्ष्म्यै नमः।\nॐ इदं विष्णुर्विचक्रमे त्रेधा निदधे पदं । समूढमस्य सुरे ॥ ॐ महाविष्णवे नमः ।",
+              "english": "Om Hiranyavarnaam Harineem Suvarnarajatasrajaam | Chandraam Hiranmayeemm Lakshmeem Jaatavedo Ma Aavaha || Om Mahaalakshmyai Namaha.\nOm Idam Vishnurvichakrame Tredhaa Nidadhe Padam | Samoodhamasya Sure || Om Mahaavishnave Namaha.",
+              "telugu": "ఓం హిరణ్యవర్ణాం హరిణీం సువర్ణరజతస్రజాం | చంద్రాం హిరణ్మయీం లక్ష్మీం జాతవేదో మ ఆవహ || ఓం మహాలక్ష్మ్యై నమః.\nఓం ఇదం విష్ణుర్విచక్రమే త్రేధా నిదధే పదం | సమూఢమస్య సురే || ఓం మహావిష్ణవే నమః ."
+            },
+            {
+              "type": "h4",
+              "text": "Rudra (Fire) & Gouri (Water)"
+            },
+            {
+              "type": "sloka",
+              "devanagari": "ॐ कद्रद्राय प्रचेतसे मीढुष्टमाय तव्यसे । वोचेम शन्तम हृदे ॥ ॐ रुद्राय नमः।\nॐ गौरीमिमाय सलिलानि तक्षत्येकपदी द्विपदी सा चतुष्पदी। अष्टापदी नवपदी बभूवुषी सहस्राक्षरा परमे व्योमन् ॥ ॐ गौर्यै नमः ।",
+              "english": "Om Kadradraaya Prachetase Meedhushtamaaya Tavyase | Vochema Shantama Hrude || Om Rudraaya Namaha.\nOm Gouree Maaya Salilaani Takshatyekapadee Dwipadee Saa Chatushpadee. Ashtapadee Navapadee Babhoovushee Sahasraaksharaa Parame Vyoman || Om Gouryai Namaha.",
+              "telugu": "ఓం కద్రద్రాయ ప్రచేతసే మీఢుష్టమాయ తవ్యసే | వోచేమ శన్తమ హృదే || ఓం రుద్రాయ నమః.\nఓం గౌరీ మిమాయ సలిలాని తక్షత్యేకపదీ దవిపదీ సా చతుష్పదీ. అష్టపదీ నవపదీ బభూవుషీ సహస్రాక్షరా పరమే వ్యోమన్ || ఓం గౌర్యై నమః ."
+            }
+          ]
+        },
+        {
+          "id": "part2",
+          "title": "Part 2: Grahas",
+          "subtitle": "Planets & Their Deities",
+          "description": "Worship the nine planets (Navagrahas) and their ruling deities.",
+          "hasSubNavigation": true,
+          "subItems": [
+            {
+              "id": "sun",
+              "name": "Sun",
+              "attribute": "soul - sense of will power",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Surya (Sun)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Planet governing soul and sense of willpower."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ आकृष्णेन रजसा वर्तमानो निवेशयन्नमृतं मर्त्य च। हिरण्ययेन सविता रथेनाऽऽदेवो याति भुवना विपश्यन् ॥",
+                  "english": "Om Aakrishnena Rajasaa Vartamano Niveshayannamritam Martya Cha. Hiranyayena Savitaa Rathenaadevo Yaati Bhuvana Vipashyan ||",
+                  "telugu": "ఓం ఆకృష్ణేన రజసా వర్తమానో నివేశయన్నమృతం మర్త్య చ. హిరణ్యేన సవితా రథేనాదేవో యాతి భువన విపశ్యన్ ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ruling Deity: Agni"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ अग्निं दूतं वृणीमहे होतारं विश्ववेदसं । अस्य यज्ञस्य सुक्रतुं ॥",
+                  "english": "Om Agnim Dootam Vrinimahe Hotaaraṃ Vishvavedasam | Asya Yajñasya Sukrutum ||",
+                  "telugu": "ఓం అగ్నిండి వ్రుణిమహే హోతారం విశ్వవేదసం | అస్య యజ్ఞస్య సుకృతుం ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-ruling Deity: Rudra"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ कद्रद्राय प्रचेतसे मीढुष्टमाय तव्यसे । वोचेम शन्तम हृदे ॥",
+                  "english": "Om Kadradraaya Prachetase Meedhushtamaaya Tavyase | Vochema Shantama Hrude ||",
+                  "telugu": "ఓం కద్రద్రాయ ప్రచేతసే మీఢుష్టమాయ తవ్యసే | వోచేమ శన్తమ హృదే ||"
+                }
+              ]
+            },
+            {
+              "id": "moon",
+              "name": "Moon",
+              "attribute": "mind - sense of experiencing the world",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Chandra (Moon)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Planet governing mind and sense of experience."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ आप्यायस्व समेतु ते विश्वतस्सोम वृष्णियं । भवा वाजस्य संगथे ॥",
+                  "english": "Om Aapyayasva Sametu Te VishvatasSom Vrishtiyam | Bhavaa Vaajasya Sangathe ||",
+                  "telugu": "ఓం ఆప్యాయస్వ సమేతు తే విశ్వతస్సోమ వృష్ణియం | భవా వాజస్య సంగతే ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ruling Deity: Apas"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ अप्सु मे सोमः अब्रवीदन्तर्विश्वानि भेषजाः। अग्निं च विश्वशम्भुवमापश्च विश्वभेषजिः ॥",
+                  "english": "Om Apsu Me Somah AbraveedantarVishvaani Bhesajaih | Agnim Cha VishvashambhuvamAapashcha Vishvabhesajih ||",
+                  "telugu": "ఓం అప్సు మే సోమః అబ్రవీదంతర్విశ్వాని భేషజా | అగ్నింఛ విశ్వశంభువమాపశ్చ విశ్వభేషజిః ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-ruling Deity: Gouri"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ गौरीमिमाय सलिलानि तक्षत्येकपदी द्विपदी सा चतुष्पदी। अष्टापदी नवपदी बभूवुषी सहस्राक्षरा परमे व्योमन् ॥",
+                  "english": "Om Gouree Maimaaya Salilaanee Takshatyekapadee Dwipadee Saa Chatushpadee. Ashtapadee Navapadee Babhoovushee Sahasraaksharaa Parame Vyoman ||",
+                  "telugu": "ఓం గౌరీ మిమాయ సలిలాని తక్షత్యేకపదీ దవిపదీ సా చతుష్పదీ. అష్టపదీ నవపదీ బభూవుషీ సహస్రాక్షరా పరమే వ్యోమన్ ||"
+                }
+              ]
+            },
+            {
+              "id": "mars",
+              "name": "Mars",
+              "attribute": "sense of initiative & energy",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Mangala (Mars)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Planet governing initiative and energy."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ अग्निर्मूर्धा दिवः ककुत्पतिः पृथिव्या अयं । अपार रेतांసి जिन్వति ॥",
+                  "english": "Om Agnirmoordhaa Divah Kakutpatiḥ Prithivyaa Ayam | Apaar RetaanSi Jinvati ||",
+                  "telugu": "ఓం అగ్నిర్మూర్తా దివః కకుత్పతి: పృథివ్యా అయం | అపార రేతాన్సి జిన్వతి ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ruling Deity: Mother Earth"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ स्योना पृथिवि भवानृक्षरा निवेशनी । यच्चानश्शर्म सప్రథाः ॥",
+                  "english": "Om Syona Prithivi BhavaanRiksharaa Niveshani | Yatchaanashsharma Saprathaaḥ ||",
+                  "telugu": "ఓం స్యోనా పృథివి భవానృక్షరా నివేశనీ | యచ్చానశ్శర్మ సప్రత్హా ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-ruling Deity: Ruler of lands (Kshetrapalaka)"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ क्षेत्रस्य पतिना वय हिते नेव जयामसि । गामश्चం पोषयित्वा स नो मृडातीదృశై ॥",
+                  "english": "Om Kshetrasya Patinaa Vaya Hite Neva Jayaamasi | Gaamashchaṃ Poshayitvaa Sa No Mridaatiidrushai ||",
+                  "telugu": "ఓం క్షేత్రస్య పతినా వయ హితే నేవ జయామసి | గామశ్చం పోషయిత్వా స నో మృడాతీదృశై ||"
+                }
+              ]
+            },
+            {
+              "id": "mercury",
+              "name": "Mercury",
+              "attribute": "sense of learning & adapting",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Budha (Mercury)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Planet governing learning and adaptability."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ उद्बुध्यस्वाग्ने प्रतिजागृह्येनमिष्टापूर्ते ससृजेथामयं च । पुनः कृण्वस्त्वापितरं युवानमन्वातासी त्वयि तन्तुमेतं ॥",
+                  "english": "Om Udbudhyasvaagne Pratijagrihyenamishtapuurte Sasrujeethaamayam Cha | Punah Krinvastvaapitaram Yuvaanamanvataasii Tvayi Tantumetam ||",
+                  "telugu": "ఓం ఉద్బుధ్యస్వాగ్నే ప్రతిజాగృహ్యేనమిష్టాపూర్తే ససృజేతామయం చ | పునః కృణ్వస్త్వాపితరం యువానమన్వాతాసీ త్వయి తంతుమేతం ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ruling Deity: Vishnu"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ इदं विष्णुर्विचक्रमे त्रेधा निदधे पदं । समूढमस्य सुरे ॥",
+                  "english": "Om Idam Vishnurvichakrame Tredhaa Nidadhe Padam | Samoodhamasya Sure ||",
+                  "telugu": "ఓం ఇదం విష్ణుర్విచక్రమే త్రేధా నిదధే పదం | సమూఢమస్య సురే ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-ruling Deity: Narayana"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ सहस्रशीर्ष देवं विश्वाक्षं विश्वशंभुवं । विश्वं नारायणं देवमक्षरं परमं पदं ॥",
+                  "english": "Om Sahasrashiirsha Devaṃ Vishvaaksham Vishvashambhuvaṃ | Vishvaṃ Naaraayaṇaṃ Devamaksharaṃ Paramaṃ Padaṃ ||",
+                  "telugu": "ఓం సహస్రశీర్ష దేవం విశ్వాక్షం విశ్వశంభువం | విశ్వం నారాయణం దేవమక్షరం పరమం పదం ||"
+                }
+              ]
+            },
+            {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "attribute": "sense of judgment & discretion",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Brihaspati (Jupiter)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Planet governing judgment and discretion."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ बृहस्पते अतियदर्यो अर्हाद्दयुमद्विभाति क्रतुमज्जनेषु । यद्दीदयच्चवसर्तप्रजात तदस्मासु द्रविणं देहि चित्रं ॥",
+                  "english": "Om Brihaspate Atiyadaryo Arhaaddayumadvibhati Kratumajjaneṣu | Yaddiidayaccavasartaprajaat Tadasmaasu Draviṇaṃ Dehi Chitraṃ ||",
+                  "telugu": "ఓం బృహస్పతే అతి యదర్యో అర్హాద్దయుమద్భిభాతి కృతుమజ్జనేషు | యద్దిీదయచ్చవసర్తప్రజాత తదస్మాసు ద్రవిణం దేవి చిత్రం ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ruling Deity: Brahma"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ ब्रह्मजज्ञानं प्रथमं पुरस्ताद्विसीमतस्सुरुचो वेन आवः । सबुन्निया उपमा अस्य विष्ठास्सतश्च योनिमसतश्च विवः ॥",
+                  "english": "Om Brahmajñaanam Prathamaṃ Purastaadviseematssurucho Vena Aavah | Sabunnia Upamaa Asya VishṭhaasSataśca Yonimasataśca Vivah ||",
+                  "telugu": "ఓం బ్రహ్మజ్ఞానం ప్రథమం పురస్తాద్విసీమతస్సురుచో వేన్ ఆవహ | సబున్నియా ఉపమా అస్య విష్టాస్సతశ్చ యోనిమసతశ్చ వివః ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-ruling Deity: Indra"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ इन्द्रं वो विश्वतस्परिहवामहे जनेभ्यः । अस्माकमस्तु केवलः ॥",
+                  "english": "Om Indram Vo Vishvataparihavamahe Janebhyaḥ | Asmaakamastu Kevalaḥ ||",
+                  "telugu": "ఓం ఇంద్రం వో విశ్వతస్పరిహవామహే జనేభ్యః | అస్మాకమస్తు కేవలః ||"
+                }
+              ]
+            },
+            {
+              "id": "venus",
+              "name": "Venus",
+              "attribute": "sense of enjoyment",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Shukra (Venus)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Planet governing enjoyment and luxury."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ शुक्रं ते अन्यद्यजतं ते अन्यद्विपुरूपे अहनी द्यौरिवాసि । विश्वा हि माया अवसि स्वधा वो भद्रा ते पूषन्निह रातिरस्तु ॥",
+                  "english": "Om Shukraṃ Te Anyadyajataṃ Te Anyadvipurūpe Ahanī Dyaurivāsi | Viśvā Hi Māyā Avasu Svadhā Vo Bhadrā Te Pūṣannih Rātirastu ||",
+                  "telugu": "ఓం శుక్రం తే ఇతరద్యజతం తే ఇతరద్విపురూపే అహనీ ద్యౌరవాసి | విశ్వా హి మాయా అవసి స్వధా వో భద్రా తే పూషన్నిహ రాతిరస్తు ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ruling Deity: Indrani"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ इंद्राणीमासु नारिषु सुपत्नीमहमश्रवं । न ह्यस्या अपरं च न जरसा मरते पतिः ॥",
+                  "english": "Om Indrāṇīmāsu Nāriṣu Supatnīmahamaśravaṃ | Na Hyasyā Aparan Ca Na Jarasā Marate Patiḥ ||",
+                  "telugu": "ఓం ఇంద్రాణీమాసు నారిషు సుపత్నీమహమశ్రవం | న హ్యస్యా అపరం చ న జరసా మరతే పతి ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-ruling Deity: Indra Marutvan"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ इंद्र मरुत्व इह पाहि सोमं यथा शायति अपिबस्सुतస్య । तव प्रणीती तव शूरशर्मन्नाविवासन्ति कवयस्सुयज्ञाः ॥",
+                  "english": "Om Indra Marutva Iha Pāhi Somaṃ Yathā Śāyati Apibas Sutasyā | Tava Praṇītī Tava ŚūraśarmanNāvivāsanti KavayassuYajñāḥ ||",
+                  "telugu": "ఓం ఇంద్ర మరుత్వ ఇహ పాహి సోమం యథా శాయతి అపిబస్సుతస్య | తవ ప్రణీతీ తవ శూరశర్మన్నావివాసంతి కవయస్సు యజ్ఞాః ||"
+                }
+              ]
+            },
+            {
+              "id": "saturn",
+              "name": "Saturn",
+              "attribute": "sense of hard work & discipline",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Shani (Saturn)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Planet governing discipline and hard work."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ शमग्निरग्निभिः करच्छं नस्तपतु सूर्यः । शं वातो वा त्वरपा अपस्त्रिधः ॥",
+                  "english": "Om Shamaagniragnibhih Karacchaṃ Nastapatu Sūryaḥ | Shaṃ Vāto Vā Tvarapā Apastridhaḥ ||",
+                  "telugu": "ఓం శమగ్నిరగ్నిభిః కరచ్చం నస్తపతు సూర్యః | శం వాతో వా త్వరపా అపస్త్రిధః ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ruling Deity: Yama"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ यमाय सोमः सुनुत यमाय जुहुता हविः। यमः हयज्ञो गच्छत्यग्निदूतो अरंकृतः ॥",
+                  "english": "Om Yamāya Somaḥ Sunuta Yamāya Juhtā Haviḥ | Yamaḥ Hayajño Gacchatyagnidūto Araṅkṛtaḥ ||",
+                  "telugu": "ఓం యమాయ సోమః సునుత యమాయ జుహుత హవిః | యమః హయజ్ఞో గచ్చత్యగ్నిదూతో అరంకృతః ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-ruling Deity: Prajapati"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ प्रजापते न त्वदेतान्यन्यो विश्वा जातानि परिता बभूव । यत्कामास्ते जुहुमस्तन्नो अस्तु वयञ् स्याम पतयो రयीణां ॥",
+                  "english": "Om Prajāpate Na Tvadetānyanyo Viśvā Jātāni Paritā Babhuuva | Yatkāmāste Juhumastanno Astu Vayañ Syāma Patayo Rayīṇāṃ ||",
+                  "telugu": "ఓం ప్రజాపతే న త్వదేతాన్యన్యో విశ్వా జాతాని పరితా బభూవ | యత్కామాస్తే జుహుమస్తన్నో అస్తు వయఞ్ స్యామ పతయో రయీణాం ||"
+                }
+              ]
+            },
+            {
+              "id": "rahu",
+              "name": "Rahu",
+              "attribute": "sense of being outcaste",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Rahu"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Planet governing the sense of being an outcaste."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ कयानश्चित्र आभुवदूती सदावृधस्सखा । कया शचिष्ठया वृता ॥",
+                  "english": "Om Kayaanashchitraaabhivadhooti SadaavṛdhasSakhā | Kayā Shachiṣṭhayā Vṛtā ||",
+                  "telugu": "ఓం కాయనశ్చిత్ర ఆభువదూతీ సదావృధస్సఖా | కాయ శచిష్టయా వృతా ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ruling Deity: Cow"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ आयं गौः पृश्निरक्रमीदसन्मातरं पुनः। पितरं च प्रयंत्सुवः ॥",
+                  "english": "Om Aayaṃ Gauḥ PṛśnirakramīdaSanmātaraṃ Punaḥ | Pitaraṃ Ca Prayantsuvaḥ ||",
+                  "telugu": "ఓం ఆయం గౌః పృశ్నిరక్రమీదసన్మాతరం పునః | పితరం చ ప్రయంత్సువః ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-ruling Deity: Serpent"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ नमो अस्तु सर्पेभ्यो ये केच पृथिवी मनु ये। अंतरिक्षे ये दिवि तेभ्यस्सर्पेभ्यो नमः ॥",
+                  "english": "Om Namo Astu Sarpebhyo Ye Kecha Prithivī Manu Ye | Antarikṣe Ye Divi TebhyaSarpEbhyo Namaha ||",
+                  "telugu": "ఓం నమో అస్తు సర్పేభ్యో యే కేచ పృథివీ మను యే | అంతరిక్షే యే దివి తేభ్యస్సర్పేభ్యో నమః ||"
+                }
+              ]
+            },
+            {
+              "id": "ketu",
+              "name": "Ketu",
+              "attribute": "sense of detachment & liberation",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Ketu"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Planet governing detachment and liberation."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ केतुं कृण्वन्नकेतवे पेशो मर्या अपेशसे । समुषद्भिरजायथाः ॥",
+                  "english": "Om Ketum Kṛṇvannaketave Peśo Maryā Apeśase | Samuṣadbhirajāyathāḥ ||",
+                  "telugu": "ఓం కేతుం కృణ్వన్నకేతవే పేశో మర్యా అపేశసే | సముషద్భిరజాయథా ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ruling Deity: Chitragupta"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ सचित्रचित्रं चितयन् तमस्मे चित्रक्षत्र चित्रतमं वयोधां। चंद्रं रयिं पुरुवीरं बृहन्तं चंद्रचंद्राभिर्गुणते युवस्व ॥",
+                  "english": "Om Sachitrachitram Chitayan Tamase Me Chitrakshatra Chitratamaṃ Vayodhām | Chandraṃ Rayiṃ Puruvīraṃ Bṛhantaṃ ChandraChandrābhirguṇate Yuvasa ||",
+                  "telugu": "ఓం సచిత్రచిత్రం చితయన్ తమస్మే చిత్రక్షత్ర చిత్రతమం వయోధాం | చంద్రం రయిం పురువీరం బృహంతం చంద్రచంద్రాభిర్గుణతే యువస్వ ||"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-ruling Deity: Brahma"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ ब्रह्मा देवानां पदवीः कवीनमृषिर्वిప्राणां महिषो मृगाणां श्येनो गृध्राणा स्वदितिर्वनाना सोमः पवित्र मत्येति रेभन् ॥",
+                  "english": "Om Brahmaa Devaanaam Padaveeh Kaveenamrishirvipraanaam Mahisho Mrigaanaam Shyeno Gridhraanaa Svadiirvanana Soma: Pavitra Matyeti Rebhan || Om Brahmane Namaha.",
+                  "telugu": "ఓం బ్రహ్మా దేవానాం పదవీః కవీనమృషిర్విప్రాణాం మహిషో మృగాణాం శ్యేనో గృధ్రాణా స్వదితిర్వనానా సోమః పవిత్ర మత్యేతి రేభన్ || ఓం బ్రహ్మణే నమః ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "part3",
+          "title": "Part 3: Dikpalakas",
+          "subtitle": "Guardians of Directions",
+          "description": "Worship the Dikpalakas, the guardians of the ten directions.",
+          "content": [
+            {
+              "type": "dikpalaka_table"
+            }
+          ]
+        },
+        {
+          "id": "part4",
+          "title": "Part 4: Collective Invocation",
+          "subtitle": "Combined Worship",
+          "description": "Invoke and worship all associate deities collectively.",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Invoke the life force in all the associate deities together with the following mantra."
+            },
+            {
+              "type": "sloka",
+              "devanagari": "ॐ गणेशादि लोकपालक देवताभ्यो अधिदेवता प्रत्यधिदेवता सहित सूर्यादि नवग्रह देवताभ्यो इन्द्रादि दश दिक्पालक देवताभ्यो नमः। असुनी ते पुनरस्मासु चक्षुः पुनः प्राणमिह नो देहि भोगं। ज्योक्pश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति । अत्र आगच्छथ। आवाहिताः भवथ । स्थापिताः भवथ। सन्निहिताः भवथ । सन्निरुद्धाः अवकुंठिताः भवथ । देवाः प्रसीदथ प्रसीदथ ।",
+              "english": "Om Ganeshaaadi Lokapaalaka Devataabhyo Adhidevataa Pratyadhidevataa Sahita Sooryaadi Navagraha Devataabhyo Indraadi Dasha Dikpaalaka Devataabhyo Namaha. Asuni Te Punarasmaasu Chakshuh Punah Praanamiha No Dehi Bhogam. Jyokpashyema Suryamuchcharantamanumate Mrilayaa Nah Svasti. Atra Aagachchatha. Aavaahitaah Bhavatha. Sthaapitaah Bhavatha. Sannihitaah Bhavatha. Sanniruddhaah Avakunthitaah Bhavatha. Devaah Praseedatha Praseedatha.",
+              "telugu": "ఓం గణేశాది లోకపాలక దేవతాభ్యో అధిదేవతా ప్రత్యధిదేవతా సహిత సూర్యాది నవగ్రహ దేవతాభ్యో ఇంద్రాది దశ దిక్పాలక దేవతాభ్యో నమః. అసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం. జ్యోక్పశ్యేమ సూర్యముచ్చరంతమనుమతే మృళయా నః స్వస్తి. అత్ర ఆగచ్ఛథ. ఆవాహితాః భవథ. స్థాపితాః భవథ. సన్నిహితాః భవథ. సమ్నిరుద్ధాః అవకుంఠితాః భవథ. దేవాః ప్రసీదథ ప్రసీదథ ."
+            },
+            {
+              "type": "paragraph",
+              "text": "Now, perform a collective worship for all these deities."
+            },
+            {
+              "type": "collective_pooja_table"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "step11",
+      "title": "Praana Pratishthaapanaa (invocation of Lord Satya Narayana)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Now we have to invoke Lord Satya Narayana in the idol and the kalasham. Place the idol on a plate or on some grains of rice, in the area marked as LSN in the picture in Appendix I. If you know how to do anganyaasam and karanyaasam, do it while saying the following. Otherwise, just read the following."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "अस्य श्री प्राणप्रतिष्ठापन मंत्रस्य ब्रह्म विष्णु महेश्वरा ऋषयः ऋग्यजुस्सामाथर्वाणि छन्दासि श्रीसत्यनारायणो देवता। हां बीजं । ह्रीं शक्तिः । क्रों कीलकं ।\nहां अंगुष्ठाभ्यां नमः। ह्रीं तर्जनीभ्यां नमः। हूं मध्यमाभ्यां नमः । हैं अनामिकाभ्यां नमः। ह्रौं कनिष्ठिकाभ्यां नमः। करतल करपृष्ठाभ्यां नमः।\nह्रां हृदयाय नमः। ह्रीं शिरसे स्वाहा । हूं शिखायै वषट् । हैं कवचाय हुं । ह्रौं नेत्रत्रयाय वौषट् । ह्रः अस्त्राय फट् । भूर्भुवस्सुवरोमिति दिग्बंधः ।",
+          "english": "Asya Shree Praanapratishthaapana Mantrasya Brahma Vishnu Maheshvaraa Rishayah Rigyajussamaatharvaani Chhandaasi Shreesatyanaraayano Devataa. Haam Beejam. Hreem Shakti. Krom Keelakam.\nHaam Angushthaabhyaam Namaha. Hreem Tarjaneebhyaam Namaha. Hum Madhyaamaabhyaam Namaha. Haim Anaamikaabhyaam Namaha. Hraum Kanishthikaabhyaam Namaha. Karatalakaraprishthaabhyaam Namaha.\nHraam Hrudayaaya Namaha. Hreem Shirase Swaahaa. Hum Shikhaayai Vashat. Haim Kavachaaya Hum. Hraum Netratrayaaya Voushat. Hrah Astraaya Phat. Bhoorbhuvassuvaromiti Digbandhah.",
+          "telugu": "అస్య శ్రీ ప్రాణప్రతిష్ఠాపన మంత్రస్య బ్రహ్మ విష్ణు మహేశ్వరా ఋషయః ఋగ్యజుస్సామాథర్వాణి ఛందాసి శ్రీసత్యనారాయణో దేవతా। హాం బీజం । హ్రీం శక్తిః । క్రోం కీలకమ్ ।\nహాం అంగుష్ఠాభ్యాం నమః। హ్రీం తర్జనీభ్యాం నమః। हूं మధ్యమాభ్యాం నమః । హైం అనామికాభ్యాం నమః। హ్రౌం కనిష్ఠికాభ్యాం నమః। కరతల కరపృష్ఠాభ్యాం నమః।\nహ్రాం హృదయాయ నమః। హ్రీం శిరసే స్వాహా । హూం శిఖాయై వషట్ । హైం కవచాయ హుం । హ్రౌం నేత్రత్రయాయ వౌషట్ । హ్రః అస్త్రాయ ఫట్ । భూర్భువస్సువరోమితి దిగ్బంధః ।"
+        },
+        {
+          "type": "paragraph",
+          "text": "ध्यानं (Dhyanam) -"
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ध्यायेत् सत्यं गुणातीतं गुणत्रय समन्वितं । लोकनाथं त्रिलोकेशं कौस्तुभाभरणं हरि ॥\nपीताम्बरं नीलवर्णं श्रीवत्स पद भूषितं । गोविन्दं गोकलानन्दं ब्रह्माद्यैरभिपूजितं ॥\nशान्ताकारं भुजगशयनं पद्मनाभं सुरेशं । विश्वाकारं गगन सदृशं मेघवर्णम् शुभांगं ।\nलक्ष्मीकान्तं कमलनयनं योगिहृद्धयानगम्यं । वन्दे विष्णुं भव भय हरं सर्व लोकैक नाथं ॥\nसत्यनारायणं देवं वन्देऽहं कामदं प्रभुं। लीलया विततं विश्वं येन तस्यै नमोनमः ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिनं ध्यायामि ।",
+          "english": "Dhyaayet Satyam Gunaateetam Gunatraya Samanvitam | Lokanaatham Trilokesham Koustubhaabharanam Hari ||\nPeetaambaram Neelavarnam Shreevatsa Pada Bhooshitam | Govindam Gokalalanam Brahmaadyairabhipoojitam ||\nShaantaakaaram Bhujagashayanam Padmanaabham Suresham | Vishvaakaaram Gagana Sadrisham Meghavarnam Shubhhaangam |\nLakshmeekaantam Kamalanayanam Yogi Hrudhdhyaanagamyam | Vande Vishnum Bhava Bhaya Haram Sarva Lokaika Naatham ||\nSatyanarayanam Devam Vandeham Kaamadam Prabhhum | Leelayaa Vitatam Vishvam Yena Tasyai Namonamaha ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaaminam Dhyaayaami.",
+          "telugu": "ధ్యాయేత్ సత్యం గుణాతీతం గుణత్రయ సమన్వితం । లోకనాథం త్రిలోకేశం కౌస్తుభాభరణం హరి ॥\nపీతాంబరం నీలవర్ణం శ్రీవత్స పద భూషితం । గోవిందం గోకలానందం బ్రహ్మాద్యైరభిపూజితం ॥\nశాంతాకారం భుజగశయనం పద్మనాభం సురేశం । విశ్వాకారం గగన సదృశం మేఘవర్ణమ్ శుభాంగం ।\nలక్ష్మీకాంతం కమలనయనం యోగిహృద్ధ్యానగమ్యం । వन्दे విష్ణుం భవ భయ హరం సర్వ లోకైక నాథం ॥\nసత్యనారాయణం దేవం వन्देऽहं कामदं ప్రభుం। లీలయా వితతం విశ్వం యేన తస్యై నమోనమః ॥\nఓం నమో భగవతే సత్యదేవాయ । శ్రీ రమా సహిత సత్య నారాయణ స్వామినం ధ్యాయామి ।"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now invoke Lord Satya Narayana in the kalasham and the idol with the following mantra. While saying it, imagine that Mahaganapathi who is in your own heart is entering the kalasham and the idol."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ॐ ह्रां ह्रीं क्रों यं रं लं वंशं षं सं हंळं क्षं । ॐ हंसः सोऽहं सोऽहं हंसः ।\nश्री रमासहित सत्यनारायणस्य प्राण इह प्राणः । जीव इह स्थितः।\nसर्वेन्द्रियाणि वामनस्त्वक् चक्षुः श्रोत्र जिह्वाघ्राण प्राणापानव्यानोदानसमानाः इहैवागत्य सुखं चिरं तिष्ठन्तु स्वाहा। सान्निध्यं कुर्वन्तु स्वाहा।\nअसुनी ते पुनरस्मासु चक्षुः पुनः प्राणमिह नो देहि भोगं। ज्योक्पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति। ॐ ह्रां ह्रीं क्रों ।\nॐ श्री रमासहित सत्यनारायण प्राणशत्क्त्यै नमः। अत्र आगच्छ ।",
+          "english": "Om Hraam Hreem Krom Yam Ram Lam Vam Sham Sham Sam Ham Lam Ksham. Om Hamsah So'ham So'ham Hamsah.\nShree Ramaasahita Satyanaraayanasya Praana Iha Praanah. Jeeva Iha Sthitah.\nSarvendriyaani Vaamanastvak Chakshuh Shrotra Jihvaaghraana Praanaapaanavyanodaana Samaanaah Ihaivaagatya Sukham Chiram Tishthantu Swaahaa. Saannidhyam Kurvantu Swaahaa.\nAsuni Te Punarasmaasu Chakshuh Punah Praanamiha No Dehi Bhogam. Jyokpashyema Suryamuchcharantamanumate Mrilayaa Nah Svasti. Om Hraam Hreem Krom.\nOm Shree Ramaasahita Satyanaraayana Praanashaktyai Namaha. Atra Aagachchha.",
+          "telugu": "ఓం హ్రాం హ్రీం క్రోం యం రం లం వంశం షం సం హంళం క్షం । ఓం హంసః సోऽహం సోऽహం హంసః ।\nశ్రీ రమాసహిత సత్యనారాయణస్య ప్రాణ ఇహ ప్రాణః । జీవ ఇహ స్థితః।\nసర్వేంద్రియాణి వామనస్త్వక్ చక్షుః శ్రోత్ర జిహ్వాఘ్రాణ ప్రాణాపానవ్యానోదానసమానాః ఇహైవాగత్య సుఖం చిరం తిష్ఠంతు స్వాహా। సాన్నిధ్యం కుర్వంతు స్వాహా।\nఅసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం। జ్యోక్పశ్యేమ సూర్యముచ్చరంతమనుమతే మృళయా నః స్వస్తి। ఓం హ్రాం హ్రీం క్రోం ।\nఓం శ్రీ రమాసహిత సత్యనారాయణ ప్రాణశక్త్యై నమః। అత్ర ఆగచ్ఛ ।"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now read the following and make the aavaahani, samsthaapani, sannidhaapani, sannirodhini and avakunthana mudras with your hands if you know them. If not, don't worry and just read."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ॐ सहस्रशीर्षा पुरुषः । सहस्राक्षस्सहस्रपात्। स भूमिं विश्वतो वृत्वा । अत्यतिष्ठद्दशांगुलम् ॥\nज्योतिश्शान्तं सर्व लोकान्तरस्थं । ॐकाराख्यं योगिहृद्धयानगम्यं ।\nसांगं शक्तिं सायुधं भक्तसेव्यं । सर्वाकारं विष्णुमावाहयामि ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिनं आवाहयामि ।\nआवाहितो भव । स्थापितो भव । सन्निहितो भव । सन्निरुद्धो भव । अवकुंठितो भव । देव प्रसीद प्रसीद ।\nदेव सर्व जगन्नाथ यावत्पूजावसानकम् । तावत्त्वं प्रीतिभावेन मूर्तों कलशे च सन्निधिं कुरु ।",
+          "english": "Om Sahasrasheershaa Purushah. Sahasraakshassahasrapaat. Sa Bhoomim Vishvato Vrutvaa. Atyatishthaddashaangulam ||\nJyotishshaantam Sarva Lokaantarastham. Omkaaraakhyam Yogihrudhdhyaanagamyam.\nSaangam Shakti Saayudham Bhaktasevyam. Sarvaakaaram Vishnumaavaahayaami ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaaminam Aavaahayaami.\nAavaahito Bhava. Sthaapito Bhava. Sannihito Bhava. Sanniruddho Bhava. Avakunthito Bhava. Deva Praseeda Praseeda.\nDeva Sarva Jagannaatha Yaavatpoojaavasaanakam. Taavattvam Preetibhaavena Moortoum Kalashe Cha Sannidhim Kuru.",
+          "telugu": "ఓం సహస్రశీర్షా పురుషః । సహస్రాక్షస్సహస్రపాత్। స భూమిం విశ్వతో వృత్వా । అత్యతిష్ఠద్దశాంగులమ్ ॥\nజ్యోతిశ్శాంతం సర్వ లోకాంతరస్థం । ఓంకారాఖ్యం యోగిహృద్ధ్యానగమ్యం ।\nసాంగం శక్తిం సాయుధం భక్తసేవ్యం । సర్వాకారం విష్ణుమావాహయామి ॥\nఓం నమో భగవతే సత్యదేవాయ । శ్రీ రమా సహిత సత్య నారాయణ స్వామినం ఆవాహయామి ।\nఆవాహితో భవ । స్థాపితో భవ । సన్నిహితో భవ । సన్నिरुद्धో భవ । అవకుంఠితో భవ । దేవ ప్రసీద ప్రసీద ।\nదేవ సర్వ జగన్నాథ యావత్పూజావసానకమ్ । తావత్త్వం ప్రీతిభావేన మూర్తౌం కలశే చ సన్నిధిం కురు ।"
+        },
+        {
+          "type": "paragraph",
+          "text": "While saying this, pray to Lord Satya Narayana in your mind and ask him to stay in the idol and kalasham (pot) till the end of the pooja, along with his consort Ramaa (Lakshmi)."
+        }
+      ]
+    },
+    {
+      "id": "step12",
+      "title": "Shodasopachara Pooja - Part 1",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Now, we will offer worship with several services to Lord Satya Narayana in the kalasha and idol. A shodasopachara pooja (16 services) is typically performed in a Satya Narayana vratam and is recommended. Those with less time may refer to Appendix B1 for a shorter pooja."
+        },
+        {
+          "type": "h4",
+          "text": "1. Aasanam (Seat)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Say the line below and mentally offer a nice seat to Lord Satya Narayana. While imagining this, offer a few akshatas to the idol and the kalasha."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "पुरुष एवेद सर्वं। यद्भूतं यच्च भव्यं । उतामृतत्वस्येशानः । यदन्नेनातिरोहति ॥\nकल्पद्रमूले मणिवेदिमध्ये । सिंहासनं स्वर्णमयं विचित्रं ।\nविचित्र वस्त्रावृतमच्युत प्रभो। गृहाण लक्ष्मी धरणी समन्वित ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने आसनं समर्पयामि ।",
+          "english": "Purusha Evedam Sarvam. Yad Bhootam Yachcha Bhavyam. Utaamritatvasyeshaanah. Yadannenaatirohanti ||\nKalpadramoole Manivedimadhye. Simhaasanam Svarnamayam Vichitram.\nVichitra Vastraavrutamachyuta Prabhu. Gruhaana Lakshmee Dharanee Samanvita ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Aasanam Samarpayaami.",
+          "telugu": "పురుష ఏవేద సర్వం. యద్భూతం యచ్చ భవ్యం. ఉతామృతత్వస్యేశానః. యదన్నేనాతిరోహతి ||\nకల్పద్రమూలే మణివేదిమధ్యే. సింహాసనం స్వర్ణమయం విచిత్రం.\nవిచిత్ర వస్త్రావృతమచ్యుత ప్రభో. గృహాణ లక్ష్మీ ధరణీ సమన్విత ||\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే ఆసనం సమర్పయామి."
+        },
+        {
+          "type": "h4",
+          "text": "2. Paadyam (Feet wash)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, say the line below and imagine washing Lord Satya Narayana's feet. While imagining this, show a little water with the spoon to Lord Satya Narayana and pour it into the deposit bowl."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "एतावानस्य महिमा। अतो ज्यायाश्च पूरुषः । पादोऽस्य विश्वा भूतानि । त्रिपादस्यामृतं दिवि ।\nनारायण नमस्तेऽस्तु । नरकार्णव तारक।\nपाद्यं गृहाण देवश। मम सौख्यं विवर्धय ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिनः पादयोः पादयोः पाद्यं समर्पयामि ।",
+          "english": "Etaavaanasya Mahimaa. Ato Jyaayaashcha Poorushah. Paado'sya Vishvaa Bhootaani. Tripaadasyaamritam Divi.\nNaaraayana Namaste'stu. Narakaarnava Taaraka.\nPaadyam Gruhaana Devasha. Mama Soukhyam Vivardhaya ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaaminah Paadayoh Paadyam Samarpayaami.",
+          "telugu": "ఏతావానస్య మహిమా. అతో జ్యాయాశ్చ పూరుషః. పాదోఽస్య విశ్వా భూతాని. త్రిపాదస్యామృతం దివి.\nనారాయణ నమస్తేఽస్తు. నరకార్ణవ తారక.\nపాద్యం గృహాణ దేవశ. మమ సౌఖ్యం వివర్ధయ ||\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినః పాదయోః పాద్యం సమర్పయామి."
+        },
+        {
+          "type": "h4",
+          "text": "3. Arghyam (Hand wash)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Say the line below, imagine washing the hands of Lord Satya Narayana, show a little water in the spoon to Him, and pour it into the deposit bowl."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "त्रिपादूर्ध्व उदैत्पुरुषः । पादौऽस्येहाऽऽभवात्पुनः । ततो विष्वञ्ज्यक्रामत् । साशनानशने अभि ॥\nव्यक्ताव्यक्त स्वरूपाय । हृषीकपतते नमः। मया निवेदितो भत्क्त्या ।\nह्यर्योऽयं प्रतिगृह्यताम् ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिनः हस्तयोः अर्घ्य समर्पयामि ।",
+          "english": "Tripaadoordhva Udaitpurushah. Paadou'syehaa''bhavaatpunah. Tato Vishvanjyakraamat. Saashanaanasane Abhi ||\nVyaktaavyakta Svaroopaaya. Hrusheekapatate Namaha. Maya Nivedito Bhakttyaa.\nHyaryo'yam Pratigruhyataam ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaaminah Hastayoh Arghyam Samarpayaami.",
+          "telugu": "త్రిపాదూర్ధ్వ ఉదైత్పురుషః. పాదౌఽస్యేహాఽఽభవాత్పునః. తతో విష్వఙ్ఙ్యక్రామత్. సాశనానశనే అభి ॥\nవ్యక్తావ్యక్త స్వరూపాయ. హృషీకపతతే నమః. మయా నివేదితో భక్త్య్రా.\nహ్యర్యోఽయం ప్రతిగృహ్యతామ్ ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినః హస్తయోః అర్ఘ్య సమర్పయామి."
+        },
+        {
+          "type": "h4",
+          "text": "4. Aachamaneeyam (Water for sipping)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Say the line below, imagine offering drinking water to Lord Satya Narayana's mouth, show a little water in the spoon to Him, and pour it into the deposit bowl."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "तस्माद्विराडजायत । विराजो अधि पूरुषः। स जातो अत्यरिच्यत । पश्चाद्भमिमथो पुरः ।\nमन्दाकिन्यास्तु यद्वारि । सर्वपापहरं शुभं। तदिदं कल्पितं देव । सम्यगाचम्यतां विभो ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिनः मुखे शुद्धाचमनीयं समर्पयामि ।",
+          "english": "Tasmaadviraadajaayata. Viraajo Adhi Poorushah. Sa Jaato Atyarichyata. Pashchaadbhoomimatho Purah.\nMandaakinyaastu Yadvaari. Sarvapaapaharam Shubham. Tadidam Kalpitam Deva. Samyagaachamyataam Vibho ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaaminah Mukhe Shuddhaachamaneeyam Samarpayaami.",
+          "telugu": "తస్మాద్విరాడజాయత. విరాజో అధి పూరుషః. స జాతో అత్యరిచ్యత. పశ్చాద్భమిమథో పురః.\nమందాకిన్యాస్తు యద్వారి. సర్వపాపహరం శుభం. తదిదం కల్పితం దేవ. సమ్యగాచమ్యతాం విభో ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినః ముఖే శుద్ధాచమనీయం సమర్పయామి."
+        },
+        {
+          "type": "h4",
+          "text": "5. Panchamrita Snanam (Five Nectars Bath)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Say the lines below and bathe the idol(s) in panchamrita. You can remove the idol(s) from the peetham and place them in a bowl or plate while you do this. If proficient, you can chant various sooktas (e.g., Purusha sooktam, Narayana sooktam, Sree sooktam) while bathing the idols."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "यत्पुरुषेण हविषा । देवा यज्ञमतन्वत । वसन्तो अस्यासीदाज्यं । ग्रीष्म इध्म शरद्धविः ।\nतीर्थोदकैः कांचन कम्भ संस्थैः । सुवासितैर्देव कृपा रसार्दैः। मयार्पितं स्नानविधिं गृहाण । पादाब्ज निष्ठयूत नदी प्रवाह ॥\nस्नानं पंचामृतैर्देव । गृहाण पुरुषोत्तम । अनाथनाथ सर्वज्ञ । गीर्वाण प्रणति प्रिय ।\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिनं पंचामृतैः स्नपयामि ।",
+          "english": "Yatpurushena Havishaa. Devaa Yagnamatamvata. Vasanto Asyaaseedaajyam. Greeshma Idhma Sharaddhavih.\nTeerthodakaih Kaanchanakambha Samsthaih. Suvaasitairdeva Krupaa Rasaardaih. Mayaarpitam Snaanavidhim Gruhaana. Paadaabja Nishthyoota Nadee Pravaaha ||\nSnaanam Panchaamritairdeva. Gruhaana Purushottama. Anaathanaatha Sarvagnya. Geervaana Pranati Priya.\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaaminam Panchaamritaih Snapayaami.",
+          "telugu": "యత్పురుషేణ హవిషా. దేవా యజ్ఞమతన్వత. వసంతో అస్యాసీదాజ్యం. గ్రీష్మ ఇధ్మ శరద్ధవిః.\nతీర్థోదకైః కాంచన కంభ సంస్థైః. సువాసితైర్దేవ కృపా రసార్దైః. మయార్పితం స్నానవిధిం గృహాణ. పాదాబ్జ నిష్ఠ్యుత నదీ ప్రవాహ ॥\nస్నానం పంచామృతైర్దేవ. గృహాణ పురుషోత్తమ. అనాథనాథ సర్వజ్ఞ. గీర్వాణ ప్రణతి ప్రియ.\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినం పంచామృతైః స్నపయామి."
+        },
+        {
+          "type": "h4",
+          "text": "6. Shuddhodaka Snanam (Pure Water Bath)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now bathe the idol(s) with pure water while saying the following. Afterward, take out the idol(s), wash them thoroughly, wipe them, and place them back on the peetham. The mixture of panchamrita and water can be used as teertham at the end."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ॐ आपोहिष्ठा मयोभुवस्तान ऊर्जे दधातन । महेरणाय चक्षसे ॥ योवरिशवतमो रसस्तस्य भाजयतेह नः । उशतीरिव मातरः ॥ तस्मा अरंग मामवो यस्य क्षयाय जिन्वथ। आपो जनयथा च नः ॥\nनदीनां चैव सर्वानां । आनीतं निर्मलोदकं । स्नानं स्वीकुरु देवेश । मया दत्तं रमेश्वर ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिनं शुद्धोदकेन स्नपयामि। स्नानानन्तरं आचमनीयं समर्पयामि ।",
+          "english": "Om Aapohishthaa Mayobhuvastaan Oorje Dadhaatana. Maheranaaya Chakshase || Yovarishvatamo Rasastasta Bhajayateha Nah. Ushateeriva Maatarah || Tasma Arang Maamavo Yasya Kshayaaya Jinvatha. Aapo Janayathaa Cha Nah ||\nNadeenaam Chaiva Sarvaanaam. Aaneetam Nirmalodakam. Snaanam Sweekuru Devesha. Maya Dattam Rameshwara ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaaminam Shuddhhodakena Snapayaami. Snaanaanantharam Aachamaneeyam Samarpayaami.",
+          "telugu": "ఓం ఆపోహిష్ఠా మయోభువస్తాన ఊర్జే దధాతన. మహేరణాయ చక్షసే ॥ యోవరిశ్వతమో రసస్తస్య భాజయతేహ నః. ఉశతీరివ మాతరః ॥ తస్మా అరంగ మామవో యస్య క్షయాయ జిన్వథ. ఆపో జనయథా చ నః ॥\nనదీనాం చైవ సర్వానాం. ఆనీతం నిర్మలోదకం. స్నానం స్వీకురు దేవేశ. మయా దత్తం రామేశ్వర ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినం శుద్ధోదకేన స్నపయామి. స్నానానంతరం ఆచమనీయం సమర్పయామి."
+        },
+        {
+          "type": "h4",
+          "text": "7. Vastram (Clothing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, say the line below, imagine offering a pair of nice clothes (like a shirt and pants) and offer a few akshatas to Lord Satya Narayana and the kalasha."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "सप्तास्यासन्परिधयः । त्रिस्सप्त समिधः कृताः। देवा यद्यज्ञं तन्वानाः। अवघ्नन्पुरुषं पशुं ।\nवेद सूक्त समायुक्ते । यज्ञ साम समन्विते। सर्व वर्ण प्रदे देव । वाससी प्रतिगृह्यताम् ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने वस्त्राणि समर्पयामि ।",
+          "english": "Saptaasyaasanparidhayah. Trissapta Samidhah Krutaah. Devaa Yadyagnam Tanvanaah. Avaghnanpurusham Pashum.\nVeda Sookta Samaayukte. Yagna Saama Samanvite. Sarva Varna Prade Deva. Vaasasee Pratigruhyataam ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Vastraani Samarpayaami.",
+          "telugu": "సప్తాస్యాసన్పరిధయః. త్రిస్సప్త సమిధః కృతాః. దేవా యద్యజ్ఞం తన్వానాః. అవఘ్నన్పురుషం పశుం.\nవేద సూక్త సమాయుక్తే. యజ్ఞ సామ సమన్వితే. సర్వ వర్ణ ప్రదే దేవ. వాససీ प्रतिगृह्यताम् ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే వస్త్రాణి సమర్పయామి."
+        },
+        {
+          "type": "h4",
+          "text": "8. Yajnopaveetam (Sacred Thread)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Say the line below, imagine that you are offering a yajnopaveetam and offer a few akshatas to Lord Satya Narayana."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "तं यज्ञं बर्हिषि प्रौक्षन् । पुरुषं जातमग्रतः। तेन देवा अयजन्त । साध्या ऋषयश्च ये ।\nब्रह्म विष्णु महेशैश्च । निर्मितं ब्रह्म सूत्रकं । गृहाण भगवन् विष्णो । सर्वेष्ट फलदो भव ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने यज्ञोपवीतं समर्पयामि ।",
+          "english": "Tam Yagnam Barhishi Proukshan. Purusham Jaatamagratah. Tena Devaa Ayajanta. Saadhyaa Rishayashcha Ye.\nBrahma Vishnu Maheshaishcha. Nirmitam Brahma Sootrakam. Gruhaana Bhagavana Vishno. Sarveshta Phalado Bhava ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Yagnopaveetam Samarpayaami.",
+          "telugu": "తం యజ్ఞం బర్హిషి ప్రౌక్షన్. పురుషం జాతమగ్రతః. తేన దేవా అయజంత. సాధ్యా ఋషయశ్చ యే.\nబ్రహ్మ విష్ణు మహేశైశ్చ. నిర్మితం బ్రహ్మ సూత్రకం. గృహాణ భగవన్ విష్ణో. సర్వేష్ట ఫలదో భవ ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే యజ్ఞోపవీతం సమర్పయామి."
+        },
+        {
+          "type": "h4",
+          "text": "9. Gandham (Sandalwood Paste)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Say the line below and offer a little bit of sandalwood paste, turmeric powder, kumkum powder and akshatas to Lord Satya Narayana. If you don't have all these, just sprinkle a few akshatas."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "तस्माद्यज्ञात्सर्वहुतः । संभृतं पृषदाज्यं । पशूस्ताञ्श्चक्रे वायव्यान् । आरण्यान्ग्रामाश्च ये ।\nश्रीखण्डं चन्दनं दिव्यं । गन्धाढयं सुमनोहरं । विलेपनं सुरश्रेष्ठ । प्रीत्यर्थं प्रतिगृह्यताम् ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने गन्धान् धारयामि। हरिद्रा कुंकुमं समर्पयामि । अक्षतान् समर्पयामि ।",
+          "english": "Tasmaadyagnaatsarvahutah. Sambhrutam Prishadaajyam. Pashoostaanjshchakre Vaayavyaan. Aaranyaangraamaashcha Ye.\nShreekhandam Chandanam Divyam. Gandhaadhyam Sumanoharam. Vilepanam Surashreshtha. Preetyartham Pratigruhyataam ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Gandhaan Dhaarayaami. Haridraa Kumkumam Samarpayaami. Akshataan Samarpayaami.",
+          "telugu": "తస్మాద్యజ్ఞాత్సర్వహుతః. సంభృతం పృషదాజ్యం. పశూస్తాంశ్చక్రే వాయవ్యాన్. ఆరణ్యాన్గ్రామాశ్చ యే.\nశ్రీఖండం చందనం దివ్యం. గంధాఢ్యం సుమనోహరం. విలేపనం సురశ్రేష్ఠ. ప్రీత్యర్థం ప్రతిగృహ్యతామ్ ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే గంధాన్ ధారయామి. హరిద్రా కుంకుమం సమర్పయామి । అక్షతాన్ సమర్పయామి ।"
+        },
+        {
+          "type": "h4",
+          "text": "10. Aabharanam (Ornaments)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Say the line below, imagine that you are offering nice jewelry and offer a few akshatas to Lord Satya Narayana."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "तस्माद्यज्ञात्सर्वहुतः । ऋचः सामानि जज्ञिरे। छन्दासि जज्ञिरे तस्मात् । यजुस्तस्मादजायत ।\nहिरण्य हार केयूर। ग्रैवेय मणि कंकणैः। सुहारं भूषणैर्युक्तं । गृहाण पुरुषोत्तम ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने आभरणानि समर्पयामि ।",
+          "english": "Tasmaadyagnaatsarvahutah. Richah Saamaani Jagnire. Chhandaasi Jagnire Tasmaat. Yajustasmaadajaayata.\nHiranya Haara Keyoora. Graiveya Mani Kankanaih. Suhaaram Bhooshanairyuktam. Gruhaana Purushottama ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Aabharaṇaani Samarpayaami.",
+          "telugu": "తస్మాద్యజ్ఞాత్సర్వహుతః. ఋచః సామాని జజ్ఞిరే. ఛందాసి జజ్ఞిరే తస్మాత్. యజుస్తస్మాదజాయత.\nహిరణ్య హార కేయూర. గ్రైవేయ మణి కంకణైః. సుహారం భూషణైర్యుక్తం. గృహాణ పురుషోత్తమ ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే ఆభరణాని సమర్పయామి."
+        },
+        {
+          "type": "h4",
+          "text": "11. Pushpam (Flowers)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprinkle a few flowers or flower petals or akshatas on Lord Satya Narayana."
+        },
+        {
+          "type": "sloka",
+          "devanagari": "तस्मादश्वा अजायन्त । ये के चोभयादतः।\nगावो ह जज्ञिरे तस्मात्। तस्माज्जाता अजावयः ।\nमल्लिकादि सुगन्धीनि । मालत्यादीनि वै प्रभो। मयाऽऽहृतानि पूजार्थं । पुष्पाणि प्रतिगृह्यताम् ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिनं पुष्पैः पूजयामि ।",
+          "english": "Tasmaadashvaa Ajaayanta. Ye Ke Chobhayaadatah.\nGaavo Ha Jagnire Tasmaat. Tasmaajjaataa Ajaavayaha.\nMallikaadi Sugandheeni. Maalatyaadeeni Vai Prabhu. Maya''hrutaani Poojaartham. Pushpaani Pratigruhyataam ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaaminam Pushpaih Poojaayaami.",
+          "telugu": "తస్మాదశ్వా అజాయంత । యే కే చోభయాదतः।\nగావో హ జజ్ఞిరే తస్మాత్। తస్మాజ్జాతా అजावयः ।\nమల్లికాది సుగంధీని । మాలత్యాదీని వై ప్రభో। మయాऽऽहृतानि पूजार्थं । पुष्पाणि प्रतिगृह्यताम् ॥\nఓం నమో భగవతే సత్యదేవాయ । శ్రీ రమా సహిత సత్య నారాయణ స్వామినం పుష్పైః పూజయామి ।"
+        }
+      ]
+    },
+    {
+      "id": "step13",
+      "title": "12. Anga Pooja (worship of limbs)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "While offering flowers, flower petals, and akshatas, pray to the various limbs of Lord Satya Narayana. Imagine you are worshipping the limbs of the Supreme Cosmic Being."
+        },
+        {
+          "type": "anga_pooja_table"
+        }
+      ]
+    },
+    
+    {
+      "id": "step14",
+      "title": "13. Main Mantra",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Chant the 108 names of Goddess Lakshmi and Lord Satya Narayana, and the 1000 names of Lord Vishnu (optional), while offering flowers. Then, read or mentally recall the story (Katha) of the Vratam, internalizing its message."
+        },
+        {
+          "type": "h3",
+          "text": "Meditation Mantra"
+        },
+        {
+          "type": "paragraph",
+          "text": "Meditate with the following mantra:"
+        },
+        {
+          "type": "sloka",
+          "devanagari": "ॐ नमो भगवते सत्यदेवाय ।",
+          "english": "Om Namo Bhagavate Satyadevaaya.",
+          "telugu": "ఓం నమో భగవతే సత్యదేవాయ."
+        }
+      ]
+    },
+    {
+      "id": "step15",
+      "title": "14. Katha",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Story of the Vratam: The Satya Narayana Vratam is a sacred ritual dedicated to Lord Satya Narayana, an incarnation of Lord Vishnu. It is performed to seek blessings for prosperity, health, and happiness. The vratam is often observed on full moon days and involves listening to the Katha (story) of Lord Satya Narayana, which emphasizes truthfulness and devotion."
+        }
+      ]
+    },
+    {
+        "id": "step16",
+        "title": "15. Shodasopachara Pooja - Part 2",
+        "content": [
+            {
+            "type": "h4",
+            "text": "12. Dhoopam (Incense)"
+            },
+            {
+            "type": "paragraph",
+            "text": "Say the following line and show the incense stick lighted before to Lord Satya Narayana."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "यत्पुरुषं व्यदधुः। कतिधा व्यकल्पयन् । मुखं किमस्य कौ बाहू । कावूरू पादावुच्येते ।\nदशांगं गुग्गुलूपेतं । सुगन्धं सुमनोहरं । धूपं गृहाण देवेश । सर्व देव नमस्कृत ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने धूपं आघ्रापयामि ।",
+            "english": "Yatpurusham Vyadadhuh. Katidhaa Vyakalpayan. Mukham Kimasya Kou Baahoo. Kaavooroo Paadaavuchyete.\nDashaangam Gugguloopetam. Sugandham Sumanoharam. Dhoopam Gruhaana Devesha. Sarva Deva Namaskruta ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Dhoopam Aaghraapayaami.",
+            "telugu": "యత్పురుషం వ్యదధుః. కతిధా వ్యకల్పయన్. ముఖం కిమస్య కౌ బాహూ. కావూరూ పాదావుచ్యేతే.\nదశాంగం గుగ్గులూపేతం. సుగంధం సుమనోహరం. ధూపం గృహాణ దేవేశ. సర్వ దేవ నమస్కృత ||\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే ధూపం ఆఘ్రాపయామి."
+            },
+            {
+            "type": "h4",
+            "text": "13. Deepam (Lamp)"
+            },
+            {
+            "type": "paragraph",
+            "text": "Say the following line and show the lamp lighted before to Lord Satya Narayana. Then show a little water in the spoon to Lord Satya Narayana and leave it in the deposit bowl."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "ब्राह्मणोऽस्य मुखमासीत् । बाहू राजन्यः कृतः। ऊरू तदस्य यद्वैश्यः। पद्भया शूद्रो अजायत ।\nघृत त्रिवर्ति संयुक्तं । वह्निना योजितं प्रियं । दीपं गृहाण देवेश । त्रैलोक्य तिमिरापहम् ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने दीपं दर्शयामि। आचमनीयं समर्पयामि ।",
+            "english": "Braahmano'sya Mukhamaseet. Baahoo Raajanyah Krutah. Ooroo Tadasya Yadvaishyah. Padbhyaam Shoodro Ajaayata.\nGhruta Trivarti Samyuktam. Vahninaa Yojitam Priyam. Deepam Gruhaana Devesha. Trailokya Timiraapaham ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Deepam Darshayaami. Aachamaneeyam Samarpayaami.",
+            "telugu": "బ్రాహ్మణోఽస్య ముఖమాసీత్. బాహూ రాజన్యః కృతః. ఊరూ తదస్య యద్వైశ్యః. పద్భ్యాం శూద్రో అజాయత.\nఘృత త్రివర్తి సంయుక్తం. వహ్నినా యోజితం ప్రియం. దీపం గృహాణ దేవేశ. త్రైలోక్య తిమిరాపహమ్ ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే దీపం దర్శయామి. ఆచమనీయం సమర్పయామి."
+            },
+            {
+              "type": "h4",
+              "text": "14. Naivedyam (Food Offering)"
+            },
+            {
+              "type": "paragraph",
+              "text": "While saying the following, show food items you prepared (or fruits) to Lord Satya Narayana and imagine that Lord Satya Narayana tasted it. If you know the standard procedure of offering naivedyam with the Gayatri mantra, you can do it. Else, don't worry and just say the line below."
+            },
+            {
+              "type": "sloka",
+              "devanagari": "चन्द्रमा मनसो जातः। चक्षोस्सूर्यो अजायत । मुखादिन्द्रश्चाग्निश्च । प्राणाद्वायुरजायत ।\nराजान्नं सूप संयुक्तं । शाक चोष्य समन्वितं ।\nघृत भक्ष्य समायुक्तं । नैवेद्यं प्रतिगृह्यताम् ।\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने नैवेद्यं समर्पयामि ।",
+              "english": "Chandramaa Manaso Jaatah. Chakshos Sooryo Ajaayata. Mukhaadindraashchaagnishcha. Praanaad Vaayurajaayata.\nRaajaannam Soopa Samyuktam. Shaaka Choshya Samanvitam.\nGhruta Bhakshya Samaayuktam. Naivedyam Pratigruhyataam.\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Naivedyam Samarpayaami.",
+              "telugu": "చంద్రమా మనసో జాతః. చక్షోస్సూర్యో అజాయత. ముఖదింద్రశ్చాగ్నిశ్చ. ప్రాణాద్వాయురజాయత.\nరాజాన్నం సూప సంయుక్తం. శాక చోష్య సమన్వితం.\nఘృత భక్ష్య సమాయుక్తం. నైవేద్యం ప్రతిగృహ్యతామ్.\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే నైవేద్యం సమర్పయామి."
+            },
+            {
+              "type": "h4",
+              "text": "15. Taamboolam (Betel Leaves)"
+            },
+            {
+              "type": "paragraph",
+              "text": "While saying the following, imagine that you are offering a nice taamboolam (paan) to Lord Satya Narayana and offer some akshatas in their place to the idol and the kalasha."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "नाभ्या आसीदन्तरिक्षं । शीर्णो द्यौः समवर्तत । पद्भयां भूमिर्दिशः श्रोत्रात् । तथा लोकाং अकल्पयन् ।\nपूगीफलैः सकपूरैः । नागवल्ली दकैर्युतं । मुक्ता चूर्ण समायुक्तं । तांबूलं प्रतिगृह्यताम् ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने ताम्बूलं समर्पयामि ।",
+            "english": "Naabhyaa Aaseedantariksham. Sheernoo Dhyouh Samavartata. Padbhyaam Bhoomirdishah Shrotraat. Tathaa Lokaang Aakalpayan.\nPoogeephalaih Sakapooraih. Naagavallee Dakairyutam. Muktaa Choorna Samaayuktam. Taamboolam Pratigruhyataam ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Taamboolam Samarpayaami.",
+            "telugu": "నాభ్యా ఆసీదంతరిక్షం. శీర్ణ్లో ద్యౌః సమవర్తత. పద్భ్యాం భూమిర్దిశః శ్రోత్రాత్. తథా లోకాం అకల్పయన్.\nపూగీఫలైః సకపూరైః. నాగవల్లీ దకైర్యుతం. ముక్తా చూర్ణ సమాయుక్తం. తాంబూలం ప్రతిగృహ్యతామ్ ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే తాంబూలం సమర్పయామి."
+            },
+            {
+            "type": "h4",
+            "text": "16. Karpoora Neerajanam (Camphor Lamp)"
+            },
+            {
+            "type": "paragraph",
+            "text": "Place a little camphor on a camphor container or a plate, light it and make a clockwise vertical circle in the air with the plate in front of Lord Satya Narayana. Say the line below while you do it."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "वेदाहमेतं पुरुषं महान्तं। आदित्यवर्णं तमसस्तुपारे ।\nसर्वाणि रूपाणि विचित्य धीरः। नामानि कृत्वाऽऽभिवदन् य्दास्ते ।\nनीराजनं गृहाणेदं । पंचवर्ति समन्वितं । तेजोराशि मयं दत्तं । गृहाण त्वं सुरेश्वर ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने कर्पूरनीराजनं समर्पयामि ।",
+            "english": "Vedaahametam Purusham Mahaantam. Aadityavarṇam Tamasastupaare.\nSarvaaṇi Roopaaṇi Vichitya Dheerah. Naamaani Krutvaa''bhivadan Yadaaste.\nNeeraajanam Gruhaaṇedam. Panchavarti Samanvitam. Tejoraashi Mayam Dattam. Gruhaaṇa Tvam Sureshwara ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Karpooraneeraajanam Samarpayaami.",
+            "telugu": "వేదాహమేతం పురుషం మహాన్తం. ఆదిత్యవర్ణం తమసస్తుపారే.\nసర్వాణి రూపాణి విచిత్య ధీరః. నామాని కృత్వాఽఽభివదన్ య్దాస్తే.\nనీరాజనం గృహాణేదం. పంచవర్తి సమన్వితం. తేజోరాశి మయం దత్తం. గృహాణ త్వం సురేశ్వర ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే కర్పూరనీరాజనం సమర్పయామి."
+            },
+            {
+            "type": "h4",
+            "text": "17. Mantrapushpam (Mantra Flowers)"
+            },
+            {
+            "type": "paragraph",
+            "text": "Take a small flower (or some akshatas) in your right hand, say the following and offer the flower to the idol. If you want, Narayana sooktam (optional) and mantra pushpam can be chanted before the following."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "धाता पुरस्ताद्यमुदाजहार । शक्रः प्रविद्वान्प्रदिशश्चतस्रः ।\nतमेवं विद्वानमृत इह भवति । नान्यः पन्था अयनाय विद्यते ।\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने मन्त्रपुष्पं समर्पयामि ।",
+            "english": "Dhaataa Purastaadyamudaajahaara. Shakrah Pravidvaanpradishashchatasrah.\nTamevam Vidvaanamrita Iha Bhavati. Naanyah Panthaa Ayanaaya Vidyate.\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Mantrapushpam Samarpayaami.",
+            "telugu": "ధాతా పురస్తాద్యముదాజహార. శక్రః ప్రవిద్వాన్ప్రదిశశ్చతస్రః.\nతమేవం విద్వానమృత ఇహ భవతి. నాన్యః పంథా అయనాయ విద్యతే.\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే మంత్రపుష్పం సమర్పయామి."
+            },
+            {
+            "type": "h4",
+            "text": "18. Pradakshina Namaskaram (Circumambulation & Bowing)"
+            },
+            {
+            "type": "paragraph",
+            "text": "Say the following and bow before Lord Satya Narayana mentally. You can also get up, go around Lord Satya Narayana once or thrice and bow down in front of the kalasha."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "ॐ यानि कानि च पापानि जन्मान्तर कृतानि च। तानि तानि प्रणश्यन्ति प्रदक्षिणं पदे पदे ॥ पापोऽहं पापकर्माहं पापात्मा पापसंभवः ।\nत्राहि मां कृपया देव शरणागत वत्सल ॥ अन्यथा शरणं नास्ति त्वमेव शरणं मम ।\nतस्मात् कारुण्य भावेन रक्ष रक्ष रमेश्वर ॥ प्रदक्षिणं करिष्यामि सर्व भ्रम निवारणं । संसार सागरान्मां त्वमुद्धरस्व महाप्रभो ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने प्रदक्षिण नमस्कारान् समर्पयामि ।",
+            "english": "Om Yaani Kaani Cha Paapaani Janmaantara Krutaani Cha. Taani Taani Pranaśyanti Pradakshiṇam Pade Pade || Paapo'ham Paapakarmaaham Paapaatmaa Paapasaṁbhavaḥ.\nTraahi Maam Krupayaa Deva Sharanaagata Vatsala || Anyathaa Sharanaṁ Naasti Tvameva Sharanaṁ Mama.\nTasmaat Kaaruṇya Bhaavena Raksha Raksha Rameshwara || Pradakshiṇam Karishyaami Sarva Bhrama Nivaaranam. Saṁsaara Saagaraanmaam Tvamuddhharasva Mahaaprabho ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Pradakshiṇa Namaskaaraan Samarpayaami.",
+            "telugu": "ఓం యాని కాని చ పాపాని జన్మాంతర కృతాని చ. తాని తాని ప్రణశ్యంతి ప్రదక్షిణం పదే పదే ॥ పాపోఽహం పాపకర్మాహం పాపాత్మా పాపసంభవః.\nత్రాహి మాం కృపయా దేవ శరణాగత వత్సల ॥ అన్యథా శరణం నాస్తి త్వమేవ శరణం మమ.\nతస్మాత్ కారుణ్య భావేన రక్ష రక్ష రామేశ్వర ॥ ప్రదక్షిణం కరిష్యామి సర్వ భ్రమ నివారణం. సంసార సాగరాన్మాం త్వముద్ధరస్వ మహాప్రభో ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే ప్రదక్షిణ నమస్కారాన్ సమర్పయామి."
+            }
+        ]
+    },
+    {
+        "id": "step17",
+        "title": "17. Extra Upacharas",
+        "content": [
+            {
+            "type": "paragraph",
+            "text": "If you have a royal parasol/umbrella, hold it over the idol while saying the following. If not, you can use your right palm."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "ॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने छत्त्रं समर्पयामि ।",
+            "english": "Om Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Chhattram Samarpayaami.",
+            "telugu": "ఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే ఛత్రం సమర్పయామి."
+            },
+            {
+            "type": "paragraph",
+            "text": "If you have a royal chowrie, wave it gently in front of the idol while saying the following. If not, you can use your right palm."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "ॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने चामरं वीजयामि ।",
+            "english": "Om Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Chaamaram Veejayaami.",
+            "telugu": "ఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే చామరం వీజయామి."
+            },
+            {
+            "type": "paragraph",
+            "text": "Say the following and then have someone sing in front of the idol. If no good singer is present, you can sing just a line or 2-3 words. Usually, people sing prayers of God, but one can sing whatever they enjoy."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "ॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने गीतं श्रावयामि ।",
+            "english": "Om Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Geetam Shraavayaami.",
+            "telugu": "ఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే గీతం శ్రావయామి."
+            },
+            {
+            "type": "paragraph",
+            "text": "Say the following and then have someone dance with both rhythm and facial expressions in front of the idol. If no dancer/actor is present, do whatever you can, or offer akshatas and imagine you did a nice dance."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "ॐ नμο भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने नृत्यं नाट्यं दर्शयामि ।",
+            "english": "Om Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Nrutyam Naaṭyam Darshayaami.",
+            "telugu": "ఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే నృత్యం నాట్యం దర్శయామి."
+            },
+            {
+            "type": "paragraph",
+            "text": "Say the following and offer some akshatas to the idol. Imagine that you have offered all royal services to the Lord."
+            },
+            {
+            "type": "sloka",
+            "devanagari": "ॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने समस्त राजोपचारान् समर्पयामि ।",
+            "english": "Om Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Samasta Raajopachaaraan Samarpayaami.",
+            "telugu": "ఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే సమస్త రాజోపచారాన్ సమర్పయామి."
+            }
+        ]   
+    },
+    {
+        "id": "step18",
+        "title": "18. Prarthana (prayer)",
+        "content": [
+        {
+            "type": "paragraph",
+            "text": "Now, pray to Lord Satya Narayana."
+        },
+        {
+            "type": "sloka",
+            "devanagari": "ॐ अमोघं पुण्डरीकाक्षं नृसिंहं दैत्यसूदनं । हृषीकेशं जगन्नाथं वागीशं वरदायकं ॥ सगुणं च गुणातीतं गोविन्दं गरुडध्वजं ।\nजनार्दनं जनानन्दं जानकीवल्लभं हरिं ॥ प्रणमामि सदा भत्क्त्या नारायणमजं परं। दुर्गमे विषमे घोरे शतुर्णा परिपीडिते ॥ निस्तारयतु सर्वेषु तथाऽऽनिष्टभयेषु च।\nनामान्येतानि संकीर्त्य फलमीप्सितमाप्नुयात् ॥ सत्य नारायणं देवं वन्देऽहं कामदं प्रभुं। लीलया विततं विश्वं येन तस्मै नमो नमः ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने प्रार्थना नमस्कारान् समर्पयामि ।",
+            "english": "Om Amogham Puṇḍareekaaksham Nrusimhaṁ Daityasoodanam. Hrusheekesham Jagannaatham Vaageesham Varadaayakam || Sagunam Cha Gunaateetam Govindam Garuḍadhvajam.\nJanaardanam Janaanaṁdam Jaankeevallabham Harim || Praṇamaami Sadaa Bhakttyaa Naaraayaṇamajam Param. Durgame Vishame Ghore Shaturṇaa Paripeeḍite || Nistaarayatu Sarveshu Tathaa''nishṭabhayeshu Cha.\nNaamaanyetaani Saṁkeertya Phalameepsitamaapnuyaat || Satya Naaraayaṇam Devam Vandehaṁ Kaamadam Prabhhum. Leelayaa Vitatam Vishvam Yena Tasmai Namo Namaha ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Praarthana Namaskaaraan Samarpayaami.",
+            "telugu": "ఓం అమోఘం పుండరీకాక్షం నృసింహం దైత్యసూదనం. హృషీకేశం జగన్నాథం వాగీశం వరదాయకం || సగుణం చ గుణాతీతం గోవిందం గరుడధ్వజం.\nజనార్దనం జనానందం జానకీవల్లభం హరిం ॥ ప్రణమామి సదా భక్త్య్రా నారాయణమజం పరం. దుర్గమే విషమే ఘోరే శతుర్ణా పరిపీడితే ॥ నిస్తారయతు సర్వేషు తథాఽఽనిష్టభయేషు చ.\nనామాన్యేతాని సంకీర్త్య ఫలమీప్సితమాప్నుయాత్ ॥ సత్య నారాయణం దేవం వందేఽహం కామదం ప్రభుం. లీలయా వితతం విశ్వం యేన తస్మై నమో నమః ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే ప్రార్థనా నమస్కారాన్ సమర్పయామి."
+        }
+        ]
+    },
+    {
+        "id": "step19",
+        "title": "19. Poorna Phala (full fruit)",
+        "content": [
+        {
+            "type": "paragraph",
+            "text": "Now, offer a full fruit (e.g., banana, apple, orange, etc.) as a symbol of your head or ego. This is similar to a \"Poornaahuti\" performed at the end of fire rituals."
+        },
+        {
+            "type": "sloka",
+            "devanagari": "ॐ इदं फलं मया देव स्थापितं पुरतस्तव । तेन मे सफलावाप्तिर्भवेज्जन्मनि जन्मनि ॥\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ नमो भगवते सत्यदेवाय । श्री रमा सहित सत्य नारायण स्वामिने पूर्णफलं समर्पयामि ।",
+            "english": "Om Idam Phalam Mayaa Deva Sthaapitam Puratastava. Tena Me Saphalavaaptirbhavajjanmani Janmani ||\nOm Poorṇamadaḥ Poorṇamidaṁ Poorṇaatpoorṇamudachyate. Poorṇasya Poorṇamaadaaya Poorṇamevaavashishyate ||\nOm Namo Bhagavate Satyadevaaya. Shree Ramaa Sahita Satya Naaraayana Swaamine Poorṇaphalam Samarpayaami.",
+            "telugu": "ఓం ఇదం ఫలం మయా దేవ స్థాపితం పురతస్తవ. తేన మే సఫలావాప్తిర్భవేజ్జన్మని జన్మని ॥\nఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే. పూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే ॥\nఓం నమో భగవతే సత్యదేవాయ. శ్రీ రమా సహిత సత్య నారాయణ స్వామినే పూర్ణఫలం సమర్పయామి."
+        },
+        {
+            "type": "paragraph",
+            "text": "Imagine that you are completely surrendering yourself to Lord Satya Narayana. The fruit symbolizes one's head or ego (\"I-ness\"), which is to be surrendered to the Lord. Without this inner sense of surrender, an elaborate ritual has little meaning. Most Vedic rituals symbolize inner changes to remove obstacles that block self-knowledge. The ultimate purpose of Veda is self-knowledge, and all rituals serve this purpose."
+        }
+        ]
+    },
+    {
+        "id": "step20",
+        "title": "20. Winding Up and Meditation",
+        "content": [
+        {
+            "type": "paragraph",
+            "text": "Sit still in front of the idol and meditate. Ensure your back, neck, and head are erect but not tense. Close your eyes, visualize your favorite deity in a form you like, and meditate on that form with your favorite mantra. Try to forget your body and actions, and fully immerse yourself in the mantra. Believe that the deity of the mantra is the only one that exists, and that all beings and objects in the world are expressions of this deity. Believe that this deity is the true Doer of all actions. Meditate for as long as you can."
+        }
+        ]
+    },
+    {
+        "id": "step21",
+        "title": "21. Udvaasana (good bye)",
+        "content": [
+        {
+            "type": "paragraph",
+            "text": "Say the following and point to your heart with your hands. Imagine that Lord Satya Narayana has exited the idol and kalasham and returned to your heart."
+        },
+        {
+            "type": "sloka",
+            "devanagari": "यज्ञेन यज्ञमयजन्त देवाः । तानि धर्माणि प्रथमान्यासन् ।\nते ह नाकं महिमानस्सचन्ते । यत्र पूर्वे साध्यास्सन्ति देवाः ।\nअस्मान्मूर्तेश्च कलशाच्च श्री रमासहित सत्यनारायणं यथास्थानं प्रतिष्ठापयामि ।",
+            "english": "Yajnena Yagnamayajantaa Devaah. Taani Dharmaaṇi Prathamaanyaasan.\nTe Ha Naakam Mahimaanassachante. Yatra Poorve Saadhyaassanti Devaah.\nAsmaanmoorteshcha Kalashaachcha Shree Ramaasahita Satyanaraayaṇam Yathaasthaanam Pratishthaapayaami.",
+            "telugu": "యజ్ఞేన యజ్ఞమయజంత దేవాః. తాని ధర్మాణి ప్రథమాన్యాసన్.\nతే హ నాకం మహిమానస్సచంతే. యత్ర పూర్వే సాధ్యస్సంతి దేవాః.\nఅస్మాన్మూర్తేశ్చ కలశాచ్చ శ్రీ రమాసహిత సత్యనారాయణం యథాస్థానం ప్రతిష్ఠాపయామి."
+        },
+        {
+            "type": "paragraph",
+            "text": "If you wish, you can keep the Lord in the idol/kalasha for a few days. In this case, perform this step on the last day, ensuring to do the panchopachara pooja at least once every day."
+        }
+        ]
+    },
+    {
+        "id": "step22",
+        "title": "22. Conclusion",
+        "content": [
+        {
+            "type": "paragraph",
+            "text": "Say the following three verses. Think of Krishna and imagine that you are not the doer, but Krishna is acting through you. While doing this, place a few akshatas on the tips of your right hand's ring and middle fingers, place your palm on the small deposit bowl, and wash it so that the water and akshatas are deposited in the bowl."
+        },
+        {
+            "type": "sloka",
+            "devanagari": "यस्य स्मृत्या च नामोत्क्त्या तपः पूजा क्रियादिषु । न्यूनं संपूर्णतां याति सद्यो वन्दे तमच्युतं ॥\nमंत्रहीनं क्रियाहीनं भक्तिहीनं रमाधिप। यत्पूजितं मया देव परिपूर्ण तदस्तु ते ॥\nप्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै। यानि तेषामशेषाणां श्री कृष्णस्मरणं परं ॥ श्री कृष्ण कृष्ण कृष्ण ।\nकायेन वाचा मनसेन्द्रियैर्वा बुद्धयात्मना वा प्रकृतेः स्वभावात्। करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ॥",
+            "english": "Yasya Smrutyaa Cha Naamotkktyaa Tapah Poojaa Kriyaadishu. Nyoonam Sampoorṇataam Yaati Sadhyo Vande Tamachyutam ||\nMantrahinam Kriyaahinam Bhaktihinam Ramaadhipa. | Yatpoojitam Mayaa Deva Paripoorṇam Tadastu Te ||\nPraayashchittaanyasheṣaaṇi Tapah Karmaatmakaani Vai. Yaani Teṣaamasheṣaaṇaaṁ Shree Krishna Smaraṇam Param || Shree Krishna Krishna Krishna. |\nKaayena Vaachaa Manasendriyairvaa Buddhyaatmanaa Vaa Prakruteh Svabhaavaat. Karomi Yadyat Sakalam Parasmai Naaraayaṇaayeti | Samarpayaami ||",
+            "telugu": "యస్య స్మృత్యా చ నామోత్క్త్య్రా తపః పూజా క్రియాదిషు. న్యూనం సంపూర్ణతాం యాతి సద్యో వందే తమచ్యుతం ॥\nమంత్రహీనం క్రియాహీనం భక్తిహీనం రమాధిప. యత్పూజితం మయా దేవ పరిపూర్ణం తదస్తు తే ॥\nప్రాయశ్చిత్తాన్యశేషాణి తపః కర్మాత్మకాని వై. యాని తేషామశేషాణాం శ్రీ కృష్ణస్మరణం పరం ॥ శ్రీ కృష్ణ కృష్ణ కృష్ణ.\nకాయేన వాచా మనసేంద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావాత్. కరోమి యద్యత్ సకలం పరస్మై నారాయణాయేతి సమర్పయామి ॥"
+        },
+        {
+            "type": "paragraph",
+            "text": "Say the following finally. Imagine that Lord Satya Narayana is pleased with your ritual. Surrender the doership of the ritual to Krishna and pray for peace."
+        },
+        {
+            "type": "sloka",
+            "devanagari": "अनया दिव्य मंगळ पूजया भगवान् सर्वात्मकः श्री रमासहित सत्यनारायणः प्रीयताम् । ॐ तत्सत् । सर्वम् श्री कृष्णार्पणमस्तु ।\nलोकाः समस्ताः सुखिनो भवन्तु । सर्वे जनाः सुखिनो भवन्तु । यावद्भूमण्डले सनातन धर्मो वर्धतु । ॐ शान्तिः शान्तिः शान्तिः ।",
+            "english": "Anayaa Divya Mangaḷa Poojaayaa Bhagavaan Sarvaatmakaḥ Shree Ramaasahita Satyanaraayaṇaḥ Preetataam. Om Tatsat. Sarvam Shree | Krishṇaarpaṇamastu.\nLokaah Samastaah Sukhino Bhavantu. Sarve Janaah Sukhino Bhavantu. Yaavaddhoomandaḷe Sanaatana Dharmo | Vardhatu. Om Shaantiḥ Shaantiḥ Shaantiḥ.",
+            "telugu": "అనయా దివ్య మంగళ పూజయా భగవాన్ సర్వాత్మకః శ్రీ రమాసహిత సత్యనారాయణః ప్రీతతామ్. ఓం తత్సత్. సర్వం శ్రీ కృష్ణార్పణమస్తు.\nలోకాః సమస్తాః సుఖినో భవంతు. సర్వే జనాః సుఖినో భవంతు. యావద్భూమండలే సనాతన ధర్మో వర్ధతు. ఓం శాంతిః శాంతిః శాంతిః."
+        },
+        {
+            "type": "paragraph",
+            "text": "After this, you should not think of yourself as the doer of the ritual just finished, for you have surrendered the doership to Krishna! The naivedyam (food) you offered to the Lord can now be eaten and served to others. You can bathe with the water in the kalasam. You can also drink a spoon or two of it. The coins, dates, and grains used in the pooja can be donated to a learned person."
+        }
+        ],
+        "finalContent": [
+            {
+            "type": "h3",
+            "text": "After the Pooja"
+            },
+            {
+            "type": "list",
+            "items": [
+                "The food offered (naivedyam) can now be eaten and served to others as prasadam.",
+                "The water from the kalasham can be used for bathing or can be drunk.",
+                "The coins, dates, and grains can be donated or used appropriately."
+            ]
+            }
+        ]
+    }
+    ],
+  "grahas": [
+    {
+      "planet": {
+        "name": "Sun",
+        "attribute": "soul - sense of will power",
+        "location": "G1",
+        "dhyana_sloka": "ॐ आकृष्णेन रजसा वर्तमानो निवेशयन्नमृतं मर्त्य च। हिरण्ययेन सविता रथेनाऽऽदेवो याति भुवना विपश्यन् ॥",
+        "naama_mantra": "ॐ सूर्याय नमः ।"
+      },
+      "ruling_deity": {
+        "name": "Agni",
+        "attribute": "",
+        "location": "G1A",
+        "dhyana_sloka": "ॐ अग्निं दूतं वृणीमहे होतारं विश्ववेदसं । अस्य यज्ञस्य सुक्रतुं ॥",
+        "naama_mantra": "ॐ अग्नये नमः ।"
+      },
+      "coruling_deity": {
+        "name": "Rudra",
+        "attribute": "",
+        "location": "G1P",
+        "dhyana_sloka": "ॐ कद्रद्राय प्रचेतसे मीढुष्टमाय तव्यसे । वोचेम शन्तम हृदे ॥",
+        "naama_mantra": "ॐ रुद्राय नमः ।"
+      }
+    },
+    {
+      "planet": {
+        "name": "Moon",
+        "attribute": "mind - sense of experiencing the world",
+        "location": "G2",
+        "dhyana_sloka": "ॐ आप्यायस्व समेतु ते विश्वतस्सोम वृष्णियं । भवा वाजस्य संगथे ॥",
+        "naama_mantra": "ॐ चन्द्राय नमः ।"
+      },
+      "ruling_deity": {
+        "name": "Apas",
+        "attribute": "",
+        "location": "G2A",
+        "dhyana_sloka": "ॐ अप्सु मे सोमो అబ్రవీదంతర్విశ్వాని భేషజా। అగ్నిం చ విశ్వశంభువమాపశ్చ విశ్వభేషజిః ॥",
+        "naama_mantra": "ॐ अप्भ्यो नमः ।"
+      },
+      "coruling_deity": {
+        "name": "Gouri",
+        "attribute": "",
+        "location": "G2P",
+        "dhyana_sloka": "ॐ गौरीमिमाय सलिलानि तक्षत्येकपदी द्विपदी सा चतुष्पदी। अष्टापदी नवपदी बभूवुषी सहस्राक्षरा परमे व्योमन् ॥",
+        "naama_mantra": "ॐ गौर्यै నమః ।"
+      }
+    },
+    {
+      "planet": {
+        "name": "Mars",
+        "attribute": "sense of initiative & energy",
+        "location": "G3",
+        "dhyana_sloka": "ॐ अग्निर्मूर्धा दिवः ककुत्पतिः पृथिव्या अयं । अपार रेतांసి जिन్వति ॥",
+        "naama_mantra": "ॐ मंगळాయ నమः ।"
+      },
+      "ruling_deity": {
+        "name": "Mother Earth",
+        "attribute": "",
+        "location": "G3A",
+        "dhyana_sloka": "ॐ स्योना पृथिवि भवानृक्षरा निवेशनी । यच्चानश्शर्म सप्रथाः ॥",
+        "naama_mantra": "ॐ पृथివ్యై నమః ।"
+      },
+      "coruling_deity": {
+        "name": "Ruler of lands (Kshetrapalaka)",
+        "attribute": "",
+        "location": "G3P",
+        "dhyana_sloka": "ॐ क्षेत्रस्य पतिना वय हिते नेव जयामसि । गामश्चं पोषयित्वा स नो मृडातीదృశై ॥",
+        "naama_mantra": "ॐ ప్రాంతపాలకాయ నమః ।"
+      }
+    },
+    {
+      "planet": {
+        "name": "Mercury",
+        "attribute": "sense of learning & adapting",
+        "location": "G4",
+        "dhyana_sloka": "ॐ उद्बुध्यस्वाग्ने प्रतिजागृह्येनमिष्टापूर्ते ससृजेथामयं च । पुनः कृण्वस्त्वापितरं युवानमन्वాతासी त्वयि तन्तुमेतं ॥",
+        "naama_mantra": "ॐ बुधాయ నమః ।"
+      },
+      "ruling_deity": {
+        "name": "Vishnu",
+        "attribute": "",
+        "location": "G4A",
+        "dhyana_sloka": "ॐ इदं विष्णुर्विचक्रमे त्रेधा निदधे पदं । समूढमस्य सुरे ॥",
+        "naama_mantra": "ॐ విష్ణవే నమః ।"
+      },
+      "coruling_deity": {
+        "name": "Narayana",
+        "attribute": "",
+        "location": "G4P",
+        "dhyana_sloka": "ॐ सहस्रशीर्ष देवं विश्वाक्षं विश्वशंभुवं । विश्वं नारायणं देवमक्षरं परमं पदं ॥",
+        "naama_mantra": "ॐ నారాయణాయ నమః ।"
+      }
+    },
+    {
+      "planet": {
+        "name": "Jupiter",
+        "attribute": "sense of judgment & discretion",
+        "location": "G5",
+        "dhyana_sloka": "ॐ बृहस्पते अतियदर्यो अर्हाद्दयुमद्विभाति क्रतुमज्जनेषु । यद्दीदयच्चवसर्तप्रजात तदस्मासु द्रविणं देहि चित्रं ॥",
+        "naama_mantra": "ॐ బృహస్పతే నమః ।"
+      },
+      "ruling_deity": {
+        "name": "Brahma",
+        "attribute": "",
+        "location": "G5A",
+        "dhyana_sloka": "ॐ ब्रह्मजज्ञानं प्रथमं पुरस्ताद्विसीमतस्सुरुचो वेन आवः । सबुन्निया उपमा अस्य विष्ठास्सतश्च योनिमसतश्च विवः ॥",
+        "naama_mantra": "ॐ బ్రహ్మణే నమః ।"
+      },
+      "coruling_deity": {
+        "name": "Indra",
+        "attribute": "",
+        "location": "G5P",
+        "dhyana_sloka": "ॐ इन्द्रं वो विश्वतस्परिहवामहे जनेभ्यः । अस्माकमस्तु केवलः ॥",
+        "naama_mantra": "ॐ ఇంద్రాయ నమః ।"
+      }
+    },
+    {
+      "planet": {
+        "name": "Venus",
+        "attribute": "sense of enjoyment",
+        "location": "G6",
+        "dhyana_sloka": "ॐ शुक्रं ते अन्यद्यजतं ते अन्यद्विपुरूपे अहनी द्यौरिवాసि । विश्वा हि माया अवसि स्वधा वो भद्रा ते पूषन्निह रातिरस्तु ॥",
+        "naama_mantra": "ॐ శుక్రాయ నమః ।"
+      },
+      "ruling_deity": {
+        "name": "Indrani",
+        "attribute": "",
+        "location": "G6A",
+        "dhyana_sloka": "ॐ इंद्राणीमासु नारिषु सुपत्नीमहमश्रवं । न ह्यस्या अपरं च न जरसा मरते पतिः ॥",
+        "naama_mantra": "ॐ ఇంద్రాణ్యై నమః ।"
+      },
+      "coruling_deity": {
+        "name": "Indra Marutvan",
+        "attribute": "",
+        "location": "G6P",
+        "dhyana_sloka": "ॐ इंद्र मरुत्व इह पाहि सोमं यथा शायति अपिबस्सुतस्य । तव प्रणीती तव शूरशर्मन्नाविवासन्ति कवयस्सुयज्ञाः ॥",
+        "naama_mantra": "ॐ ఇంద్రమరుత్వంతాయ నమః ।"
+      }
+    },
+    {
+      "planet": {
+        "name": "Saturn",
+        "attribute": "sense of hard work & discipline",
+        "location": "G7",
+        "dhyana_sloka": "ॐ शमग्निरग्निभिः करच्छं नस्तपतु सूर्यः । शं वातो वा त्वरपा अपस्त्रिधः ॥",
+        "naama_mantra": "ॐ శనైశ్చరాయ నమః ।"
+      },
+      "ruling_deity": {
+        "name": "Yama",
+        "attribute": "",
+        "location": "G7A",
+        "dhyana_sloka": "ॐ यमाय सोमः सुनुत यमाय जुहुता हविः। यमः हयज्ञो गच्छत्यग्निदूतो अरंकृतः ॥",
+        "naama_mantra": "ॐ యమాయ నమః ।"
+      },
+      "coruling_deity": {
+        "name": "Prajapati",
+        "attribute": "",
+        "location": "G7P",
+        "dhyana_sloka": "ॐ प्रजापते न त्वदेतान्यन्यो विश्वा जातानि परिता बभूव । यत्कामास्ते जुहुमस्तन्नो अस्तु वयञ् स्याम पतयो రयीణాం ॥",
+        "naama_mantra": "ॐ ప్రజాపతయే నమః ।"
+      }
+    },
+    {
+      "planet": {
+        "name": "Rahu",
+        "attribute": "sense of being outcaste",
+        "location": "G8",
+        "dhyana_sloka": "ॐ कयानश्चित्र आभुवदूती सदावृधस्सखा । कया शचिष्ठया वृता ॥",
+        "naama_mantra": "ॐ राहువే నమః ।"
+      },
+      "ruling_deity": {
+        "name": "Cow",
+        "attribute": "",
+        "location": "G8A",
+        "dhyana_sloka": "ॐ आयं गौः पृश्निरक्रमीदसन्मातरं पुनः। पितरं च प्रयंत्सुवः ॥",
+        "naama_mantra": "ॐ గోమాత్రే నమః ।"
+      },
+      "coruling_deity": {
+        "name": "Serpent",
+        "attribute": "",
+        "location": "G8P",
+        "dhyana_sloka": "ॐ नमो अस्तु सर्पेभ्यो ये केच पृथिवी मनु ये। अंतरिक्षे ये दिवि तेभ्यस्सर्पेभ्यो नमः ॥",
+        "naama_mantra": "ॐ सर्वేభ्यो నమః ।"
+      }
+    },
+    {
+      "planet": {
+        "name": "Ketu",
+        "attribute": "sense of detachment & liberation",
+        "location": "G9",
+        "dhyana_sloka": "ॐ केतुं कृण्वन्नकेतवे पेशो मर्या अपेशसे । समुषद्भिरजायथाः ॥",
+        "naama_mantra": "ॐ కేతుగణేభ్యో నమః ।"
+      },
+      "ruling_deity": {
+        "name": "Chitragupta",
+        "attribute": "",
+        "location": "G9A",
+        "dhyana_sloka": "ॐ सचित्रचित्रं चितयन् तमस्मे चित्रक्षत्र चित्रतमं वयोधां। चंद्रं रयिं पुरुवीरं बृहन्तं चंद्रचंद्राभिर्गुणते युवस्व ॥",
+        "naama_mantra": "ॐ చిత్రగుప్తాయ నమః ।"
+      },
+      "coruling_deity": {
+        "name": "Brahma",
+        "attribute": "",
+        "location": "G9P",
+        "dhyana_sloka": "ॐ ब्रह्मा देवानां पदवीः कवीनमृषिर्विप्राणां महिषो मृगाणां श्येनो गृध्राणा स्वदितिर्वनाना सोमः पवित्र मत्येति रेभन् ॥",
+        "naama_mantra": "ॐ బ్రహ్మణే నమః ।"
+      }
+    }
+  ],
+  "dikpalakas": [
+    {
+      "name": "Indra (East)",
+      "dhyana_sloka": {
+        "devanagari": "ॐ इन्द्रं वो विश्वतस्परिहवामहे जनेभ्यः । अस्माकमस्तु केवलः ॥",
+        "english": "Om Indram Vo Vishvatasparihaavamahe Janebhyah. Asmaakmastu Kevalah.",
+        "telugu": "ఓం ఇన్ద్రం వో విశ్వతస్పరిహవామహే జనేభ్యః । అస్మాకమస్తు కేవలః ॥"
+      },
+      "naama_mantra": {
+        "devanagari": "ॐ लं इन्द्राय नमः ।",
+        "english": "Om Lam Indraaya Namaha.",
+        "telugu": "ఓం లం ఇన్ద్రాయ నమః ।"
+      }
+    },
+    {
+      "name": "Agni (Southeast)",
+      "dhyana_sloka": {
+        "devanagari": "ॐ अग्निं दूतं वृणीमहे होतारं विश्ववेदसं । अस्य यज्ञस्य सुक्रतुं ॥",
+        "english": "Om Agnim Dootam Vrneemahe Hotaaram Vishvavedasm. Asya Yajnasya Sukratum.",
+        "telugu": "ఓం అగ్నిం దూతం వృణీమహే హోతారం విశ్వవేదసం । అస్య యజ్ఞస్య సుక్రతుం ॥"
+      },
+      "naama_mantra": {
+        "devanagari": "ॐ रं अग्नये नमः ।",
+        "english": "Om Ram Agnaye Namaha.",
+        "telugu": "ఓం రం అగ్నయే నమః ।"
+      }
+    },
+    {
+      "name": "Yama (South)",
+      "dhyana_sloka": {
+        "devanagari": "ॐ यमाय सोमः सुनुत यमाय जुहुता हविः। यम हयज्ञो गच्छत्यग्निदूतो अरंकृतः ॥",
+        "english": "Om Yamaaya Somah Sunuta Yamaaya Juhutaa Havih. Yama Hayajno Gacchhatyagnidooto Aramkrtah.",
+        "telugu": "ఓం యమాయ సోమః సునుత యమాయ జుహుతా హవిః। యమ హయజ్ఞో గచ్ఛత్యగ్నిదూతో అరంకృతః ॥"
+      },
+      "naama_mantra": {
+        "devanagari": "ॐ मं यमाय नमः ।",
+        "english": "Om Mam Yamaaya Namaha.",
+        "telugu": "ఓం మం యమాయ నమః ।"
+      }
+    },
+    {
+      "name": "Nirriti (Southwest)",
+      "dhyana_sloka": {
+        "devanagari": "ॐ मोषुणः परापरा निर्ऋतिर्दुर्हणावधीत् । पदीष्ट तृष्णया सह ॥",
+        "english": "Om Moshunah Paraaparaa Nirrutirdurhanavadheet. Padeeshta Trshnayaa Saha.",
+        "telugu": "ఓం మోషుణః పరాపరా నిర్ఋతిర్దుర్హణావధీత్ । పదీష్ట తృష్ణయా సహ ॥"
+      },
+      "naama_mantra": {
+        "devanagari": "ॐ क्षं निर्ऋतये नमः ।",
+        "english": "Om Ksham Nirrutaye Namaha.",
+        "telugu": "ఓం క్షం నిర్ఋతయే నమః ।"
+      }
+    },
+    {
+      "name": "Varuna (West)",
+      "dhyana_sloka": {
+        "devanagari": "ॐ इमं में वरुण श्रुधी हव मद्या च मृळय । त्वामवस्यूराचके ॥",
+        "english": "Om Imam Me Varuna Shrudhi Hava Madyaa Cha Mrlaya. Tvaamavastyuraarachake.",
+        "telugu": "ఓం ఇమం మే వరుణ శ్రుధీ హవ మద్యా చ మృళయ । త్వామవస్యూరాచకే ॥"
+      },
+      "naama_mantra": {
+        "devanagari": "ॐ वं वरुणाय नमः ।",
+        "english": "Om Vam Varunaaya Namaha.",
+        "telugu": "ఓం వం వరుణాయ నమః ।"
+      }
+    },
+    {
+      "name": "Vayu (Northwest)",
+      "dhyana_sloka": {
+        "devanagari": "ॐ तववाय वृतस्पते त्वष्टुर्जामातरद्भुत । आवां स्या वृणीमहे ॥",
+        "english": "Om Tavavaaya Vrtaspate Tvashturjaamaataradbhuta. Aavaam Syaa Vrneemahe.",
+        "telugu": "ఓం తవవాయ వృతస్పతే త్వష్టుర్జామాతరద్భుత । ఆవాం స్యా వృణీమహే ॥"
+      },
+      "naama_mantra": {
+        "devanagari": "ॐ यं वायवे नमः ।",
+        "english": "Om Yam Vaayave Namaha.",
+        "telugu": "ఓం యం వాయవే నమః ।"
+      }
+    },
+    {
+      "name": "Soma Kubera (North)",
+      "dhyana_sloka": {
+        "devanagari": "ॐ सोमो धेनुं सोमो अर्वंतमाशु सोम वीरं कर्मण्यं ददाति । सादन्यं विदथ्य सभेयं पितृश्रवणं यो ददाशदस्मै ॥",
+        "english": "Om Somo Dhenum Somo Arvantamaashu Soma Veeram Karmannyam Dadaati. Saadanyam Vidathya Sabheyam Pitrshraavanam Yo Dadaashadasmai.",
+        "telugu": "ఓం సోమో ధేనుం సోమో అర్వంతమాశు సోమ వీరం కర్మణ్యం దదాతి । సాదన్యం విదథ్య సభేయం పితృశ్రవణం యో దదాశదస్మై ॥"
+      },
+      "naama_mantra": {
+        "devanagari": "ॐ सं सोमाय नमः ।",
+        "english": "Om Sam Somaaya Namaha.",
+        "telugu": "ఓం సం సోమాయ నమః ।"
+      }
+    },
+    {
+      "name": "Eeshana (Northeast)",
+      "dhyana_sloka": {
+        "devanagari": "ॐ तमीशानं जगतस्तस्थुषस्पतिं धियं जिन्वमनसे हूमहे । वयं पूषानो यथा वेदसामसङ्घधे रक्षिता पायुरदब्धस्स्वस्तये ॥",
+        "english": "Om Tameeshaanam Jagatastasthushaspating Dhiyam Jinvamanase Hoomahe. Vayam Pooshano Yathaa Vedasaamasanghe Rakshitaa Paayuradabdhussvastaye.",
+        "telugu": "ఓం తమీశానం జగతస్తస్థుషస్పతింగ్ ధియం జిన్వమనసే హూమహే । వయం పూషానో యథా వేదసామసంఘే రక్షితా పాయురదబ్ధస్స్వస్తయే ॥"
+      },
+      "naama_mantra": {
+        "devanagari": "ॐ हं ईशानाय नमः।",
+        "english": "Om Ham Eeshanaaya Namaha.",
+        "telugu": "ఓం హం ఈశానాయ నమః।"
+      }
+    },
+    {
+      "name": "Brahma (Upward)",
+      "dhyana_sloka": {
+        "devanagari": "ॐ ब्रह्मा देवानां पदवीः कवीनमृषिर्विप्राणां महिषो मृगाणां श्येनो गृध्राणा स्वदितिर्वनाना सोमः पवित्र मत्येति रेभन् ॥",
+        "english": "Om Brahmaa Devaanaam Padaveeh Kaveenamrshirvipraanam Mahisho Mrgaanaam Shyeno Grdhraaṇa Svaditirvanaaṇa Somah Pavitra Matyeti Rebhan.",
+        "telugu": "ఓం బ్రహ్మా దేవానాం పదవీః కవీనమృషిర్విప్రాణాం మహిషో మృగాణాం శ్యేనో గృధ్రాణా స్వదితిర్వనానా సోమః పవిత్ర మత్యేతి రేభన్ ॥"
+      },
+      "naama_mantra": {
+        "devanagari": "ॐ आं ब्रह्मणे नमः ।",
+        "english": "Om Aam Brahmane Namaha.",
+        "telugu": "ఓం ఆం బ్రహ్మణే నమః ।"
+      }
+    },
+    {
+      "name": "Ananta Sesha (Downward)",
+      "dhyana_sloka": {
+        "devanagari": "ॐ तद्विष्णोः परमं पद सदा पश्यन्ति सूरयः । दिवीव चक्षुराततं ॥",
+        "english": "Om Tadvishnoh Paramam Pada Sadaa Pashyanti Soorayah. Diveeva Chakshuraatatam.",
+        "telugu": "ఓం తద్విష్ణోః పరమం పద సదా పశ్యంతి సూరయః । దివీవ చక్షురాతతం ॥"
+      },
+      "naama_mantra": {
+        "devanagari": "ॐ अं अनंतशेषाय नमः।",
+        "english": "Om Am Anantasheshaaya Namaha.",
+        "telugu": "ఓం అం అనంతశేషాయ నమః।"
+      }
+    }
+  ],
+  "ganapathi_pooja_services": [
+    {
+      "service": {
+        "devanagari": "आसनं",
+        "english": "Asanam (Seat)",
+        "telugu": "ఆసనం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। आसनं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Aasanam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. ఆసనం సమర్పయామి."
+      },
+      "action": "Offer a few akshatas to the idol."
+    },
+    {
+      "service": {
+        "devanagari": "पाद्यं",
+        "english": "Paadyam (Feet wash)",
+        "telugu": "పాద్యం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। पादयोः पाद्यं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Paadayoh Paadyam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. పాదయోః పాద్యం సమర్పయామి."
+      },
+      "action": "Show a little water with the spoon and pour it into a deposit bowl."
+    },
+    {
+      "service": {
+        "devanagari": "अर्घ्यं",
+        "english": "Arghyam (Hand wash)",
+        "telugu": "అర్ఘ్యం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। हस्तयोः अर्घ्यं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Hastayoh Arghyam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. హస్తయోః అర్ఘ్యం సమర్పయామి."
+      },
+      "action": "Show a little water with the spoon and pour it into the deposit bowl."
+    },
+    {
+      "service": {
+        "devanagari": "आचमनीयं",
+        "english": "Aachamaniyam (Water for sipping)",
+        "telugu": "ఆచమనీయం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः । मुखे शुद्धाचमनीयं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Mukhe Shuddhaachamaneeyam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. ముఖే శుద్ధాచమనీయం సమర్పయామి."
+      },
+      "action": "Show a little water with the spoon and pour it into a deposit bowl."
+    },
+    {
+      "service": {
+        "devanagari": "स्नानं",
+        "english": "Snanam (Bath)",
+        "telugu": "స్నానం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। स्नपयामि। स्नानानन्तरं आचमनीयं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Snapayaami. Snaanaanantharam Aachamaneeyam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. స్నపయామి. స్నానానంతరం ఆచమనీయం సమర్పయామి."
+      },
+      "action": "Show water for bathing, then again for sipping, pouring both into the deposit bowl."
+    },
+    {
+      "service": {
+        "devanagari": "वस्त्रं",
+        "english": "Vastram (Clothing)",
+        "telugu": "వస్త్రం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। वस्त्राणि धारयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Vastraani Dhaarayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. వస్త్రాణి ధారయామి."
+      },
+      "action": "Offer a few akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "यज्ञोपवीतं",
+        "english": "Yajnopaveetam (Sacred Thread)",
+        "telugu": "యజ్ఞోపవీతం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। यज्ञोपवीतं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Yagnopaveetam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. యజ్ఞోపవీతం సమర్పయామి."
+      },
+      "action": "Offer a few akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "गन्धं",
+        "english": "Gandham (Sandalwood Paste)",
+        "telugu": "గంధం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः । गन्धान् धारयामि। हरिद्रा कुंकुमं समर्पयामि। अक्षतान् समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Gandhaan Dhaarayaami. Haridraa Kumkumam Samarpayaami. Akshataan Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. గంధాన్ ధారయామి. హరిద్రా కుంకుమం సమర్పయామి. అక్షతాన్ సమర్పయామి."
+      },
+      "action": "Offer sandalwood paste, turmeric, kumkum, and akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "आभरणानि",
+        "english": "Aabharanam (Ornaments)",
+        "telugu": "ఆభరణాని"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। आभरणानि समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Aabharaṇaani Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. ఆభరణాని సమర్పయామి."
+      },
+      "action": "Offer a few akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "पुष्पं",
+        "english": "Pushpam (Flowers)",
+        "telugu": "పుష్పం"
+      },
+      "mantra": {
+        "devanagari": "ॐ सुमुखाय नमः । ॐ एकदन्ताय नमः। ओं कपिलाय नमः। ॐ गजकर्णकाय नमः। ॐ लम्बोदराय नमः । ॐ विकटाय नमः । ॐ विघ्नराजाय नमः। ॐ गणाधिपाय नमः। ॐ धूमकेतवे नमः । ॐ गणाध्यक्षाय नमः । ॐ फालचन्द्राय नमः। ॐ गजाननाय नमः। ॐ वक्रतुण्डाय नम। ॐ हेरम्बाय नमः। ॐ स्कन्द पूर्वजाय नमः । ॐ सर्वसिद्धिप्रदायकाय नमः ।\nॐ गं गणपतये नमः । पुष्पैः पूजयामि ।",
+        "english": "Om Sumukhaaya Namaha. Om Ekadantaaya Namaha. Om Kapilaaya Namaha. Om Gajakarnakaaya Namaha. Om Lambodaraaya Namaha. Om Vikataaya Namaha. Om Vighnaraajaaya Namaha. Om Ganaadhipaaya Namaha. Om Dhoomaketave Namaha. Om Ganaadhyakshaaya Namaha. Om Phaalachandraaya Namaha. Om Gajaananaaya Namaha. Om Vakratundaaya Nama. Om Herambaaya Namaha. Om Skanda Poorvajaaya Namaha. Om Sarvasiddhipradayaakaaya Namaha.\nOm Gam Ganapataye Namaha. Pushpaih Poojaayaami.",
+        "telugu": "ఓం సుముఖాయ నమః. ఓం ఏకదంతాయ నమః. ఓం కపిలాయ నమః. ఓం గజకర్ణకాయ నమః. ఓం లంబోదరాయ నమః. ఓం వికటాయ నమః. ఓం విఘ్నరాజాయ నమః. ఓం గణాధిపాయ నమః. ఓం ధూమకేతవే నమః. ఓం గణాధ్యక్షాయ నమః. ఓం ఫాలచంద్రాయ నమః. ఓం గజాననాయ నమః. ఓం వక్రతుండాయ నమ. ఓం హేరంబాయ నమః. ఓం స్కంద పూర్వజాయ నమః. ఓం సర్వసిద్ధిప్రదాయకాయ నమః.\nఓం గం గణపతయే నమః. పుష్పైః పూజయామి."
+      },
+      "action": "Sprinkle a few flowers or flower petals or akshatas on Lord Ganapathi for each name."
+    },
+    {
+      "service": {
+        "devanagari": "धूपं",
+        "english": "Dhoopam (Incense)",
+        "telugu": "ధూపం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। धूपं आघ्रापयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Dhoopam Aaghraapayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. ధూపం ఆఘ్రాపయామి."
+      },
+      "action": "Show the lit incense stick to Lord Ganapathi."
+    },
+    {
+      "service": {
+        "devanagari": "दीपं",
+        "english": "Deepam (Lamp)",
+        "telugu": "దీపం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। दीपं दर्शयामि। आचमनीयं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Deepam Darshayaami. Aachamaneeyam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. దీపం దర్శయామి. ఆచమనీయం సమర్పయామి."
+      },
+      "action": "Show the lit lamp to Lord Ganapathi, then show a little water and pour it into the deposit bowl."
+    },
+    {
+      "service": {
+        "devanagari": "नैवेद्यं",
+        "english": "Naivedyam (Food Offering)",
+        "telugu": "నైవేద్యం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः । नैवेद्यं समर्पयामि । ताम्बूलं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Naivedyam Samarpayaami. Taamboolam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. నైవేద్యం సమర్పయామి. తాంబూలం సమర్పయామి."
+      },
+      "action": "Show the prepared food items. Then, imagine offering a taamboolam (paan) and offer some akshatas in its place."
+    },
+    {
+      "service": {
+        "devanagari": "कर्पूरनीराजनं",
+        "english": "Karpoora Neerajanam (Camphor Lamp)",
+        "telugu": "కర్పూరనీరాజనం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः । कर्पूरनीराजनं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Karpooraneeraajanam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. కర్పూరనీరాజనం సమర్పయామి."
+      },
+      "action": "Light a little camphor and make a clockwise vertical circle in the air with it in front of Lord Ganapathi."
+    },
+    {
+      "service": {
+        "devanagari": "मन्त्रपुष्पं",
+        "english": "Mantrapushpam (Mantra Flowers)",
+        "telugu": "మంత్రపుష్పం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः । मन्त्रपुष्पं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Mantrapushpam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. మంత్రపుష్పం సమర్పయామి."
+      },
+      "action": "Take a small flower (or petals or akshatas) and offer it to Lord Ganapathi."
+    },
+    {
+      "service": {
+        "devanagari": "प्रदक्षिण नमस्कारान्",
+        "english": "Pradakshina Namaskaram (Circumambulation & Bowing)",
+        "telugu": "ప్రదక్షిణ నమస్కారాన్"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः । प्रदक्षिण नमस्कारान् समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Pradakshina Namaskaaraan Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. ప్రదక్షిణ నమస్కారాన్ సమర్పయామి."
+      },
+      "action": "Mentally bow before Lord Ganapathi, or stand up and go around the altar once or thrice, and then bow down."
+    }
+  ],
+  "varuna_pooja_services": [
+    {
+      "service": {
+        "devanagari": "आसनं",
+        "english": "Asanam (Seat)",
+        "telugu": "ఆసనం"
+      },
+      "mantra": {
+        "devanagari": "ॐ वं वरुणाय नमः। आसनं समर्पयामि ।",
+        "english": "Om Vam Varunaaya Namaha. Aasanam Samarpayaami.",
+        "telugu": "ఓం వం వరుణాయ నమః. ఆసనం సమర్పయామి."
+      },
+      "action": "Offer a few akshatas to the idol."
+    },
+    {
+      "service": {
+        "devanagari": "पाद्यं",
+        "english": "Paadyam (Feet wash)",
+        "telugu": "పాద్యం"
+      },
+      "mantra": {
+        "devanagari": "ॐ वं वरुणाय नमः। पादयोः पाद्यं समर्पयामि ।",
+        "english": "Om Vam Varunaaya Namaha. Paadayoh Paadyam Samarpayaami.",
+        "telugu": "ఓం వం వరుణాయ నమః. పాదయోః పాద్యం సమర్పయామి."
+      },
+      "action": "Show a little water with the spoon and pour it into a deposit bowl."
+    },
+    {
+      "service": {
+        "devanagari": "अर्घ्यं",
+        "english": "Arghyam (Hand wash)",
+        "telugu": "అర్ఘ్యం"
+      },
+      "mantra": {
+        "devanagari": "ॐ वं वरुणाय नमः। हस्तयोः अर्घ्यं समर्पयामि ।",
+        "english": "Om Vam Varunaaya Namaha. Hastayoh Arghyam Samarpayaami.",
+        "telugu": "ఓం వం వరుణాయ నమః. హస్తయోః అర్ఘ్యం సమర్పయామి."
+      },
+      "action": "Show a little water with the spoon and pour it into the deposit bowl."
+    },
+    {
+      "service": {
+        "devanagari": "आचमनीयं",
+        "english": "Aachamaniyam (Water for sipping)",
+        "telugu": "ఆచమనీయం"
+      },
+      "mantra": {
+        "devanagari": "ॐ वं वरुणाय नमः । मुखे शुद्धाचमनीयं समर्पयामि ।",
+        "english": "Om Vam Varunaaya Namaha. Mukhe Shuddhaachamaneeyam Samarpayaami.",
+        "telugu": "ఓం వం వరుణాయ నమః. ముఖే శుద్ధాచమనీయం సమర్పయామి."
+      },
+      "action": "Show a little water with the spoon and pour it into a deposit bowl."
+    },
+    {
+      "service": {
+        "devanagari": "स्नानं",
+        "english": "Snanam (Bath)",
+        "telugu": "స్నానం"
+      },
+      "mantra": {
+        "devanagari": "ॐ वं वरुणाय नमः। स्नपयामि। स्नानानन्तरं आचमनीयं समर्पयामि ।",
+        "english": "Om Vam Varunaaya Namaha. Snapayaami. Snaanaanantharam Aachamaneeyam Samarpayaami.",
+        "telugu": "ఓం వం వరుణాయ నమః. స్నపయామి. స్నానానంతరం ఆచమనీయం సమర్పయామి."
+      },
+      "action": "Show water for bathing, then again for sipping, pouring both into the deposit bowl."
+    },
+    {
+      "service": {
+        "devanagari": "वस्त्रं",
+        "english": "Vastram (Clothing)",
+        "telugu": "వస్త్రం"
+      },
+      "mantra": {
+        "devanagari": "ॐ वं वरुणाय नमः। वस्त्राणि धारयामि ।",
+        "english": "Om Vam Varunaaya Namaha. Vastraani Dhaarayaami.",
+        "telugu": "ఓం వం వరుణాయ నమః. వస్త్రాణి ధారయామి."
+      },
+      "action": "Offer a few akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "यज्ञोपवीतं",
+        "english": "Yajnopaveetam (Sacred Thread)",
+        "telugu": "యజ్ఞోపవీతం"
+      },
+      "mantra": {
+        "devanagari": "ॐ वं वरुणाय नमः। यज्ञोपवीतं समर्पयामि ।",
+        "english": "Om Vam Varunaaya Namaha. Yagnopaveetam Samarpayaami.",
+        "telugu": "ఓం వం వరుణాయ నమః. యజ్ఞోపవీతం సమర్పయామి."
+      },
+      "action": "Offer a few akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "गन्धं",
+        "english": "Gandham (Sandalwood Paste)",
+        "telugu": "గంధం"
+      },
+      "mantra": {
+        "devanagari": "ॐ वं वरुणाय नमः । गन्धान् धारयामि। हरिद्रा कुंकुमं समर्पयामि। अक्षतान् समर्पयामि ।",
+        "english": "Om Vam Varunaaya Namaha. Gandhaan Dhaarayaami. Haridraa Kumkumam Samarpayaami. Akshataan Samarpayaami.",
+        "telugu": "ఓం వం వరుణాయ నమః. గంధాన్ ధారయామి. హరిద్రా కుంకుమం సమర్పయామి. అక్షతాన్ సమర్పయామి."
+      },
+      "action": "Offer sandalwood paste, turmeric, kumkum, and akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "आभरणानि",
+        "english": "Aabharanam (Ornaments)",
+        "telugu": "ఆభరణాని"
+      },
+      "mantra": {
+        "devanagari": "ॐ वं वरुणाय नमः। आभरणानि समर्पयामि ।",
+        "english": "Om Vam Varunaaya Namaha. Aabharaṇaani Samarpayaami.",
+        "telugu": "ఓం వం వరుణాయ నమః. ఆభరణాని సమర్పయామి."
+      },
+      "action": "Offer a few akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "पुष्पं",
+        "english": "Pushpam (Flowers)",
+        "telugu": "పుష్పం"
+      },
+      "mantra": {
+        "devanagari": "ॐ सुमुखाय नमः । ॐ एकदन्ताय नमः। ओं कपिलाय नमः। ॐ गजकर्णकाय नमः। ॐ लम्बोदराय नमः । ॐ विकटाय नमः । ॐ विघ्नराजाय नमः। ॐ गणाधिपाय नमः। ॐ धूमकेतवे नमः । ॐ गणाध्यक्षाय नमः । ॐ फालचन्द्राय नमः। ॐ गजाननाय नमः। ॐ वक्रतुण्डाय नम। ॐ हेरम्बाय नमः। ॐ स्कन्द पूर्वजाय नमः । ॐ सर्वसिद्धिप्रदायकाय नमः ।\nॐ गं गणपतये नमः । पुष्पैः पूजयामि ।",
+        "english": "Om Sumukhaaya Namaha. Om Ekadantaaya Namaha. Om Kapilaaya Namaha. Om Gajakarnakaaya Namaha. Om Lambodaraaya Namaha. Om Vikataaya Namaha. Om Vighnaraajaaya Namaha. Om Ganaadhipaaya Namaha. Om Dhoomaketave Namaha. Om Ganaadhyakshaaya Namaha. Om Phaalachandraaya Namaha. Om Gajaananaaya Namaha. Om Vakratundaaya Nama. Om Herambaaya Namaha. Om Skanda Poorvajaaya Namaha. Om Sarvasiddhipradayaakaaya Namaha.\nOm Gam Ganapataye Namaha. Pushpaih Poojaayaami.",
+        "telugu": "ఓం సుముఖాయ నమః. ఓం ఏకదంతాయ నమః. ఓం కపిలాయ నమః. ఓం గజకర్ణకాయ నమః. ఓం లంబోదరాయ నమః. ఓం వికటాయ నమః. ఓం విఘ్నరాజాయ నమః. ఓం గణాధిపాయ నమః. ఓం ధూమకేతవే నమః. ఓం గణాధ్యక్షాయ నమః. ఓం ఫాలచంద్రాయ నమః. ఓం గజాననాయ నమః. ఓం వక్రతుండాయ నమ. ఓం హేరంబాయ నమః. ఓం స్కంద పూర్వజాయ నమః. ఓం సర్వసిద్ధిప్రదాయకాయ నమః.\nఓం గం గణపతయే నమః. పుష్పైః పూజయామి."
+      },
+      "action": "Sprinkle a few flowers or flower petals or akshatas on Lord Ganapathi for each name."
+    },
+    {
+      "service": {
+        "devanagari": "धूपं",
+        "english": "Dhoopam (Incense)",
+        "telugu": "ధూపం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। धूपं आघ्रापयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Dhoopam Aaghraapayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. ధూపం ఆఘ్రాపయామి."
+      },
+      "action": "Show the lit incense stick to Lord Ganapathi."
+    },
+    {
+      "service": {
+        "devanagari": "दीपं",
+        "english": "Deepam (Lamp)",
+        "telugu": "దీపం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः। दीपं दर्शयामि। आचमनीयं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Deepam Darshayaami. Aachamaneeyam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. దీపం దర్శయామి. ఆచమనీయం సమర్పయామి."
+      },
+      "action": "Show the lit lamp to Lord Ganapathi, then show a little water and pour it into the deposit bowl."
+    },
+    {
+      "service": {
+        "devanagari": "नैवेद्यं",
+        "english": "Naivedyam (Food Offering)",
+        "telugu": "నైవేద్యం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः । नैवेद्यं समर्पयामि । ताम्बूलं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Naivedyam Samarpayaami. Taamboolam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. నైవేద్యం సమర్పయామి. తాంబూలం సమర్పయామి."
+      },
+      "action": "Show the prepared food items. Then, imagine offering a taamboolam (paan) and offer some akshatas in its place."
+    },
+    {
+      "service": {
+        "devanagari": "कर्पूरनीराजनं",
+        "english": "Karpoora Neerajanam (Camphor Lamp)",
+        "telugu": "కర్పూరనీరాజనం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः । कर्पूरनीराजनं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Karpooraneeraajanam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. కర్పూరనీరాజనం సమర్పయామి."
+      },
+      "action": "Light a little camphor and make a clockwise vertical circle in the air with it in front of Lord Ganapathi."
+    },
+    {
+      "service": {
+        "devanagari": "मन्त्रपुष्पं",
+        "english": "Mantrapushpam (Mantra Flowers)",
+        "telugu": "మంత్రపుష్పం"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः । मन्त्रपुष्पं समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Mantrapushpam Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. మంత్రపుష్పం సమర్పయామి."
+      },
+      "action": "Take a small flower (or petals or akshatas) and offer it to Lord Ganapathi."
+    },
+    {
+      "service": {
+        "devanagari": "प्रदक्षिण नमस्कारान्",
+        "english": "Pradakshina Namaskaram (Circumambulation & Bowing)",
+        "telugu": "ప్రదక్షిణ నమస్కారాన్"
+      },
+      "mantra": {
+        "devanagari": "ॐ गं गणपतये नमः । प्रदक्षिण नमस्कारान् समर्पयामि ।",
+        "english": "Om Gam Ganapataye Namaha. Pradakshina Namaskaaraan Samarpayaami.",
+        "telugu": "ఓం గం గణపతయే నమః. ప్రదక్షిణ నమస్కారాన్ సమర్పయామి."
+      },
+      "action": "Mentally bow before Lord Ganapathi, or stand up and go around the altar once or thrice, and then bow down."
+    }
+  ],
+  "anga_pooja_services": [
+    {
+      "service": {
+        "devanagari": "पादौ",
+        "english": "Feet",
+        "telugu": "పాదౌ"
+      },
+      "mantra": {
+        "devanagari": "ॐ केशवाय नमः । पादौ पूजयामि ।",
+        "english": "Om Keshavaaya Namaha. Paadou Poojaayaami.",
+        "telugu": "ఓం కేశవాయ నమః । పాదౌ పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "गुल्फौ",
+        "english": "Ankles",
+        "telugu": "గుల్ఫౌ"
+      },
+      "mantra": {
+        "devanagari": "ॐ गोविन्दाय नमः। गुल्फौ पूजयामि।",
+        "english": "Om Govindaaya Namaha. Goulfau Poojaayaami.",
+        "telugu": "ఓం గోవిందాయ నమః। గుల్ఫౌ పూజయామి।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "जंघे",
+        "english": "Shank",
+        "telugu": "జంఘే"
+      },
+      "mantra": {
+        "devanagari": "ॐ इन्दिरापतये नमः । जंघे पूजयामि ।",
+        "english": "Om Indiraapataye Namaha. Janghe Poojaayaami.",
+        "telugu": "ఓం ఇందిరాపతయే నమః । జంఘే పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "जानुनी",
+        "english": "Knee",
+        "telugu": "జానునీ"
+      },
+      "mantra": {
+        "devanagari": "ॐ अनघाय नमः। जानुनी पूजयामि ।",
+        "english": "Om Anaghaaya Namaha. Jaanunee Poojaayaami.",
+        "telugu": "ఓం అనఘాయ నమః। జానునీ పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "ऊरू",
+        "english": "Thighs",
+        "telugu": "ఊరూ"
+      },
+      "mantra": {
+        "devanagari": "ॐ जनार्दनाय नमः। ऊरू पूजयामि ।",
+        "english": "Om Janaardanaaya Namaha. Ooroo Poojaayaami.",
+        "telugu": "ఓం జనార్దనాయ నమః। ఊరూ పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "कटिं",
+        "english": "Hips",
+        "telugu": "కటిం"
+      },
+      "mantra": {
+        "devanagari": "ॐ विष्टरश्रवसे नमः। कटिं पूजयामि ।",
+        "english": "Om Vishtarashravase Namaha. Katim Poojaayaami.",
+        "telugu": "ఓం విష్టరశ్రవసే నమః। కటిం పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "उदरं",
+        "english": "Stomach",
+        "telugu": "ఉదరం"
+      },
+      "mantra": {
+        "devanagari": "ॐ कुक्षिस्थाखिलभुवनाय नमः। उदरं पूजयामि ।",
+        "english": "Om Kukshisthaakhilabhuvanaaya Namaha. Udaram Poojaayaami.",
+        "telugu": "ఓం కుక్షిస్థాఖిలభువనాయ నమః। ఉదరం పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "हृदयं",
+        "english": "Heart",
+        "telugu": "హృదయం"
+      },
+      "mantra": {
+        "devanagari": "ॐ लक्ष्मीवक्षः स्थलालयाय नमः। हृदयं पूजयामि ।",
+        "english": "Om Lakshmeevakshah Sthalaalayaaya Namaha. Hrudayam Poojaayaami.",
+        "telugu": "ఓం లక్ష్మీవక్షః స్థలాలయాయ నమః। హృదయం పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "बाहून्",
+        "english": "Hands",
+        "telugu": "బాహూన్"
+      },
+      "mantra": {
+        "devanagari": "ॐ शंखचक्रगदाशार्ङ्गपाणये नमः। बाहून् पूजयामि ।",
+        "english": "Om Shankhachakragadaashaarngapaanaye Namaha. Baahooun Poojaayaami.",
+        "telugu": "ఓం శంఖచక్రగదాశార్ఙ్గపాణయే నమః। బాహూన్ పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "कंठं",
+        "english": "Neck",
+        "telugu": "కంఠం"
+      },
+      "mantra": {
+        "devanagari": "ॐ कम्बुकंठाय नमः। कंठं पूजयामि ।",
+        "english": "Om Kambukanthaaya Namaha. Kantham Poojaayaami.",
+        "telugu": "ఓం కంబుకంఠాయ నమః। కంఠం పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "दन्तान्",
+        "english": "Teeth",
+        "telugu": "దంతాన్"
+      },
+      "mantra": {
+        "devanagari": "ॐ कुन्दकुट्मलदन्ताय नमः। दन्तान् पूजयामि ।",
+        "english": "Om Kundakutmaladantaaya Namaha. Dantaan Poojaayaami.",
+        "telugu": "ఓం కుందకుట్మలదంతాయ నమః। దంతాన్ పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "वक्रं",
+        "english": "Face",
+        "telugu": "వక్రం"
+      },
+      "mantra": {
+        "devanagari": "ॐ पूर्णेन्दुनिभवक्राय नमः। वक्रं पूजयामि ।",
+        "english": "Om Poornendunibhavakraaya Namaha. Vakram Poojaayaami.",
+        "telugu": "ఓం పూర్ణేందునిభవక్రాయ నమః। వక్రం పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "नासिकां",
+        "english": "Nose",
+        "telugu": "నాసికాం"
+      },
+      "mantra": {
+        "devanagari": "ॐ नासाग्रमौक्तिकाय नमः। नासिकां पूजयामि ।",
+        "english": "Om Nasaagramouktikaaya Namaha. Naasikaam Poojaayaami.",
+        "telugu": "ఓం నాసాగ్రమౌక్తికాయ నమః। నాసికాం పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "नेत्राणि",
+        "english": "Eyes",
+        "telugu": "నేత్రాణి"
+      },
+      "mantra": {
+        "devanagari": "ॐ सूर्यचन्द्राग्निधारिणे नमः। नेत्राणि पूजयामि ।",
+        "english": "Om Sooryachandraagnidhaarine Namaha. Netraani Poojaayaami.",
+        "telugu": "ఓం సూర్యచంద్రాగ్నిధారిణే నమః। నేత్రాణి పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "शिरः",
+        "english": "Crown of head",
+        "telugu": "శిరః"
+      },
+      "mantra": {
+        "devanagari": "ॐ सहस्रशिरसे नमः। शिरः पूजयामि ।",
+        "english": "Om Sahasrasheerase Namaha. Shirah Poojaayaami.",
+        "telugu": "ఓం సహస్రశీరసే నమః। శిరః పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    },
+    {
+      "service": {
+        "devanagari": "सर्वाण्यंगानि",
+        "english": "All limbs",
+        "telugu": "సర్వాణ్యంగాని"
+      },
+      "mantra": {
+        "devanagari": "ॐ श्रीसत्यनारायणस्वामिने नमः। सर्वाण्यंगानि पूजयामि ।",
+        "english": "Om Shree Satyanaraayanaswaamine Namaha. Sarvaanyangaani Poojaayaami.",
+        "telugu": "ఓం శ్రీసత్యనారాయణస్వామినే నమః। సర్వాణ్యంగాని పూజయామి ।"
+      },
+      "action": "Offer flowers/akshatas."
+    }
+  ]
+}
