@@ -6,11 +6,9 @@ An interactive web application for the Sri Satya Narayana Vratam ritual, featuri
 
 ```
 satya-narayana-vratam/
-├── vratam2.html        # Main HTML application file
-├── vratam2.json        # Ritual steps and content data
+├── vratam.html         # Main HTML application file
+├── vratam.json         # Ritual steps and content data
 ├── peetam.svg          # Interactive graha locations diagram
-├── vratam.html         # Original version (legacy)
-├── vratam.json         # Original JSON data (legacy)
 ├── 9grahas.svg         # Original SVG diagram (legacy)
 └── README.md           # This documentation
 ```
@@ -19,13 +17,13 @@ satya-narayana-vratam/
 
 The application follows a modular architecture with clear separation of concerns:
 
-### 1. HTML Structure (`vratam2.html`)
+### 1. HTML Structure (`vratam.html`)
 - **Main Interface**: Progressive navigation with step completion tracking
 - **Interactive Components**: Multi-level navigation for complex ritual parts
 - **Language Support**: Dynamic switching between Devanagari, English, and Telugu
 - **Responsive Design**: Mobile-friendly layout with CSS Grid and Flexbox
 
-### 2. Data Layer (`vratam2.json`)
+### 2. Data Layer (`vratam.json`)
 - **Steps**: Complete ritual steps with hierarchical content
 - **Interactive Parts**: Graha navigation with location mapping
 - **Multi-language Content**: Mantras and instructions in three languages
@@ -87,7 +85,7 @@ python3 -m http.server 8000
 python -m SimpleHTTPServer 8000
 
 # Open browser and navigate to:
-# http://localhost:8000/vratam2.html
+# http://localhost:8000/vratam.html
 ```
 
 #### Option 2: Node.js HTTP Server
@@ -102,26 +100,26 @@ cd satya-narayana-vratam
 http-server -p 8000
 
 # Open browser and navigate to:
-# http://localhost:8000/vratam2.html
+# http://localhost:8000/vratam.html
 ```
 
 #### Option 3: Live Server (VS Code Extension)
 1. Install "Live Server" extension in VS Code
-2. Right-click on `vratam2.html`
+2. Right-click on `vratam.html`
 3. Select "Open with Live Server"
 
 ## File Dependencies
 
 The application requires all three main files to be in the same directory:
 
-1. **vratam2.html** - Loads and coordinates the other files
-2. **vratam2.json** - Contains all ritual content and data
+1. **vratam.html** - Loads and coordinates the other files
+2. **vratam.json** - Contains all ritual content and data
 3. **peetam.svg** - Provides the interactive graha diagram
 
 ## Development
 
 ### Adding New Content
-1. **New Steps**: Add to `steps` array in `vratam2.json`
+1. **New Steps**: Add to `steps` array in `vratam.json`
 2. **Interactive Parts**: Add `parts` array with `hasSubNavigation: true`
 3. **Graha Items**: Include `location` property for diagram highlighting
 
