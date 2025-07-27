@@ -1801,17 +1801,17 @@
                                 // Use the transform matrix to get actual position
                                 // For SVG text, the y coordinate is the baseline, so we use it directly
                                 x = transform.e + bbox.x;
-                                y = transform.f + parseFloat(textElement.getAttribute('y')); // Use the actual y attribute
+                                y = transform.f + parseFloat(textElement.getAttribute('y')) - 50; // Use the actual y attribute
                             } else {
                                 // Fallback to bbox if no transform
                                 x = bbox.x;
-                                y = parseFloat(textElement.getAttribute('y')) || (bbox.y + bbox.height);
+                                y = bbox.y + bbox.height * 1.5;
                             }
                             
                             // Create the arrow
                             const arrow = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-                            arrow.setAttribute('x', x - 25); // Position to the left
-                            arrow.setAttribute('y', y);
+                            arrow.setAttribute('x', x - 60); // Position to the left
+                            arrow.setAttribute('y', y); // Position above the text
                             arrow.setAttribute('class', 'attention-arrow');
                             arrow.setAttribute('fill', '#ff5722');
                             arrow.setAttribute('font-size', '20');
@@ -1830,8 +1830,8 @@
                         try {
                             const bbox = mainGroup.getBBox();
                             const arrow = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-                            arrow.setAttribute('x', bbox.x - 25);
-                            arrow.setAttribute('y', bbox.y + bbox.height / 2); // Center vertically
+                            arrow.setAttribute('x', bbox.x - 60 ); // Position to the left
+                            arrow.setAttribute('y', bbox.y + bbox.height * 1.5 ); // Center vertically
                             arrow.setAttribute('class', 'attention-arrow');
                             arrow.setAttribute('fill', '#ff5722');
                             arrow.setAttribute('font-size', '20');
