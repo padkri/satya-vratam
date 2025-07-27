@@ -247,53 +247,128 @@
       "id": "step10",
       "title": "9. Parivaara Devataa Poojaa",
       "isInteractive": true,
-      "description": "Worship of the associate deities of Lord Satya Narayana. For each deity, contemplate them with their mantra and offer a coin, a dry date, a piece of betel nut, and a few akshatas in their designated place on the altar.",
+      "description": "Worship the Lokapalakas, the guardians of the elements.",
       "parts": [
         {
           "id": "part1",
           "title": "Part 1: Lokapalakas",
-          "subtitle": "Guardians of Elements",
-          "description": "Worship the Lokapalakas, the guardians of the elements.",
-          "content": [
+          "subtitle": "Guardians of the Elements",
+          "description": "Worship the deities representing the Five Great Elements and their attributes.",
+          "hasSubNavigation": true,
+          "subItems": [
             {
-              "type": "h4",
-              "text": "Ganapathi (Earth)"
+              "id": "ganapathi",
+              "name": "Ganapathi",
+              "attribute": "Earth element",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Ganapathi (Earth element)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Earth - one of the Five Great Elements."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ गणानां त्वा गणपति हवामहे कविं कवीनामुपमश्रवस्तमं । ज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत आ नः शृण्वन्नूतिभिस्सीद सादनं ॥ ॐ गणपतये नमः ।",
+                  "english": "Om Ganaanaam Tvaa Ganapatim Havaamahe Kavim Kaveenaamupamashravastamam | Jyeshtharaajam Brahmanaam Brahmanaspata Aa Nah Shrinvannootibhisseeda Saadanam || Om Ganapataye Namaha.",
+                  "telugu": "ఓం గణానాం త్వా గణపతిం హవామహే కవిం కవీనాముపమశ్రవస్తమం | జ్యేష్ఠరాజం బ్రహ్మణాం బ్రహ్మణస్పత ఆ నః శృణ్వన్నూతిభిస్సీద సాదనం || ఓం గణపతయే నమః ."
+                }
+              ]
             },
             {
-              "type": "sloka",
-              "devanagari": "ॐ गणानां त्वा गणपति हवामहे कविं कवीनामुपमश्रवस्तमं । ज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत आ नः शृण्वन्नूतिभिस्सीद सादनं ॥ ॐ गणपतये नमः ।",
-              "english": "Om Ganaanaam Tvaa Ganapatim Havaamahe Kavim Kaveenaamupamashravastamam | Jyeshtharaajam Brahmanaam Brahmanaspata Aa Nah Shrinvannootibhisseeda Saadanam || Om Ganapataye Namaha.",
-              "telugu": "ఓం గణానాం త్వా గణపతిం హవామహే కవిం కవీనాముపమశ్రవస్తమం | జ్యేష్ఠరాజం బ్రహ్మణాం బ్రహ్మణస్పత ఆ నః శృణ్వన్నూతిభిస్సీద సాదనం || ఓం గణపతయే నమః ."
+              "id": "brahma",
+              "name": "Brahma",
+              "attribute": "Air element",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Brahma (Air element)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Air - one of the Five Great Elements."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ ब्रह्मा देवानां पदवीः कवीनमृषिर्विप्राणां महिषो मृगाणां श्येनो गृध्राणा स्वदितिर्वनाना सोमः पवित्र मत्येति रेभन् ॥ ॐ ब्रह्मणे नमः ।",
+                  "english": "Om Brahmaa Devaanaam Padaveeh Kaveenamrishirvipraanaam Mahisho Mrigaanaam Shyeno Gridhraanaa Svadiirvanana Soma: Pavitra Matyeti Rebhan || Om Brahmane Namaha.",
+                  "telugu": "ఓం బ్రహ్మా దేవానాం పదవీః కవీనమృషిర్విప్రాణాం మహిషో మృగాణాం శ్యేనో గృధ్రాణా స్వదితిర్వనానా సోమః పవిత్ర మత్యేతి రేభన్ || ఓం బ్రహ్మణే నమః ."
+                }
+              ]
             },
             {
-              "type": "h4",
-              "text": "Brahma (Air)"
+              "id": "mahalakshmi",
+              "name": "Mahalakshmi",
+              "attribute": "Ether/Space element",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Mahalakshmi (Ether/Space element)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ether/Space - one of the Five Great Elements."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ हिरण्यवर्णां हरिणीं सुवर्णरజतस्रजां । चन्द्रां हिरण्म्ययीं लक्ष्मीं जातवेदो म आवह ॥ ॐ महालक्ष्म्यै नमः।",
+                  "english": "Om Hiranyavarnaam Harineem Suvarnarajatasrajaam | Chandraam Hiranmayeemm Lakshmeem Jaatavedo Ma Aavaha || Om Mahaalakshmyai Namaha |",
+                  "telugu": "ఓం హిరణ్యవర్ణాం హరిణీం సువర్ణరజతస్రజాం | చంద్రాం హిరణ్మయీం లక్ష్మీం జాతవేదో మ ఆవహ || ఓం మహాలక్ష్మ్యై నమః |"
+                }
+              ]
             },
             {
-              "type": "sloka",
-              "devanagari": "ॐ ब्रह्मा देवानां पदवीः कवीनमृषिर्विप्राणां महिषो मृगाणां श्येनो गृध्राणा स्वदितिर्वनाना सोमः पवित्र मत्येति रेभन् ॥ ॐ ब्रह्मणे नमः ।",
-              "english": "Om Brahmaa Devaanaam Padaveeh Kaveenamrishirvipraanaam Mahisho Mrigaanaam Shyeno Gridhraanaa Svadiirvanana Soma: Pavitra Matyeti Rebhan || Om Brahmane Namaha.",
-              "telugu": "ఓం బ్రహ్మా దేవానాం పదవీః కవీనమృషిర్విప్రాణాం మహిషో మృగాణాం శ్యేనో గృధ్రాణా స్వదితిర్వనానా సోమః పవిత్ర మత్యేతి రేభన్ || ఓం బ్రహ్మణే నమః ."
+              "id": "mahavishnu",
+              "name": "MahaVishnu",
+              "attribute": "Ether/Space element",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Ether/Space - one of the Five Great Elements."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ इदं विष्णुर्विचक्रमे त्रेधा निदधे पदं । समूढमस्य सुरे ॥ ॐ महाविष्णवे नमः ।",
+                  "english": "Om Idam Vishnurvichakrame Tredhaa Nidadhe Padam | Samoodhamasya Sure || Om Mahaavishnave Namaha|",
+                  "telugu": "ఓం ఇదం విష్ణుర్విచక్రమే త్రేధా నిదధే పదం | సమూఢమస్య సురే || ఓం మహావిష్ణవే నమః |"
+                }
+              ]
             },
             {
-              "type": "h4",
-              "text": "Mahalakshmi & Mahavishnu (Ether/Space)"
+              "id": "rudra",
+              "name": "Rudra (Fire element)",
+              "attribute": "Fire element",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Fire - one of the Five Great Elements."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ कद्रद्राय प्रचेतसे मीढुष्टमाय तव्यसे । वोचेम शन्तम हृदे ॥ ॐ रुद्राय नमः।",
+                  "english": "Om Kadradraaya Prachetase Meedhushtamaaya Tavyase | Vochema Shantama Hrude || Om Rudraaya Namaha |",
+                  "telugu": "ఓం కద్రద్రాయ ప్రచేతసే మీఢుష్టమాయ తవ్యసే | వోచేమ శన్తమ హృదే || ఓం రుద్రాయ నమః |"
+                }
+              ]
             },
             {
-              "type": "sloka",
-              "devanagari": "ॐ हिरण्यवर्णां हरिणीं सुवर्णरజतस्रजां । चन्द्रां हिरण्म्ययीं लक्ष्मीं जातवेदो म आवह ॥ ॐ महालक्ष्म्यै नमः।\nॐ इदं विष्णुर्विचक्रमे त्रेधा निदधे पदं । समूढमस्य सुरे ॥ ॐ महाविष्णवे नमः ।",
-              "english": "Om Hiranyavarnaam Harineem Suvarnarajatasrajaam | Chandraam Hiranmayeemm Lakshmeem Jaatavedo Ma Aavaha || Om Mahaalakshmyai Namaha.\nOm Idam Vishnurvichakrame Tredhaa Nidadhe Padam | Samoodhamasya Sure || Om Mahaavishnave Namaha.",
-              "telugu": "ఓం హిరణ్యవర్ణాం హరిణీం సువర్ణరజతస్రజాం | చంద్రాం హిరణ్మయీం లక్ష్మీం జాతవేదో మ ఆవహ || ఓం మహాలక్ష్మ్యై నమః.\nఓం ఇదం విష్ణుర్విచక్రమే త్రేధా నిదధే పదం | సమూఢమస్య సురే || ఓం మహావిష్ణవే నమః ."
-            },
-            {
-              "type": "h4",
-              "text": "Rudra (Fire) & Gouri (Water)"
-            },
-            {
-              "type": "sloka",
-              "devanagari": "ॐ कद्रद्राय प्रचेतसे मीढुष्टमाय तव्यसे । वोचेम शन्तम हृदे ॥ ॐ रुद्राय नमः।\nॐ गौरीमिमाय सलिलानि तक्षत्येकपदी द्विपदी सा चतुष्पदी। अष्टापदी नवपदी बभूवुषी सहस्राक्षरा परमे व्योमन् ॥ ॐ गौर्यै नमः ।",
-              "english": "Om Kadradraaya Prachetase Meedhushtamaaya Tavyase | Vochema Shantama Hrude || Om Rudraaya Namaha.\nOm Gouree Maaya Salilaani Takshatyekapadee Dwipadee Saa Chatushpadee. Ashtapadee Navapadee Babhoovushee Sahasraaksharaa Parame Vyoman || Om Gouryai Namaha.",
-              "telugu": "ఓం కద్రద్రాయ ప్రచేతసే మీఢుష్టమాయ తవ్యసే | వోచేమ శన్తమ హృదే || ఓం రుద్రాయ నమః.\nఓం గౌరీ మిమాయ సలిలాని తక్షత్యేకపదీ దవిపదీ సా చతుష్పదీ. అష్టపదీ నవపదీ బభూవుషీ సహస్రాక్షరా పరమే వ్యోమన్ || ఓం గౌర్యై నమః ."
+              "id": "gouri",
+              "name": "Gouri (Water element)",
+              "attribute": "Water element",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Water - one of the Five Great Elements."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ गौरीमिमाय सलिलानि तक्षत्येकपदी द्विपदी सा चतुष्पदी। अष्टापदी नवपदी बभूवुषी सहस्राक्षरा परमे व्योमन् ॥ ॐ गौर्यै नमः ।",
+                  "english": "Om Gouree Maaya Salilaani Takshatyekapadee Dwipadee Saa Chatushpadee. Ashtapadee Navapadee Babhoovushee Sahasraaksharaa Parame Vyoman || Om Gouryai Namaha.",
+                  "telugu": "ఓం గౌరీ మిమాయ సలిలాని తక్షత్యేకపదీ దవిపదీ సా చతుష్పదీ. అష్టపదీ నవపదీ బభూవుషీ సహస్రాక్షరా పరమే వ్యోమన్ || ఓం గౌర్యై నమః ."
+                }
+              ]
             }
           ]
         },
@@ -331,7 +406,7 @@
                   "type": "sloka",
                   "devanagari": "ॐ अग्निं दूतं वृणीमहे होतारं विश्ववेदसं । अस्य यज्ञस्य सुक्रतुं ॥",
                   "english": "Om Agnim Dootam Vrinimahe Hotaaraṃ Vishvavedasam | Asya Yajñasya Sukrutum ||",
-                  "telugu": "ఓం అగ్నిండి వ్రుణిమహే హోతారం విశ్వవేదసం | అస్య యజ్ఞస్య సుకృతుం ||"
+                  "telugu": "ఓం అగ్నిం వ్రుణిమహే హోతారం విశ్వవేదసం | అస్య యజ్ఞస్య సుకృతుం ||"
                 },
                 {
                   "type": "paragraph",

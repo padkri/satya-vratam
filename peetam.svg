@@ -187,36 +187,30 @@
   <g transform="matrix(1, 0, 0, 1, 69.825348, 211.564331)">
     <title>Lokapalakas: Rulers of the five elements</title>
     <rect x="154.873" y="106.079" width="36.669" height="116.049" class="shape" style="stroke-width: 1.5;"/>
-    <text x="173.111" y="127.94" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L1</text>
-    <text x="173.058" y="147.713" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L2</text>
-    <text x="162.904" y="164.35" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L4</text>
-    <text x="184.14" y="164.081" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L3</text>
-    <text x="163.988" y="189.635" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L5</text>
-    <text x="183.447" y="189.503" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L6</text>
     <text x="176.555" y="233.335" class="grain-label" style="white-space: pre; font-size: 11px; stroke-width: 1;">Rice</text>
     <g id="l1">
       <title>L1: Ganapathi (Earth element)</title>
-      <circle cx="280" cy="295" r="8" fill="transparent" class="shape"/>
+      <text x="173.111" y="127.94" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L1</text>
     </g>
     <g id="l2">
       <title>L2: Brahma (Air element)</title>
-      <circle cx="320" cy="295" r="8" fill="transparent" class="shape"/>
+      <text x="173.058" y="147.713" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L2</text>
     </g>
     <g id="l3">
       <title>L3: Mahalakshmi (Ether/space)</title>
-      <circle cx="320" cy="325" r="8" fill="transparent" class="shape"/>
+      <text x="184.14" y="164.081" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L3</text>
     </g>
     <g id="l4">
       <title>L4: Mahavishnu (Ether/space)</title>
-      <circle cx="280" cy="325" r="8" fill="transparent" class="shape"/>
+      <text x="162.904" y="164.35" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L4</text>
     </g>
     <g id="l5">
       <title>L5: Rudra (Fire element)</title>
-      <circle cx="280" cy="340" r="8" fill="transparent" class="shape"/>
+      <text x="163.988" y="189.635" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L5</text>
     </g>
     <g id="l6">
       <title>L6: Gouri (Water element)</title>
-      <circle cx="320" cy="340" r="8" fill="transparent" class="shape"/>
+      <text x="183.447" y="189.503" class="sub-label" style="white-space: pre; font-size: 10px; stroke-width: 1;">L6</text>
     </g>
   </g>
   <text x="600" y="680" class="grain-label" style="white-space: pre;">All small circles</text>

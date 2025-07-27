@@ -906,6 +906,16 @@
             "Ketu": { main: "g9", ruling: "g9a", coruling: "g9p" }
         };
 
+        // Mapping between Lokapalaka names and SVG IDs for highlighting
+        const lokapalakaMapping = {
+            "Ganapathi": { main: "l1" },
+            "Brahma": { main: "l2" },
+            "Mahalakshmi": { main: "l3" },
+            "MahaVishnu": { main: "l4" },
+            "Rudra (Fire element)": { main: "l5" },
+            "Gouri (Water element)": { main: "l6" }
+        };
+
         // Function to create a sloka element
         function createSlokaElement(slokaData) {
             const slokaContainer = document.createElement('div');
@@ -1392,9 +1402,15 @@
                 contentContainer.appendChild(description);
             }
             
-            // Handle parts with graha navigation (Part 2)
+            // Handle parts with sub-navigation
             if (currentPartData.hasSubNavigation && currentPartData.subItems) {
-                buildGrahaNavigation(currentPartData, contentContainer);
+                if (currentPartData.id === 'part1') {
+                    // Part 1: Lokapalakas
+                    buildLokapalakaNavigation(currentPartData, contentContainer);
+                } else if (currentPartData.id === 'part2') {
+                    // Part 2: Grahas
+                    buildGrahaNavigation(currentPartData, contentContainer);
+                }
             } else {
                 // Regular part content
                 if (currentPartData.content && currentPartData.content.length > 0) {
@@ -1636,6 +1652,202 @@
                     console.log('Highlighted co-ruling group:', corulingLocation);
                 } else {
                     console.warn('Co-ruling group not found:', corulingLocation);
+                }
+            }, 100);
+        }
+
+        // Function to build Lokapalaka navigation for Part 1
+        function buildLokapalakaNavigation(partData, container) {
+            // Create lokapalaka navigation
+            const lokapalakaNav = document.createElement('div');
+            lokapalakaNav.className = 'parivaara-graha-nav';
+            
+            partData.subItems.forEach((lokapalaka, index) => {
+                const lokapalakaBtn = document.createElement('button');
+                lokapalakaBtn.textContent = lokapalaka.name;
+                lokapalakaBtn.className = 'parivaara-graha-btn';
+                lokapalakaBtn.dataset.lokapalakaIndex = index;
+                if (index === 0) lokapalakaBtn.classList.add('active');
+                
+                lokapalakaBtn.addEventListener('click', () => {
+                    // Update active lokapalaka
+                    lokapalakaNav.querySelectorAll('.parivaara-graha-btn').forEach(btn => {
+                        btn.classList.remove('active');
+                    });
+                    lokapalakaBtn.classList.add('active');
+                    currentSubItem = index;
+                    updateLokapalakaView(partData, container);
+                    // Add small delay to ensure DOM is updated
+                    setTimeout(() => {
+                        updateLokapalakaDiagram(lokapalaka);
+                    }, 50);
+                });
+                
+                lokapalakaNav.appendChild(lokapalakaBtn);
+            });
+            
+            container.appendChild(lokapalakaNav);
+            
+            // Create lokapalaka diagram
+            const diagramContainer = document.createElement('div');
+            diagramContainer.className = 'graha-diagram-container';
+            diagramContainer.innerHTML = createGrahaDiagram();
+            container.appendChild(diagramContainer);
+            
+            // Load the SVG diagram
+            loadPeetamSVG(() => {
+                // Initialize highlighting after SVG is loaded
+                setTimeout(() => {
+                    updateLokapalakaDiagram(partData.subItems[0]);
+                }, 200);
+            });
+            
+            // Create lokapalaka content container
+            const lokapalakaContentContainer = document.createElement('div');
+            lokapalakaContentContainer.className = 'parivaara-graha-content';
+            container.appendChild(lokapalakaContentContainer);
+            
+            // Initialize with first lokapalaka
+            updateLokapalakaView(partData, container);
+        }
+        
+        // Function to update lokapalaka view for current lokapalaka
+        function updateLokapalakaView(partData, container) {
+            const lokapalakaContentContainer = container.querySelector('.parivaara-graha-content');
+            if (!lokapalakaContentContainer) return;
+            
+            lokapalakaContentContainer.innerHTML = ''; // Clear existing content
+            
+            const currentLokapalaka = partData.subItems[currentSubItem];
+            if (!currentLokapalaka) return;
+            
+            // Add lokapalaka name and element
+            const lokapalakaTitle = document.createElement('h4');
+            lokapalakaTitle.textContent = `${currentLokapalaka.name}${currentLokapalaka.element ? ` (${currentLokapalaka.element} Element)` : ''}`;
+            lokapalakaContentContainer.appendChild(lokapalakaTitle);
+            
+            // Add lokapalaka content
+            if (currentLokapalaka.content && currentLokapalaka.content.length > 0) {
+                currentLokapalaka.content.forEach(item => {
+                    try {
+                        const element = createContentElement(item);
+                        if (element) {
+                            lokapalakaContentContainer.appendChild(element);
+                        } else {
+                            console.warn('createContentElement returned null/undefined for:', item);
+                        }
+                    } catch (error) {
+                        console.error('Error creating content element:', error, item);
+                        const errorDiv = document.createElement('div');
+                        errorDiv.innerHTML = `<p style="color: red;">Error rendering content: ${item.type || 'unknown'}</p>`;
+                        lokapalakaContentContainer.appendChild(errorDiv);
+                    }
+                });
+            }
+            
+            // Update language display after lokapalaka content is rendered
+            updateLanguage();
+        }
+        
+        // Function to update lokapalaka diagram highlighting
+        function updateLokapalakaDiagram(lokapalaka) {
+            if (!lokapalaka || !lokapalaka.name) return;
+            
+            // Wait a bit to ensure SVG is fully loaded
+            setTimeout(() => {
+                const svg = document.querySelector('.graha-diagram svg');
+                if (!svg) return;
+                
+                // Reset all highlights by removing classes and arrows
+                svg.querySelectorAll('g').forEach(group => {
+                    group.classList.remove('highlight-main', 'highlight-deity');
+                });
+                
+                // Remove any existing arrows
+                svg.querySelectorAll('.attention-arrow').forEach(arrow => arrow.remove());
+                
+                // Get SVG IDs from mapping using lokapalaka name
+                const mapping = lokapalakaMapping[lokapalaka.name];
+                if (!mapping) {
+                    console.warn('Lokapalaka mapping not found for:', lokapalaka.name);
+                    return;
+                }
+                
+                const mainLocation = mapping.main;
+                
+                console.log('Highlighting lokapalaka:', lokapalaka.name, 'at location:', mainLocation);
+                
+                // Find and highlight the group
+                const mainGroup = svg.querySelector(`#${mainLocation}`);
+                
+                if (mainGroup) {
+                    mainGroup.classList.add('highlight-main');
+                    
+                    // Add attention arrow near the main lokapalaka
+                    // Dynamically calculate position using SVG element's actual coordinates
+                    try {
+                        // Get the text element inside the group
+                        const textElement = mainGroup.querySelector('text');
+                        if (textElement) {
+                            // Get the bounding box of the text element
+                            const bbox = textElement.getBBox();
+                            
+                            // Get the cumulative transform matrix from all parent groups
+                            const transform = textElement.getCTM();
+                            
+                            // Calculate the actual screen coordinates
+                            let x, y;
+                            if (transform) {
+                                // Use the transform matrix to get actual position
+                                // For SVG text, the y coordinate is the baseline, so we use it directly
+                                x = transform.e + bbox.x;
+                                y = transform.f + parseFloat(textElement.getAttribute('y')); // Use the actual y attribute
+                            } else {
+                                // Fallback to bbox if no transform
+                                x = bbox.x;
+                                y = parseFloat(textElement.getAttribute('y')) || (bbox.y + bbox.height);
+                            }
+                            
+                            // Create the arrow
+                            const arrow = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+                            arrow.setAttribute('x', x - 25); // Position to the left
+                            arrow.setAttribute('y', y);
+                            arrow.setAttribute('class', 'attention-arrow');
+                            arrow.setAttribute('fill', '#ff5722');
+                            arrow.setAttribute('font-size', '20');
+                            arrow.setAttribute('font-weight', 'bold');
+                            arrow.textContent = '→';
+                            arrow.style.animation = 'bounce 1.5s infinite';
+                            svg.appendChild(arrow);
+                            
+                            console.log(`Added arrow for ${mainLocation} at calculated position:`, x - 25, y);
+                        } else {
+                            console.warn('Text element not found in group:', mainLocation);
+                        }
+                    } catch (error) {
+                        console.error('Error calculating position for arrow:', error);
+                        // Fallback: use getBBox on the group itself
+                        try {
+                            const bbox = mainGroup.getBBox();
+                            const arrow = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+                            arrow.setAttribute('x', bbox.x - 25);
+                            arrow.setAttribute('y', bbox.y + bbox.height / 2); // Center vertically
+                            arrow.setAttribute('class', 'attention-arrow');
+                            arrow.setAttribute('fill', '#ff5722');
+                            arrow.setAttribute('font-size', '20');
+                            arrow.setAttribute('font-weight', 'bold');
+                            arrow.textContent = '→';
+                            arrow.style.animation = 'bounce 1.5s infinite';
+                            svg.appendChild(arrow);
+                            console.log(`Added fallback arrow for ${mainLocation}`);
+                        } catch (fallbackError) {
+                            console.error('Fallback arrow positioning also failed:', fallbackError);
+                        }
+                    }
+                    
+                    console.log('Highlighted main group:', mainLocation);
+                } else {
+                    console.warn('Main group not found:', mainLocation);
                 }
             }, 100);
         }
