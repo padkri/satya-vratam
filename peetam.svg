@@ -163,23 +163,23 @@
     <circle cx="130" cy="550" r="10" class="shape"/>
     <text x="130" y="554" class="sub-label" style="white-space: pre;">G9P</text>
   </g>
-  <g transform="matrix(1, 0, 0, 1, 25.614326, 1.965617)">
+  <g id="k" transform="matrix(1, 0, 0, 1, 25.614326, 1.965617)">
     <title>K: Kalasha - Invocation of Lord Varuna, and later Lord Satya Narayana</title>
     <circle cx="300" cy="375" r="50" class="shape"/>
     <text x="300" y="378" class="label" style="white-space: pre;">Kalasam</text>
     <text x="300" y="440" class="grain-label" style="white-space: pre;">Rice</text>
   </g>
-  <g>
+  <g id="lsn">
     <title>LSN: Lord Satya Narayana - Main Deity</title>
     <rect x="270" y="470" width="60" height="40" class="shape"/>
     <text x="300" y="493" class="label" style="white-space: pre;">LSN</text>
   </g>
-  <g>
+  <g id="lg1">
     <title>LG1: Lord Ganapathi - Remover of Obstacles</title>
     <rect x="600" y="450" width="60" height="40" class="shape"/>
     <text x="630" y="473" class="label" style="white-space: pre;">LG1</text>
   </g>
-  <g transform="matrix(1, 0, 0, 1, -41.989918, 28.026209)">
+  <g id="lg2" transform="matrix(1, 0, 0, 1, -41.989918, 28.026209)">
     <title>LG2: Lord Ganapathi - Remover of Obstacles</title>
     <rect x="760" y="650" width="60" height="40" class="shape"/>
     <text x="790" y="673" class="label" style="white-space: pre;">LG2</text>
@@ -215,52 +215,52 @@
   </g>
   <text x="600" y="680" class="grain-label" style="white-space: pre;">All small circles</text>
   <text x="600" y="695" class="grain-label" style="white-space: pre;">Rice</text>
-  <g>
+  <g id="d1">
     <title>D1: Indra (East) - Influence/Authority</title>
     <circle cx="450" cy="60" r="12" class="shape"/>
     <text x="450" y="64" class="label" style="white-space: pre;">D1</text>
   </g>
-  <g>
+  <g id="d2">
     <title>D2: Agni (South-East) - Engineering/Transformation</title>
     <circle cx="820" cy="60" r="12" class="shape"/>
     <text x="820" y="64" class="label" style="white-space: pre;">D2</text>
   </g>
-  <g>
+  <g id="d3">
     <title>D3: Yama (South) - Rule enforcement</title>
     <circle cx="820" cy="375" r="12" class="shape"/>
     <text x="820" y="379" class="label" style="white-space: pre;">D3</text>
   </g>
-  <g>
+  <g id="d4">
     <title>D4: Nirriti (South-West) - Breaking barriers</title>
     <circle cx="820" cy="690" r="12" class="shape"/>
     <text x="820" y="694" class="label" style="white-space: pre;">D4</text>
   </g>
-  <g>
+  <g id="d5">
     <title>D5: Varuna (West) - Perseverent effort</title>
     <circle cx="450" cy="690" r="12" class="shape"/>
     <text x="450" y="694" class="label" style="white-space: pre;">D5</text>
   </g>
-  <g>
+  <g id="d6">
     <title>D6: Vayu (North-West) - Expansion</title>
     <circle cx="80" cy="690" r="12" class="shape"/>
     <text x="80" y="694" class="label" style="white-space: pre;">D6</text>
   </g>
-  <g>
+  <g id="d7">
     <title>D7: Soma Kubera (North) - Enrichment</title>
     <circle cx="80" cy="375" r="12" class="shape"/>
     <text x="80" y="379" class="label" style="white-space: pre;">D7</text>
   </g>
-  <g>
+  <g id="d8">
     <title>D8: Eeshana (North-East) - Wisdom</title>
     <circle cx="80" cy="60" r="12" class="shape"/>
     <text x="80" y="64" class="label" style="white-space: pre;">D8</text>
   </g>
-  <g>
+  <g  id="d9">
     <title>D9: Brahma (Up) - Higher research</title>
     <circle cx="280" cy="60" r="12" class="shape"/>
     <text x="280" y="64" class="label" style="white-space: pre;">D9</text>
   </g>
-  <g>
+  <g id="d10">
     <title>D10: Ananta Sesha (Down) - Platform/Support</title>
     <circle cx="680" cy="690" r="12" class="shape"/>
     <text x="680" y="694" class="label" style="white-space: pre;">D10</text>

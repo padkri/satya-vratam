@@ -659,6 +659,14 @@
             animation: pulseGlow 2s infinite alternate !important;
         }
 
+        /* Specific highlighting for Kalasam */
+        .graha-diagram svg #k.highlight-main circle {
+            stroke: #ff5722 !important;
+            stroke-width: 8px !important;
+            filter: drop-shadow(0 0 15px rgba(255, 87, 34, 0.9)) !important;
+            animation: pulseGlow 2s infinite alternate !important;
+        }
+
         .graha-diagram svg .highlight-deity circle,
         .graha-diagram svg .highlight-deity rect,
         .graha-diagram svg .highlight-deity polygon {
@@ -1373,6 +1381,22 @@
                     stepDiv.appendChild(createSlokaElement(sloka));
                 });
             }
+            
+            // Add diagram for specific steps that need highlighting
+            if (step.id === 'step7') {
+                // Add diagram for Kalasa Suddhi step
+                const diagramContainer = document.createElement('div');
+                diagramContainer.className = 'graha-diagram-container';
+                diagramContainer.innerHTML = createGrahaDiagram();
+                stepDiv.appendChild(diagramContainer);
+                
+                // Load the SVG diagram and highlight Kalasam
+                loadPeetamSVG(() => {
+                    setTimeout(() => {
+                        highlightKalasam();
+                    }, 500); // Increased delay to ensure SVG is fully loaded
+                });
+            }
         }
         
         // Function to update interactive view for current part/subitem
@@ -1749,6 +1773,63 @@
             updateLanguage();
         }
         
+        // Function to highlight Kalasam for Step 7
+        function highlightKalasam() {
+            const svg = document.querySelector('.graha-diagram svg');
+            if (!svg) {
+                console.warn('SVG not found for Kalasam highlighting');
+                return;
+            }
+            
+            // Reset all highlights by removing classes and arrows
+            svg.querySelectorAll('g').forEach(group => {
+                group.classList.remove('highlight-main', 'highlight-deity');
+            });
+            
+            // Remove any existing arrows
+            svg.querySelectorAll('.attention-arrow').forEach(arrow => arrow.remove());
+            
+            // Find and highlight the Kalasam (id="k")
+            const kalasam = svg.querySelector('#k');
+            if (kalasam) {
+                kalasam.classList.add('highlight-main');
+                
+                // Also directly highlight the circle element inside for better visibility
+                const circle = kalasam.querySelector('circle');
+                if (circle) {
+                    circle.style.stroke = '#ff5722';
+                    circle.style.strokeWidth = '6px';
+                    circle.style.filter = 'drop-shadow(0 0 12px rgba(255, 87, 34, 0.8))';
+                }
+                
+                // Add attention arrow near the Kalasam
+                try {
+                    const bbox = kalasam.getBBox();
+                    const arrow = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+                    arrow.setAttribute('x', bbox.x + bbox.width + 15);
+                    arrow.setAttribute('y', bbox.y + bbox.height / 2);
+                    arrow.setAttribute('class', 'attention-arrow');
+                    arrow.setAttribute('fill', '#ff5722');
+                    arrow.setAttribute('font-size', '24');
+                    arrow.setAttribute('font-weight', 'bold');
+                    arrow.textContent = '←';
+                    arrow.style.animation = 'bounce 1.5s infinite';
+                    svg.appendChild(arrow);
+                    
+                    console.log('Successfully highlighted Kalasam and added arrow at:', bbox.x + bbox.width + 15, bbox.y + bbox.height / 2);
+                } catch (error) {
+                    console.error('Error positioning arrow for Kalasam:', error);
+                }
+                
+                console.log('Highlighted Kalasam for Step 7');
+            } else {
+                console.warn('Kalasam element with id="k" not found in SVG');
+                // Debug: log all available IDs
+                const allGroups = svg.querySelectorAll('g[id]');
+                console.log('Available group IDs:', Array.from(allGroups).map(g => g.id));
+            }
+        }
+        
         // Function to update lokapalaka diagram highlighting
         function updateLokapalakaDiagram(lokapalaka) {
             if (!lokapalaka || !lokapalaka.name) return;
@@ -1902,6 +1983,13 @@
                 if (index === currentStep && steps[index].isInteractive && steps[index].parts) {
                     // Find the step div and re-initialize it
                     updateInteractiveView(steps[index], div);
+                }
+                
+                // Re-trigger Kalasam highlighting for Step 7 when navigating to it
+                if (index === currentStep && steps[index].id === 'step7') {
+                    setTimeout(() => {
+                        highlightKalasam();
+                    }, 300);
                 }
             });
 
