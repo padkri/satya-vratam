@@ -610,7 +610,8 @@
             box-sizing: border-box;
         }
 
-        #peetam-svg-container {
+        #peetam-svg-container,
+        [id^="peetam-svg-container-"] {
             min-height: 100px;
             display: block;
             width: 100%;
@@ -621,7 +622,8 @@
             padding: 0;
         }
 
-        #peetam-svg-container svg {
+        #peetam-svg-container svg,
+        [id^="peetam-svg-container-"] svg {
             width: 100%;
             max-width: 100%;
             height: auto;
@@ -632,7 +634,8 @@
 
         /* Additional SVG fixes for cross-browser compatibility */
         .graha-diagram-container svg,
-        #peetam-svg-container svg {
+        #peetam-svg-container svg,
+        [id^="peetam-svg-container-"] svg {
             /* Ensure SVG respects container width */
             min-width: 0;
             flex-shrink: 1;
@@ -640,12 +643,14 @@
 
         /* Force SVG viewport to be responsive */
         .graha-diagram-container svg[width],
-        #peetam-svg-container svg[width] {
+        #peetam-svg-container svg[width],
+        [id^="peetam-svg-container-"] svg[width] {
             width: 100% !important;
         }
 
         .graha-diagram-container svg[height],
-        #peetam-svg-container svg[height] {
+        #peetam-svg-container svg[height],
+        [id^="peetam-svg-container-"] svg[height] {
             height: auto !important;
         }
 
@@ -821,7 +826,8 @@
                 border: 1px solid #ccc;
             }
             
-            #peetam-svg-container {
+            #peetam-svg-container,
+            [id^="peetam-svg-container-"] {
                 width: 100%;
                 max-width: 100%;
                 overflow: hidden;
@@ -830,7 +836,8 @@
                 margin: 0;
             }
             
-            #peetam-svg-container svg {
+            #peetam-svg-container svg,
+            [id^="peetam-svg-container-"] svg {
                 width: 100%;
                 max-width: 100%;
                 height: auto;
@@ -1349,6 +1356,29 @@
         
         // Function to build regular (non-interactive) steps
         function buildRegularStep(step, stepDiv) {
+            // Add diagram at the top for specific steps (consistent with Step 9)
+            if (['step7', 'step8', 'step10', 'step11', 'step12', 'step13', 'step15', 'step17', 'step18', 'step19', 'step20'].includes(step.id)) {
+                const diagramContainer = document.createElement('div');
+                diagramContainer.className = 'graha-diagram-container';
+                diagramContainer.innerHTML = createGrahaDiagram(step.id);
+                stepDiv.appendChild(diagramContainer);
+                
+                // Load the SVG diagram and apply specific highlighting if needed
+                if (step.id === 'step7') {
+                    // Load with Kalasam highlighting for Step 7
+                    loadPeetamSVG(() => {
+                        setTimeout(() => {
+                            highlightKalasam();
+                        }, 500);
+                    }, `peetam-svg-container-${step.id}`);
+                } else {
+                    // Load without special highlighting for other steps
+                    loadPeetamSVG(() => {
+                        console.log(`SVG loaded for ${step.id}`);
+                    }, `peetam-svg-container-${step.id}`);
+                }
+            }
+            
             // Add description if present
             if (step.description) {
                 const description = document.createElement('p');
@@ -1379,22 +1409,6 @@
             if (step.slokas && step.slokas.length > 0) {
                 step.slokas.forEach(sloka => {
                     stepDiv.appendChild(createSlokaElement(sloka));
-                });
-            }
-            
-            // Add diagram for specific steps that need highlighting
-            if (step.id === 'step7') {
-                // Add diagram for Kalasa Suddhi step
-                const diagramContainer = document.createElement('div');
-                diagramContainer.className = 'graha-diagram-container';
-                diagramContainer.innerHTML = createGrahaDiagram();
-                stepDiv.appendChild(diagramContainer);
-                
-                // Load the SVG diagram and highlight Kalasam
-                loadPeetamSVG(() => {
-                    setTimeout(() => {
-                        highlightKalasam();
-                    }, 500); // Increased delay to ensure SVG is fully loaded
                 });
             }
         }
@@ -1436,7 +1450,20 @@
                     buildGrahaNavigation(currentPartData, contentContainer);
                 }
             } else {
-                // Regular part content
+                // Regular part content (like Part 3)
+                // Add diagram at the top for parts without sub-navigation
+                if (step.id === 'step9') {
+                    const diagramContainer = document.createElement('div');
+                    diagramContainer.className = 'graha-diagram-container';
+                    diagramContainer.innerHTML = createGrahaDiagram(`${step.id}-part${currentPart + 1}`);
+                    contentContainer.appendChild(diagramContainer);
+                    
+                    // Load the SVG diagram
+                    loadPeetamSVG(() => {
+                        console.log(`SVG loaded for ${step.id} part ${currentPart + 1}`);
+                    }, `peetam-svg-container-${step.id}-part${currentPart + 1}`);
+                }
+                
                 if (currentPartData.content && currentPartData.content.length > 0) {
                     currentPartData.content.forEach(item => {
                         try {
@@ -1495,7 +1522,7 @@
             // Create graha diagram
             const diagramContainer = document.createElement('div');
             diagramContainer.className = 'graha-diagram-container';
-            diagramContainer.innerHTML = createGrahaDiagram();
+            diagramContainer.innerHTML = createGrahaDiagram('graha-nav');
             container.appendChild(diagramContainer);
             
             // Load the SVG diagram
@@ -1504,7 +1531,7 @@
                 setTimeout(() => {
                     updateGrahaDiagram(partData.subItems[0]);
                 }, 200);
-            });
+            }, 'peetam-svg-container-graha-nav');
             
             // Create graha content container
             const grahaContentContainer = document.createElement('div');
@@ -1561,11 +1588,12 @@
         }
         
         // Function to create graha diagram container that loads external SVG
-        function createGrahaDiagram() {
+        function createGrahaDiagram(uniqueId) {
+            const containerId = uniqueId ? `peetam-svg-container-${uniqueId}` : 'peetam-svg-container';
             return `
                 <div class="graha-diagram">
                     <h4>Graha Locations Diagram</h4>
-                    <div id="peetam-svg-container">
+                    <div id="${containerId}">
                         Loading diagram...
                     </div>
                 </div>
@@ -1573,7 +1601,7 @@
         }
         
         // Function to load the external SVG diagram
-        async function loadPeetamSVG(callback) {
+        async function loadPeetamSVG(callback, containerId = 'peetam-svg-container') {
             try {
                 const response = await fetch('./peetam.svg');
                 if (!response.ok) {
@@ -1582,7 +1610,7 @@
                 const svgText = await response.text();
                 
                 // Insert the SVG into the container
-                const container = document.getElementById('peetam-svg-container');
+                const container = document.getElementById(containerId);
                 if (container) {
                     container.innerHTML = svgText;
                     
@@ -1599,10 +1627,12 @@
                         // Use setTimeout to ensure SVG is fully rendered
                         setTimeout(callback, 100);
                     }
+                } else {
+                    console.error('SVG container not found with ID:', containerId);
                 }
             } catch (error) {
                 console.error('Failed to load peetam diagram:', error);
-                const container = document.getElementById('peetam-svg-container');
+                const container = document.getElementById(containerId);
                 if (container) {
                     container.innerHTML = '<p style="color: #888; text-align: center; padding: 20px;">Diagram could not be loaded</p>';
                 }
@@ -1715,7 +1745,7 @@
             // Create lokapalaka diagram
             const diagramContainer = document.createElement('div');
             diagramContainer.className = 'graha-diagram-container';
-            diagramContainer.innerHTML = createGrahaDiagram();
+            diagramContainer.innerHTML = createGrahaDiagram('lokapalaka-nav');
             container.appendChild(diagramContainer);
             
             // Load the SVG diagram
@@ -1724,7 +1754,7 @@
                 setTimeout(() => {
                     updateLokapalakaDiagram(partData.subItems[0]);
                 }, 200);
-            });
+            }, 'peetam-svg-container-lokapalaka-nav');
             
             // Create lokapalaka content container
             const lokapalakaContentContainer = document.createElement('div');

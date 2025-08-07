@@ -174,15 +174,11 @@
     <rect x="270" y="470" width="60" height="40" class="shape"/>
     <text x="300" y="493" class="label" style="white-space: pre;">LSN</text>
   </g>
-  <g id="lg1">
-    <title>LG1: Lord Ganapathi - Remover of Obstacles</title>
-    <rect x="600" y="450" width="60" height="40" class="shape"/>
-    <text x="630" y="473" class="label" style="white-space: pre;">LG1</text>
-  </g>
-  <g id="lg2" transform="matrix(1, 0, 0, 1, -41.989918, 28.026209)">
-    <title>LG2: Lord Ganapathi - Remover of Obstacles</title>
+  
+  <g id="lg" transform="matrix(1, 0, 0, 1, -41.989918, 28.026209)">
+    <title>LG: Lord Ganapathi - Remover of Obstacles</title>
     <rect x="760" y="650" width="60" height="40" class="shape"/>
-    <text x="790" y="673" class="label" style="white-space: pre;">LG2</text>
+    <text x="790" y="673" class="label" style="white-space: pre;">LG</text>
   </g>
   <g transform="matrix(1, 0, 0, 1, 69.825348, 211.564331)">
     <title>Lokapalakas: Rulers of the five elements</title>
@@ -266,8 +262,4 @@
     <text x="680" y="694" class="label" style="white-space: pre;">D10</text>
   </g>
 
-  
-  <text class="label" style="white-space: pre; font-size: 12px; stroke-width: 1;" x="169.701" y="565.079">G9</text>
-  
-  
 </svg>
