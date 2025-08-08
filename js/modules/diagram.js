@@ -211,3 +211,20 @@ export function highlightGanapathi() {
         ganapathi.classList.add('highlight-main');
     }
 }
+
+// Highlight Lord Satya Narayana (lsn) for steps 11 and 13
+export function highlightLSN() {
+    const svg = document.querySelector('.graha-diagram svg');
+    if (!svg) return;
+
+    svg.querySelectorAll('g').forEach(group => {
+        group.classList.remove('highlight-main', 'highlight-deity');
+    });
+
+    svg.querySelectorAll('.attention-arrow').forEach(arrow => arrow.remove());
+
+    const lsn = svg.querySelector('#lsn');
+    if (lsn) {
+        lsn.classList.add('highlight-main');
+    }
+}

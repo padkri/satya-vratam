@@ -2,7 +2,7 @@
 import { state } from './state.js';
 import { updateLanguage } from './ui.js';
 import { createContentElement, createSlokaElement } from './elements.js';
-import { createGrahaDiagram, loadPeetamSVG, updateGrahaDiagram, updateLokapalakaDiagram, updateDikpalakaDiagram, highlightKalasam, highlightGanapathi } from './diagram.js';
+import { createGrahaDiagram, loadPeetamSVG, updateGrahaDiagram, updateLokapalakaDiagram, updateDikpalakaDiagram, highlightKalasam, highlightGanapathi, highlightLSN } from './diagram.js';
 
 function buildInteractiveStep(step, stepDiv) {
     if (step.description) {
@@ -269,6 +269,13 @@ function buildRegularStep(step, stepDiv) {
             loadPeetamSVG(() => {
                 setTimeout(() => {
                     highlightKalasam();
+                }, 500);
+            }, `peetam-svg-container-${step.id}`);
+        } else if (step.id === 'step11' || step.id === 'step12' || step.id === 'step12' || step.id === 'step16') {
+            loadPeetamSVG(() => {
+                setTimeout(() => {
+                    // Highlight Lord Satya Narayana (id: lsn) similar to Ganapathi pattern
+                    highlightLSN();
                 }, 500);
             }, `peetam-svg-container-${step.id}`);
         } else {
