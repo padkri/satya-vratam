@@ -1,0 +1,875 @@
+:root {
+    --primary-color: #FF9933; /* Saffron */
+    --secondary-color: #FFFFFF;
+    --text-color: #333333;
+    --bg-color: #FFF8E1; /* Light cream */
+    --navbar-bg: #D2691E; /* Chocolate/Wood color */
+    --completed-color: #4CAF50; /* Green */
+    --active-color: #FFC107; /* Amber */
+    --border-color: #E0E0E0;
+}
+
+body {
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: var(--navbar-bg);
+    color: var(--secondary-color);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.language-selector label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+#language-select {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid var(--border-color);
+    background-color: var(--secondary-color);
+    font-family: 'Poppins', sans-serif;
+}
+
+#navbar {
+    background-color: #F5F5F5;
+    padding: 10px;
+    overflow-x: auto;
+    white-space: nowrap;
+    border-bottom: 2px solid var(--border-color);
+    -webkit-overflow-scrolling: touch; /* For smooth scrolling on iOS */
+}
+
+#navbar a {
+    display: inline-block;
+    color: var(--text-color);
+    text-align: center;
+    padding: 8px 12px;
+    text-decoration: none;
+    font-size: 0.9em;
+    border-radius: 20px;
+    margin: 0 5px;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    border: 1px solid transparent;
+}
+
+#navbar a.completed {
+    background-color: var(--completed-color);
+    color: white;
+    border-color: #388E3C;
+}
+
+#navbar a.active {
+    background-color: var(--active-color);
+    font-weight: bold;
+    border-color: #FFA000;
+}
+
+main {
+    flex-grow: 1;
+    padding: 15px; /* Reduced padding to give more space */
+    max-width: 1200px; /* Increased further */
+    margin: 20px auto;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.step-content {
+    display: none;
+    background-color: var(--secondary-color);
+    padding: 15px; /* Further reduced padding */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    animation: fadeIn 0.5s ease-in-out;
+    border: 1px solid var(--border-color);
+}
+
+.step-content.active {
+    display: block;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+h2 {
+    color: var(--navbar-bg);
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 10px;
+    margin-top: 0;
+    font-size: 1.8em;
+}
+
+h3 {
+    color: var(--navbar-bg);
+    margin-top: 25px;
+    font-size: 1.4em;
+}
+
+h4 {
+    color: var(--navbar-bg);
+    margin-top: 20px;
+    font-size: 1.2em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+.sloka {
+    background-color: #FFF8E1;
+    border-left: 4px solid var(--primary-color);
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+.sloka-text {
+    display: none;
+    font-size: 1.1em;
+    line-height: 1.8;
+}
+
+.sloka-text.lang-telugu {
+    font-family: 'Gautami', sans-serif;
+}
+
+.sloka-text.lang-devanagari {
+    font-family: 'Noto Sans Devanagari', sans-serif;
+}
+
+.sloka-text.lang-english {
+    font-style: italic;
+}
+
+.navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.nav-btn {
+    padding: 12px 24px;
+    font-size: 1em;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--primary-color);
+    color: white;
+    transition: background-color 0.3s, transform 0.2s;
+    font-weight: bold;
+}
+
+.nav-btn:hover {
+    background-color: #e68a00;
+}
+
+.nav-btn:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+    transform: translateY(0);
+}
+
+.copy-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    font-size: 0.9em;
+    cursor: pointer;
+    border: 1px solid var(--primary-color);
+    border-radius: 5px;
+    background-color: transparent;
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    transition: background-color 0.3s, color 0.3s;
+}
+.copy-button:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+ul.checklist {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.checklist li {
+    background-color: #fcfcfc;
+    padding: 10px;
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+
+ul.checklist li ul {
+    padding-left: 20px;
+    list-style-type: '– ';
+    margin-top: 8px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+th, td {
+    border: 1px solid var(--border-color);
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #fafafa;
+}
+
+.graha-table td:first-child {
+    font-weight: bold;
+}
+
+.graha-table .deity-row {
+    background-color: #f9f9f9;
+}
+
+/* Collective Pooja Table Styling */
+.collective-pooja-table .sloka-container {
+    background-color: var(--sloka-background, #fffacd);
+    padding: 8px;
+    border-radius: 4px;
+    margin: 2px 0;
+}
+
+.collective-pooja-table .sloka-text {
+    display: none;
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+.collective-pooja-table .sloka-text.lang-telugu {
+    font-family: 'Gautami', sans-serif;
+}
+
+.collective-pooja-table .sloka-text.lang-devanagari {
+    font-family: 'Noto Sans Devanagari', sans-serif;
+}
+
+.collective-pooja-table .english-description {
+    color: #666;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+.parivaara-container {
+    display: flex;
+    gap: 20px;
+}
+
+.vertical-progress {
+    width: 200px;
+    flex-shrink: 0;
+}
+
+.vertical-progress .progress-step {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-left: 4px solid var(--border-color);
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.vertical-progress .progress-step.active {
+    border-left-color: var(--active-color);
+    background-color: #fffbeb;
+    font-weight: bold;
+}
+
+.vertical-progress .progress-step.completed {
+    border-left-color: var(--completed-color);
+}
+
+.parivaara-content {
+    flex-grow: 1;
+}
+
+.parivaara-part {
+    display: none;
+}
+
+.graha-card {
+    display: none;
+    border: 1px solid #eee;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+/* Interactive Step Styles */
+.step-description {
+    margin: 1rem 0;
+    font-style: italic;
+    color: #666;
+}
+
+.parts-navigation {
+    margin: 2rem 0;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+}
+
+.parts-navigation h3 {
+    margin: 0 0 1rem 0;
+    color: #495057;
+}
+
+.parts-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.part-button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    background: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 0.9rem;
+}
+
+.part-button:hover {
+    background: #e9ecef;
+    border-color: #adb5bd;
+}
+
+.part-button.active {
+    background: #007bff;
+    color: white;
+    border-color: #007bff;
+    font-weight: bold;
+}
+
+.part-content {
+    margin: 1rem 0;
+}
+
+.part-header {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.part-header h3 {
+    margin: 0;
+    color: #212529;
+}
+
+.part-subtitle {
+    margin: 0.5rem 0 0 0;
+    color: #6c757d;
+    font-size: 1.1rem;
+}
+
+.part-description {
+    margin: 0.5rem 0 0 0;
+    color: #6c757d;
+}
+
+/* Graha Navigation Styles */
+.graha-navigation {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: #fff3cd;
+    border-radius: 6px;
+    border: 1px solid #ffeaa7;
+}
+
+.graha-navigation h4 {
+    margin: 0 0 1rem 0;
+    color: #856404;
+}
+
+.graha-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin-bottom: 1rem;
+}
+
+.graha-button {
+    padding: 0.4rem 0.8rem;
+    border: 1px solid #ddd;
+    background: white;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 0.85rem;
+}
+
+.graha-button:hover {
+    background: #fff3cd;
+    border-color: #ffeaa7;
+}
+
+.graha-button.active {
+    background: #ffc107;
+    color: #212529;
+    border-color: #ffc107;
+    font-weight: bold;
+}
+
+.graha-controls {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.graha-nav-btn {
+    padding: 0.5rem 1rem;
+    border: 1px solid #6c757d;
+    background: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.graha-nav-btn:hover:not(:disabled) {
+    background: #6c757d;
+    color: white;
+}
+
+.graha-nav-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.graha-content {
+    margin: 1rem 0;
+    padding: 1rem;
+    background: white;
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+}
+
+.graha-header {
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.graha-header h4 {
+    margin: 0;
+    color: #495057;
+}
+
+/* Interactive Step Navigation Styles */
+.parivaara-parts-nav {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+}
+
+.parivaara-part-btn {
+    padding: 10px 20px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    background: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+}
+
+.parivaara-part-btn:hover {
+    background: #e9ecef;
+    border-color: #adb5bd;
+}
+
+.parivaara-part-btn.active {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+    font-weight: bold;
+}
+
+.parivaara-content {
+    margin: 20px 0;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+}
+
+.parivaara-graha-nav {
+    margin: 15px 0;
+    padding: 15px;
+    background-color: #fff3cd;
+    border-radius: 6px;
+    border: 1px solid #ffeaa7;
+}
+
+.parivaara-graha-btn {
+    padding: 8px 15px;
+    margin: 3px;
+    border: 1px solid #ddd;
+    background: white;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 0.85rem;
+}
+
+.parivaara-graha-btn:hover {
+    background: #fff3cd;
+    border-color: #ffeaa7;
+}
+
+.parivaara-graha-btn.active {
+    background: #ffc107;
+    color: #212529;
+    border-color: #ffc107;
+    font-weight: bold;
+}
+
+.parivaara-graha-content {
+    margin: 15px 0;
+    padding: 15px;
+    background: white;
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+}
+
+.graha-attribute {
+    font-style: italic;
+    color: #666;
+    margin: 10px 0;
+}
+
+.location-info {
+    background-color: #e3f2fd;
+    border-left: 4px solid #2196f3;
+    padding: 8px 12px;
+    margin: 10px 0;
+    border-radius: 4px;
+    font-weight: bold;
+    color: #1565c0;
+}
+
+/* Graha Diagram Styles */
+.graha-diagram-container {
+    margin: 20px 0;
+    text-align: center;
+    background-color: #fafafa;
+    border-radius: 8px;
+    padding: 5px;
+    border: 1px solid #e0e0e0;
+    overflow: hidden;
+    width: 100%;
+    box-sizing: border-box;
+    min-width: 0;
+}
+
+.graha-diagram {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.graha-diagram h4 {
+    margin: 0 0 10px 0;
+    color: #333;
+    font-size: 1.1em;
+}
+
+.graha-diagram svg {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+#peetam-svg-container,
+[id^="peetam-svg-container-"] {
+    min-height: 100px;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    min-width: 0;
+    padding: 0;
+}
+
+#peetam-svg-container svg,
+[id^="peetam-svg-container-"] svg {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+/* Additional SVG fixes for cross-browser compatibility */
+.graha-diagram-container svg,
+#peetam-svg-container svg,
+[id^="peetam-svg-container-"] svg {
+    /* Ensure SVG respects container width */
+    min-width: 0;
+    flex-shrink: 1;
+}
+
+/* Force SVG viewport to be responsive */
+.graha-diagram-container svg[width],
+#peetam-svg-container svg[width],
+[id^="peetam-svg-container-"] svg[width] {
+    width: 100% !important;
+}
+
+.graha-diagram-container svg[height],
+#peetam-svg-container svg[height],
+[id^="peetam-svg-container-"] svg[height] {
+    height: auto !important;
+}
+
+/* Enhanced highlighting styles - thick lines with glow effects */
+.graha-diagram svg .highlight-main circle,
+.graha-diagram svg .highlight-main rect,
+.graha-diagram svg .highlight-main polygon {
+    stroke: #ff5722 !important;
+    stroke-width: 6px !important;
+    filter: drop-shadow(0 0 12px rgba(255, 87, 34, 0.8)) !important;
+    animation: pulseGlow 2s infinite alternate !important;
+}
+
+/* Highlighting for text elements (like L1, L2, etc.) */
+.graha-diagram svg .highlight-main text {
+    fill: #ff5722 !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    filter: drop-shadow(0 0 8px rgba(255, 87, 34, 0.9)) !important;
+    animation: pulseGlow 2s infinite alternate !important;
+}
+
+/* Specific highlighting for Kalasam */
+.graha-diagram svg #k.highlight-main circle {
+    stroke: #ff5722 !important;
+    stroke-width: 8px !important;
+    filter: drop-shadow(0 0 15px rgba(255, 87, 34, 0.9)) !important;
+    animation: pulseGlow 2s infinite alternate !important;
+}
+
+.graha-diagram svg .highlight-deity circle,
+.graha-diagram svg .highlight-deity rect,
+.graha-diagram svg .highlight-deity polygon {
+    stroke: #4caf50 !important;
+    stroke-width: 4px !important;
+    filter: drop-shadow(0 0 8px rgba(76, 175, 80, 0.8)) !important;
+}
+
+/* Make planet names bigger and more prominent when highlighted */
+.graha-diagram svg .highlight-main text.label {
+    font-size: 18px !important;
+    font-weight: bold !important;
+    fill: #ff5722 !important;
+    filter: drop-shadow(0 0 4px rgba(255, 87, 34, 0.8)) !important;
+}
+
+/* Arrow pointing to highlighted element */
+.graha-diagram svg .highlight-main::before {
+    content: "👆";
+    position: absolute;
+    font-size: 24px;
+    animation: bounce 1.5s infinite;
+}
+
+/* Enhanced glow animation */
+@keyframes pulseGlow {
+    0% { 
+        filter: drop-shadow(0 0 12px rgba(255, 87, 34, 0.8));
+        stroke-width: 6px;
+    }
+    100% { 
+        filter: drop-shadow(0 0 20px rgba(255, 87, 34, 1));
+        stroke-width: 8px;
+    }
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-5px);
+    }
+}
+
+/* Special styling for graha elements on hover */
+.graha-diagram g[id^="g"]:hover circle,
+.graha-diagram g[id^="g"]:hover rect,
+.graha-diagram g[id^="g"]:hover polygon,
+.graha-diagram g[id^="g"]:hover path {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.7; }
+    100% { opacity: 1; }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        gap: 10px;
+        padding: 15px;
+    }
+    header h1 {
+        font-size: 1.2em;
+    }
+    main {
+        padding: 10px;
+        margin-top: 10px;
+        max-width: 100%; /* Remove width restriction on mobile */
+    }
+    .step-content {
+        padding: 15px; /* Increased from 15px to accommodate SVG better */
+    }
+    h2 {
+        font-size: 1.5em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    .parivaara-container {
+        flex-direction: column;
+    }
+    .vertical-progress {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 20px;
+    }
+    .vertical-progress .progress-step {
+        border-left: none;
+        border-bottom: 4px solid var(--border-color);
+        padding: 8px;
+        margin-bottom: 0;
+        text-align: center;
+    }
+    .vertical-progress .progress-step.active {
+        border-bottom-color: var(--active-color);
+    }
+    .vertical-progress .progress-step.completed {
+        border-bottom-color: var(--completed-color);
+    }
+    .parts-buttons {
+        flex-direction: column;
+    }
+    
+    .part-button {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .graha-buttons {
+        justify-content: center;
+    }
+    
+    .graha-controls {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .graha-nav-btn {
+        width: 100%;
+    }
+    
+    /* Mobile diagram adjustments */
+    .graha-diagram-container {
+        padding: 3px;
+        margin: 10px 0;
+        width: 100%;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+    
+    .graha-diagram {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+    
+    .graha-diagram svg {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        border: 1px solid #ccc;
+    }
+    
+    #peetam-svg-container,
+    [id^="peetam-svg-container-"] {
+        width: 100%;
+        max-width: 100%;
+        overflow: hidden;
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+    }
+    
+    #peetam-svg-container svg,
+    [id^="peetam-svg-container-"] svg {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        box-sizing: border-box;
+    }
+}

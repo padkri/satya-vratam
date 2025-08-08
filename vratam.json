@@ -246,7 +246,7 @@
     {
       "id": "step10",
       "title": "9. Parivaara Devataa Poojaa",
-      "isInteractive": true,
+      "interactive": true,
       "description": "Worship the Lokapalakas, the guardians of the elements.",
       "parts": [
         {
@@ -755,9 +755,277 @@
           "title": "Part 3: Dikpalakas",
           "subtitle": "Guardians of Directions",
           "description": "Worship the Dikpalakas, the guardians of the ten directions.",
-          "content": [
+          "hasSubNavigation": true,
+          "subItems": [
             {
-              "type": "dikpalaka_table"
+              "id": "indra",
+              "name": "Indra (East)",
+              "direction": "East",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Indra (East)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guardian of the East direction."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ इन्द्रं वो विश्वतस्परिहवामहे जनेभ्यः । अस्माकमस्तु केवलः ॥",
+                  "english": "Om Indram Vo Vishvatasparihaavamahe Janebhyah. Asmaakmastu Kevalah.",
+                  "telugu": "ఓం ఇన్ద్రం వో విశ్వతస్పరిహవామహే జనేభ్యః । అస్మాకమస్తు కేవలః ॥"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ लं इन्द्राय नमः ।",
+                  "english": "Om Lam Indraaya Namaha.",
+                  "telugu": "ఓం లం ఇన్ద్రాయ నమః ।"
+                }
+              ]
+            },
+            {
+              "id": "agni",
+              "name": "Agni (Southeast)",
+              "direction": "Southeast",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Agni (Southeast)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guardian of the Southeast direction."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ अग्निं दूतं वृणीमहे होतारं विश्ववेदसं । अस्य यज्ञस्य सुक्रतुं ॥",
+                  "english": "Om Agnim Dootam Vrneemahe Hotaaram Vishvavedasm. Asya Yajnasya Sukratum.",
+                  "telugu": "ఓం అగ్నిం దూతం వృణీమహే హోతారం విశ్వవేదసం । అస్య యజ్ఞస్య సుక్రతుం ॥"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ रं अग्नये नमः ।",
+                  "english": "Om Ram Agnaye Namaha.",
+                  "telugu": "ఓం రం అగ్నయే నమః ।"
+                }
+              ]
+            },
+            {
+              "id": "yama",
+              "name": "Yama (South)",
+              "direction": "South",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Yama (South)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guardian of the South direction."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ यमाय सोमः सुनुत यमाय जुहुता हविः। यम हयज्ञो गच्छत्यग्निदूतो अरंकृतः ॥",
+                  "english": "Om Yamaaya Somah Sunuta Yamaaya Juhutaa Havih. Yama Hayajno Gacchhatyagnidooto Aramkrtah.",
+                  "telugu": "ఓం యమాయ సోమః సునుత యమాయ జుహుతా హవిః। యమ హయజ్ఞో గచ్ఛత్యగ్నిదూతో అరంకృతః ॥"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ मं यमाय नमः ।",
+                  "english": "Om Mam Yamaaya Namaha.",
+                  "telugu": "ఓం మం యమాయ నమః ।"
+                }
+              ]
+            },
+            {
+              "id": "nirriti",
+              "name": "Nirriti (Southwest)",
+              "direction": "Southwest",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Nirriti (Southwest)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guardian of the Southwest direction."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ मोषुणः परापरा निर्ऋतिर्दुर्हणावधीत् । पदीष्ट तृष्णया सह ॥",
+                  "english": "Om Moshunah Paraaparaa Nirrutirdurhanavadheet. Padeeshta Trshnayaa Saha.",
+                  "telugu": "ఓం మోషుణః పరాపరా నిర్ఋతిర్దుర్హణావధీత్ । పదీష్ట తృష్ణయా సహ ॥"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ क्षं निर्ऋतये नमः ।",
+                  "english": "Om Ksham Nirrutaye Namaha.",
+                  "telugu": "ఓం క్షం నిర్ఋతయే నమః ।"
+                }
+              ]
+            },
+            {
+              "id": "varuna",
+              "name": "Varuna (West)",
+              "direction": "West",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Varuna (West)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guardian of the West direction."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ इमं में वरुण श्रुधी हव मद्या च मृळय । त्वामवस्यूराचके ॥",
+                  "english": "Om Imam Me Varuna Shrudhi Hava Madyaa Cha Mrlaya. Tvaamavastyuraarachake.",
+                  "telugu": "ఓం ఇమం మే వరుణ శ్రుధీ హవ మద్యా చ మృళయ । త్వామవస్యూరాచకే ॥"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ वं वरुणाय नमः ।",
+                  "english": "Om Vam Varunaaya Namaha.",
+                  "telugu": "ఓం వం వరుణాయ నమః ।"
+                }
+              ]
+            },
+            {
+              "id": "vayu",
+              "name": "Vayu (Northwest)",
+              "direction": "Northwest",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Vayu (Northwest)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guardian of the Northwest direction."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ तववाय वृतस्पते त्वष्टुर्जामातरद्भुत । आवां स्या वृणीमहे ॥",
+                  "english": "Om Tavavaaya Vrtaspate Tvashturjaamaataradbhuta. Aavaam Syaa Vrneemahe.",
+                  "telugu": "ఓం తవవాయ వృతస్పతే త్వష్టుర్జామాతరద్భుత । ఆవాం స్యా వృణీమహే ॥"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ यं वायवे नमः ।",
+                  "english": "Om Yam Vaayave Namaha.",
+                  "telugu": "ఓం యం వాయవే నమః ।"
+                }
+              ]
+            },
+            {
+              "id": "kubera",
+              "name": "Soma Kubera (North)",
+              "direction": "North",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Soma Kubera (North)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guardian of the North direction."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ सोमो धेनुं सोमो अर्वंतमाशु सोम वीरं कर्मण्यं ददाति । सादन्यं विदथ्य सभेयं पितृश्रवणं यो ददाशदस्मै ॥",
+                  "english": "Om Somo Dhenum Somo Arvantamaashu Soma Veeram Karmannyam Dadaati. Saadanyam Vidathya Sabheyam Pitrshraavanam Yo Dadaashadasmai.",
+                  "telugu": "ఓం సోమో ధేనుం సోమో అర్వంతమాశు సోమ వీరం కర్మణ్యం దదాతి । సాదన్యం విదథ్య సభేయం పితృశ్రవణం యో దదాశదస్మై ॥"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ सं सोमाय नमः ।",
+                  "english": "Om Sam Somaaya Namaha.",
+                  "telugu": "ఓం సం సోమాయ నమః ।"
+                }
+              ]
+            },
+            {
+              "id": "eeshana",
+              "name": "Eeshana (Northeast)",
+              "direction": "Northeast",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Eeshana (Northeast)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guardian of the Northeast direction."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ तमीशानं जगतस्तस्थुषस्पतिं धियं जिन्वमनसे हूमहे । वयं पूषानो यथा वेदसामसङ्घधे रक्षिता पायुरदब्धस्स्वस्तये ॥",
+                  "english": "Om Tameeshaanam Jagatastasthushaspating Dhiyam Jinvamanase Hoomahe. Vayam Pooshano Yathaa Vedasaamasanghe Rakshitaa Paayuradabdhussvastaye.",
+                  "telugu": "ఓం తమీశానం జగతస్తస్థుషస్పతింగ్ ధియం జిన్వమనసే హూమహే । వయం పూషానో యథా వేదసామసంఘే రక్షితా పాయురదబ్ధస్స్వస్తయే ॥"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ हं ईशानाय नमः।",
+                  "english": "Om Ham Eeshanaaya Namaha.",
+                  "telugu": "ఓం హం ఈశానాయ నమః।"
+                }
+              ]
+            },
+            {
+              "id": "brahma_dikpalaka",
+              "name": "Brahma (Upward)",
+              "direction": "Upward",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Brahma (Upward)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guardian of the Upward direction."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ ब्रह्मा देवानां पदवीः कवीनमृषिर्विप्राणां महिषो मृगाणां श्येनो गृध्राणा स्वदितिर्वनाना सोमः पवित्र मत्येति रेभन् ॥",
+                  "english": "Om Brahmaa Devaanaam Padaveeh Kaveenamrshirvipraanam Mahisho Mrgaanaam Shyeno Grdhraaṇa Svaditirvanaaṇa Somah Pavitra Matyeti Rebhan.",
+                  "telugu": "ఓం బ్రహ్మా దేవానాం పదవీః కవీనమృషిర్విప్రాణాం మహిషో మృగాణాం శ్యేనో గృధ్రాణా స్వదితిర్వనానా సోమః పవిత్ర మత్యేతి రేభన్ ॥"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ आं ब्रह्मणे नमः ।",
+                  "english": "Om Aam Brahmane Namaha.",
+                  "telugu": "ఓం ఆం బ్రహ్మణే నమః ।"
+                }
+              ]
+            },
+            {
+              "id": "ananta_sesha",
+              "name": "Ananta Sesha (Downward)",
+              "direction": "Downward",
+              "content": [
+                {
+                  "type": "h4",
+                  "text": "Ananta Sesha (Downward)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guardian of the Downward direction."
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ तद्विष्णोः परमं पद सदा पश्यन्ति सूरयः । दिवीव चक्षुराततं ॥",
+                  "english": "Om Tadvishnoh Paramam Pada Sadaa Pashyanti Soorayah. Diveeva Chakshuraatatam.",
+                  "telugu": "ఓం తద్విష్ణోః పరమం పద సదా పశ్యంతి సూరయః । దివీవ చక్షురాతతం ॥"
+                },
+                {
+                  "type": "sloka",
+                  "devanagari": "ॐ अं अनंतशेषाय नमः।",
+                  "english": "Om Am Anantasheshaaya Namaha.",
+                  "telugu": "ఓం అం అనంతశేషాయ నమః।"
+                }
+              ]
             }
           ]
         },
