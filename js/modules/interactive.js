@@ -247,7 +247,7 @@ function updateLokapalakaView(partData, container) {
 }
 
 function buildRegularStep(step, stepDiv) {
-    if (['step7', 'step8', 'step9', 'step10', 'step11', 'step12', 'step13', 'step15', 'step17', 'step18', 'step19', 'step20'].includes(step.id)) {
+    if (['step7', 'step8', 'step9', 'step10', 'step11', 'step12', 'step13', 'step16', 'step17', 'step18', 'step19', 'step20'].includes(step.id)) {
         const diagramContainer = document.createElement('div');
         diagramContainer.className = 'graha-diagram-container';
         diagramContainer.innerHTML = createGrahaDiagram(step.id);
@@ -271,7 +271,7 @@ function buildRegularStep(step, stepDiv) {
                     highlightKalasam();
                 }, 500);
             }, `peetam-svg-container-${step.id}`);
-        } else if (step.id === 'step11' || step.id === 'step12' || step.id === 'step12' || step.id === 'step16') {
+        } else if (step.id === 'step11' || step.id === 'step12'||  step.id === 'step13' || step.id === 'step16') {
             loadPeetamSVG(() => {
                 setTimeout(() => {
                     // Highlight Lord Satya Narayana (id: lsn) similar to Ganapathi pattern
