@@ -2,6 +2,9 @@
 
 An interactive single‑page web application that guides a devotee through the Sri Satya Narayana Vratam with multi‑language support (Devanagari, English transliteration, Telugu), dynamic ritual tables, and interactive deity / graha navigation.
 
+## Source 
+The original source of this site is the [vratam manual](https://vedicastrologer.org/satya/pdf/satya_san.pdf) from [Sri PVR Narasimha Rao's website](https://vedicastrologer.org/satya/index.htm).
+
 ## Project Structure
 ```
 satya-narayana-vratam/
